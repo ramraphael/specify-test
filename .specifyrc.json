@@ -11,6 +11,7 @@
           "name": "to-theme-ui",
           "options": {
             "variants": true,
+            "formatName": "kebabCase",
             "formatTokens": {
               "fontSizeFormat": {
                 "type": "string",
