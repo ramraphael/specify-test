@@ -8,9 +8,6 @@
       "path": "specify_output/all-tokens.json",
       "parsers": [
         {
-          "name": "px-to-rem"
-        },
-        {
           "name": "filter",
           "options": {
             "key": "name",
@@ -34,6 +31,9 @@
               }
             }
           }
+        },
+        {
+          "name": "px-to-rem"
         }
       ]
     }
