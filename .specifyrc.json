@@ -8,6 +8,12 @@
       "path": "specify_output/all-tokens.json",
       "parsers": [
         {
+          "name": "px-to-rem",
+          "options": {
+            "keys": ["fontSizes"]
+          }
+        },
+        {
           "name": "filter",
           "options": {
             "key": "name",
@@ -23,17 +29,8 @@
             "formatConfig": {
               "exportDefault": true
             },
-            "formatName": "kebabCase",
-            "formatTokens": {
-              "fontSizeFormat": {
-                "type": "string",
-                "unit": "rem"
-              }
-            }
+            "formatName": "kebabCase"
           }
-        },
-        {
-          "name": "px-to-rem"
         }
       ]
     }
