@@ -7,7 +7,15 @@
       "name": "Extract all tokens to JSON",
       "path": "specify_output/all-tokens.json",
       "parsers": [
-        
+        {
+          "name": "filter",
+          "options": {
+            "key": "name",
+            "regex": {
+              "pattern": "^(?!reference/color).*$"
+            }
+          }
+        }
       ]
     }
   ]
