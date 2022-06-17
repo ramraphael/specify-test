@@ -8,6 +8,9 @@
       "path": "specify_output/all-tokens.json",
       "parsers": [
         {
+          "name": "link-design-tokens"
+        },
+        {
           "name": "to-theme-ui",
           "options": {
             "variants": true,
