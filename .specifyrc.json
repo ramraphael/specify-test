@@ -10,10 +10,8 @@
         {
           "name": "to-theme-ui",
           "options": {
+            "variants": true,
             "formatTokens": {
-              "colorFormat": {
-                "format": "hex"
-              },
               "fontSizeFormat": {
                 "type": "string",
                 "unit": "rem"
