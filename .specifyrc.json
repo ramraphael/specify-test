@@ -8,7 +8,18 @@
       "path": "specify_output/all-tokens.json",
       "parsers": [
         {
-          "name": "to-style-dictionary"
+          "name": "to-theme-ui",
+          "options": {
+            "formatTokens": {
+              "colorFormat": {
+                "format": "hex"
+              },
+              "fontSizeFormat": {
+                "type": "string",
+                "unit": "rem"
+              }
+            }
+          }
         }
       ]
     }
