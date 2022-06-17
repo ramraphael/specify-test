@@ -15,6 +15,22 @@
               "pattern": "^(?!reference/color).*$"
             }
           }
+        },
+        {
+          "name": "to-theme-ui",
+          "options": {
+            "variants": true,
+            "formatConfig": {
+              "exportDefault": true
+            },
+            "formatName": "kebabCase",
+            "formatTokens": {
+              "fontSizeFormat": {
+                "type": "string",
+                "unit": "rem"
+              }
+            }
+          }
         }
       ]
     }
