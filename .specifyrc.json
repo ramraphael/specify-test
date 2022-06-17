@@ -4,15 +4,6 @@
   "base": "main",
   "rules": [
     {
-      "name": "filter",
-      "options": {
-        "key": "name",
-        "regex": {
-          "pattern": "referenceColor*"
-        }
-      }
-    },
-    {
       "name": "Extract all tokens to JSON",
       "path": "specify_output/all-tokens.json",
       "parsers": [
@@ -23,9 +14,6 @@
           "name": "to-theme-ui",
           "options": {
             "variants": true,
-            "formatConfig": {
-              "exportDefault": true
-            },
             "formatName": "kebabCase",
             "formatTokens": {
               "fontSizeFormat": {
