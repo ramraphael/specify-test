@@ -1,0 +1,2271 @@
+[
+    {
+        "id": "dbaa8e2a-3770-4e0c-9334-029fb525148f",
+        "createdAt": "2022-06-15T17:09:11.905Z",
+        "updatedAt": "2022-06-15T17:09:11.905Z",
+        "name": "button/extrasmall",
+        "value": {
+            "font": {
+                "id": "aaa366a6-9dc6-4d16-81e6-bf3b4471136e",
+                "createdAt": "2022-06-15T17:09:11.876Z",
+                "updatedAt": "2022-06-17T17:00:58.854Z",
+                "name": "Inter-SemiBold",
+                "value": {
+                    "format": "ttf",
+                    "isItalic": false,
+                    "provider": "Google Fonts",
+                    "fontFamily": "Inter",
+                    "fontWeight": 600,
+                    "fontFileMissing": false,
+                    "fontPostScriptName": "Inter-SemiBold",
+                    "url": "https://ddp-assets-prod.s3.eu-west-1.amazonaws.com/4484f468-4d15-41ab-a412-5b85b476b69a/font/Inter-SemiBold/Inter-SemiBold.ttf?AWSAccessKeyId=ASIAYLKZPEWOM3SFEWX4&Expires=1655489509&Signature=qLPIx7CQB8%2F7m3rAMXvwCKmsyok%3D&x-amz-security-token=IQoJb3JpZ2luX2VjENH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCWV1LXdlc3QtMSJGMEQCIEf4Qnu14RhrL7hzTtd%2FS4nvlVf89zWoMAlrCsZk47iOAiBo09Yhk36EG5X2G%2Bh6rXr0F9ivAn4wSr%2BQxwr0K2kwOCr4Awja%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAMaDDU3NDEwMjY0NDEyNCIMZUIDuC%2FRukOJ83vjKswD39%2BdV6003aRFdILGDrX%2FKLvKMEpAdc6d0%2FVxi4THPqSdJE3Bz1YW7cuVpBC1%2BC07%2FhuaMQigmwYaT8nYzCsIaWtt09y4VEsjEaWCy0FRH9JIKqpIbkRIcvIJjF9E%2F3M6W7tJ%2FqRcowl4O4czxxDui%2BrF8nWMmh54gd87hP%2F%2BWiBCkwoanFUJ%2BOipcjUnaSdW%2FHPS1plb%2FgbMBtfMbtMpR%2BpjlxKqUaouqkyqYj7pd2d1yhU34vGpvOVEvU9Qi6HAoor1MuyHqhqe%2BuAw8lSrT%2Fh2ZiuieTRvWB3cJiDARS76ATsBTdHc8IrblFyiSoiWZPICOkj87XVPFIAaPAsSNTJ5g5ZTfO8GidvsllN820b%2FpgV%2B8YQNIeUcJjvIbWD%2FYMhJ521k0vIBLRbk3w%2BkctrD9lidkYZlxgfviTL4PBI7AQhQkQsbjhuvy8iw0MUu0VXgnLeJ4IbRzy7%2BpCw7l1neIHYg%2F1Rp7cXB3v4wHue8AwQu7gtHq%2F6VctrYkhIL4%2BWowWRpiLf%2Bae7488SFQcHhsBnY8w9BBfWiI%2FKIFCVFmW1W4HmpHhkOfkOLc3ZgX13YhzGPIgMVpRl6xjIoGHziwT5HlVicMXKRcjCa3LKVBjqmAVzgceUda69KOMUAj1iP2af9KCO3A7j2jMC%2FuMeRgWuqL7qTukei6RXttCgQCQMo3MGeVSW8PYAMkC542qel3w8q1MWO%2FIJKhcjAW1Ze0lzkTjw4mDvHPqfoZtCU0R7hFQiLshKscmD%2F6Ukr0iYgUdV1y4AXRuEmdkYqXOrHt1a5MDpcfJiVjXW80t%2Btv%2FNI0y9cGSQDdKloxTne9zvt6eJXvgeSUMA%3D"
+                },
+                "meta": {
+                    "source": "localStyles"
+                },
+                "type": "font",
+                "originId": "Inter-SemiBold",
+                "sourceId": "f64d14f9-3344-4c96-ab0d-044fb13ec943",
+                "repositoryId": "4484f468-4d15-41ab-a412-5b85b476b69a"
+            },
+            "fontSize": {
+                "value": {
+                    "unit": "px",
+                    "measure": 12
+                }
+            },
+            "textAlign": {
+                "vertical": "top",
+                "horizontal": "left"
+            },
+            "lineHeight": {
+                "value": {
+                    "unit": "px",
+                    "measure": 12
+                }
+            }
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "textStyle",
+        "originId": "6:1300",
+        "sourceId": "f64d14f9-3344-4c96-ab0d-044fb13ec943",
+        "repositoryId": "4484f468-4d15-41ab-a412-5b85b476b69a"
+    },
+    {
+        "id": "cdd1c501-32da-4603-bf64-3bc387156a9d",
+        "createdAt": "2022-06-15T17:09:11.903Z",
+        "updatedAt": "2022-06-15T17:09:11.903Z",
+        "name": "button/large",
+        "value": {
+            "font": {
+                "id": "aaa366a6-9dc6-4d16-81e6-bf3b4471136e",
+                "createdAt": "2022-06-15T17:09:11.876Z",
+                "updatedAt": "2022-06-17T17:00:58.854Z",
+                "name": "Inter-SemiBold",
+                "value": {
+                    "format": "ttf",
+                    "isItalic": false,
+                    "provider": "Google Fonts",
+                    "fontFamily": "Inter",
+                    "fontWeight": 600,
+                    "fontFileMissing": false,
+                    "fontPostScriptName": "Inter-SemiBold",
+                    "url": "https://ddp-assets-prod.s3.eu-west-1.amazonaws.com/4484f468-4d15-41ab-a412-5b85b476b69a/font/Inter-SemiBold/Inter-SemiBold.ttf?AWSAccessKeyId=ASIAYLKZPEWOM3SFEWX4&Expires=1655489509&Signature=qLPIx7CQB8%2F7m3rAMXvwCKmsyok%3D&x-amz-security-token=IQoJb3JpZ2luX2VjENH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCWV1LXdlc3QtMSJGMEQCIEf4Qnu14RhrL7hzTtd%2FS4nvlVf89zWoMAlrCsZk47iOAiBo09Yhk36EG5X2G%2Bh6rXr0F9ivAn4wSr%2BQxwr0K2kwOCr4Awja%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAMaDDU3NDEwMjY0NDEyNCIMZUIDuC%2FRukOJ83vjKswD39%2BdV6003aRFdILGDrX%2FKLvKMEpAdc6d0%2FVxi4THPqSdJE3Bz1YW7cuVpBC1%2BC07%2FhuaMQigmwYaT8nYzCsIaWtt09y4VEsjEaWCy0FRH9JIKqpIbkRIcvIJjF9E%2F3M6W7tJ%2FqRcowl4O4czxxDui%2BrF8nWMmh54gd87hP%2F%2BWiBCkwoanFUJ%2BOipcjUnaSdW%2FHPS1plb%2FgbMBtfMbtMpR%2BpjlxKqUaouqkyqYj7pd2d1yhU34vGpvOVEvU9Qi6HAoor1MuyHqhqe%2BuAw8lSrT%2Fh2ZiuieTRvWB3cJiDARS76ATsBTdHc8IrblFyiSoiWZPICOkj87XVPFIAaPAsSNTJ5g5ZTfO8GidvsllN820b%2FpgV%2B8YQNIeUcJjvIbWD%2FYMhJ521k0vIBLRbk3w%2BkctrD9lidkYZlxgfviTL4PBI7AQhQkQsbjhuvy8iw0MUu0VXgnLeJ4IbRzy7%2BpCw7l1neIHYg%2F1Rp7cXB3v4wHue8AwQu7gtHq%2F6VctrYkhIL4%2BWowWRpiLf%2Bae7488SFQcHhsBnY8w9BBfWiI%2FKIFCVFmW1W4HmpHhkOfkOLc3ZgX13YhzGPIgMVpRl6xjIoGHziwT5HlVicMXKRcjCa3LKVBjqmAVzgceUda69KOMUAj1iP2af9KCO3A7j2jMC%2FuMeRgWuqL7qTukei6RXttCgQCQMo3MGeVSW8PYAMkC542qel3w8q1MWO%2FIJKhcjAW1Ze0lzkTjw4mDvHPqfoZtCU0R7hFQiLshKscmD%2F6Ukr0iYgUdV1y4AXRuEmdkYqXOrHt1a5MDpcfJiVjXW80t%2Btv%2FNI0y9cGSQDdKloxTne9zvt6eJXvgeSUMA%3D"
+                },
+                "meta": {
+                    "source": "localStyles"
+                },
+                "type": "font",
+                "originId": "Inter-SemiBold",
+                "sourceId": "f64d14f9-3344-4c96-ab0d-044fb13ec943",
+                "repositoryId": "4484f468-4d15-41ab-a412-5b85b476b69a"
+            },
+            "fontSize": {
+                "value": {
+                    "unit": "px",
+                    "measure": 18
+                }
+            },
+            "textAlign": {
+                "vertical": "top",
+                "horizontal": "left"
+            },
+            "lineHeight": {
+                "value": {
+                    "unit": "px",
+                    "measure": 18
+                }
+            }
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "textStyle",
+        "originId": "6:1297",
+        "sourceId": "f64d14f9-3344-4c96-ab0d-044fb13ec943",
+        "repositoryId": "4484f468-4d15-41ab-a412-5b85b476b69a"
+    },
+    {
+        "id": "a0a32bf8-0459-490d-8681-1337ef27073b",
+        "createdAt": "2022-06-15T17:09:11.884Z",
+        "updatedAt": "2022-06-15T17:09:11.884Z",
+        "name": "button/medium",
+        "value": {
+            "font": {
+                "id": "aaa366a6-9dc6-4d16-81e6-bf3b4471136e",
+                "createdAt": "2022-06-15T17:09:11.876Z",
+                "updatedAt": "2022-06-17T17:00:58.854Z",
+                "name": "Inter-SemiBold",
+                "value": {
+                    "format": "ttf",
+                    "isItalic": false,
+                    "provider": "Google Fonts",
+                    "fontFamily": "Inter",
+                    "fontWeight": 600,
+                    "fontFileMissing": false,
+                    "fontPostScriptName": "Inter-SemiBold",
+                    "url": "https://ddp-assets-prod.s3.eu-west-1.amazonaws.com/4484f468-4d15-41ab-a412-5b85b476b69a/font/Inter-SemiBold/Inter-SemiBold.ttf?AWSAccessKeyId=ASIAYLKZPEWOM3SFEWX4&Expires=1655489509&Signature=qLPIx7CQB8%2F7m3rAMXvwCKmsyok%3D&x-amz-security-token=IQoJb3JpZ2luX2VjENH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCWV1LXdlc3QtMSJGMEQCIEf4Qnu14RhrL7hzTtd%2FS4nvlVf89zWoMAlrCsZk47iOAiBo09Yhk36EG5X2G%2Bh6rXr0F9ivAn4wSr%2BQxwr0K2kwOCr4Awja%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAMaDDU3NDEwMjY0NDEyNCIMZUIDuC%2FRukOJ83vjKswD39%2BdV6003aRFdILGDrX%2FKLvKMEpAdc6d0%2FVxi4THPqSdJE3Bz1YW7cuVpBC1%2BC07%2FhuaMQigmwYaT8nYzCsIaWtt09y4VEsjEaWCy0FRH9JIKqpIbkRIcvIJjF9E%2F3M6W7tJ%2FqRcowl4O4czxxDui%2BrF8nWMmh54gd87hP%2F%2BWiBCkwoanFUJ%2BOipcjUnaSdW%2FHPS1plb%2FgbMBtfMbtMpR%2BpjlxKqUaouqkyqYj7pd2d1yhU34vGpvOVEvU9Qi6HAoor1MuyHqhqe%2BuAw8lSrT%2Fh2ZiuieTRvWB3cJiDARS76ATsBTdHc8IrblFyiSoiWZPICOkj87XVPFIAaPAsSNTJ5g5ZTfO8GidvsllN820b%2FpgV%2B8YQNIeUcJjvIbWD%2FYMhJ521k0vIBLRbk3w%2BkctrD9lidkYZlxgfviTL4PBI7AQhQkQsbjhuvy8iw0MUu0VXgnLeJ4IbRzy7%2BpCw7l1neIHYg%2F1Rp7cXB3v4wHue8AwQu7gtHq%2F6VctrYkhIL4%2BWowWRpiLf%2Bae7488SFQcHhsBnY8w9BBfWiI%2FKIFCVFmW1W4HmpHhkOfkOLc3ZgX13YhzGPIgMVpRl6xjIoGHziwT5HlVicMXKRcjCa3LKVBjqmAVzgceUda69KOMUAj1iP2af9KCO3A7j2jMC%2FuMeRgWuqL7qTukei6RXttCgQCQMo3MGeVSW8PYAMkC542qel3w8q1MWO%2FIJKhcjAW1Ze0lzkTjw4mDvHPqfoZtCU0R7hFQiLshKscmD%2F6Ukr0iYgUdV1y4AXRuEmdkYqXOrHt1a5MDpcfJiVjXW80t%2Btv%2FNI0y9cGSQDdKloxTne9zvt6eJXvgeSUMA%3D"
+                },
+                "meta": {
+                    "source": "localStyles"
+                },
+                "type": "font",
+                "originId": "Inter-SemiBold",
+                "sourceId": "f64d14f9-3344-4c96-ab0d-044fb13ec943",
+                "repositoryId": "4484f468-4d15-41ab-a412-5b85b476b69a"
+            },
+            "fontSize": {
+                "value": {
+                    "unit": "px",
+                    "measure": 16
+                }
+            },
+            "textAlign": {
+                "vertical": "top",
+                "horizontal": "left"
+            },
+            "lineHeight": {
+                "value": {
+                    "unit": "px",
+                    "measure": 16
+                }
+            }
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "textStyle",
+        "originId": "6:1298",
+        "sourceId": "f64d14f9-3344-4c96-ab0d-044fb13ec943",
+        "repositoryId": "4484f468-4d15-41ab-a412-5b85b476b69a"
+    },
+    {
+        "id": "229948c3-1ed8-4f08-8127-a8718afaf4c2",
+        "createdAt": "2022-06-15T17:09:11.916Z",
+        "updatedAt": "2022-06-15T17:09:11.916Z",
+        "name": "button/small",
+        "value": {
+            "font": {
+                "id": "aaa366a6-9dc6-4d16-81e6-bf3b4471136e",
+                "createdAt": "2022-06-15T17:09:11.876Z",
+                "updatedAt": "2022-06-17T17:00:58.854Z",
+                "name": "Inter-SemiBold",
+                "value": {
+                    "format": "ttf",
+                    "isItalic": false,
+                    "provider": "Google Fonts",
+                    "fontFamily": "Inter",
+                    "fontWeight": 600,
+                    "fontFileMissing": false,
+                    "fontPostScriptName": "Inter-SemiBold",
+                    "url": "https://ddp-assets-prod.s3.eu-west-1.amazonaws.com/4484f468-4d15-41ab-a412-5b85b476b69a/font/Inter-SemiBold/Inter-SemiBold.ttf?AWSAccessKeyId=ASIAYLKZPEWOM3SFEWX4&Expires=1655489509&Signature=qLPIx7CQB8%2F7m3rAMXvwCKmsyok%3D&x-amz-security-token=IQoJb3JpZ2luX2VjENH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCWV1LXdlc3QtMSJGMEQCIEf4Qnu14RhrL7hzTtd%2FS4nvlVf89zWoMAlrCsZk47iOAiBo09Yhk36EG5X2G%2Bh6rXr0F9ivAn4wSr%2BQxwr0K2kwOCr4Awja%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAMaDDU3NDEwMjY0NDEyNCIMZUIDuC%2FRukOJ83vjKswD39%2BdV6003aRFdILGDrX%2FKLvKMEpAdc6d0%2FVxi4THPqSdJE3Bz1YW7cuVpBC1%2BC07%2FhuaMQigmwYaT8nYzCsIaWtt09y4VEsjEaWCy0FRH9JIKqpIbkRIcvIJjF9E%2F3M6W7tJ%2FqRcowl4O4czxxDui%2BrF8nWMmh54gd87hP%2F%2BWiBCkwoanFUJ%2BOipcjUnaSdW%2FHPS1plb%2FgbMBtfMbtMpR%2BpjlxKqUaouqkyqYj7pd2d1yhU34vGpvOVEvU9Qi6HAoor1MuyHqhqe%2BuAw8lSrT%2Fh2ZiuieTRvWB3cJiDARS76ATsBTdHc8IrblFyiSoiWZPICOkj87XVPFIAaPAsSNTJ5g5ZTfO8GidvsllN820b%2FpgV%2B8YQNIeUcJjvIbWD%2FYMhJ521k0vIBLRbk3w%2BkctrD9lidkYZlxgfviTL4PBI7AQhQkQsbjhuvy8iw0MUu0VXgnLeJ4IbRzy7%2BpCw7l1neIHYg%2F1Rp7cXB3v4wHue8AwQu7gtHq%2F6VctrYkhIL4%2BWowWRpiLf%2Bae7488SFQcHhsBnY8w9BBfWiI%2FKIFCVFmW1W4HmpHhkOfkOLc3ZgX13YhzGPIgMVpRl6xjIoGHziwT5HlVicMXKRcjCa3LKVBjqmAVzgceUda69KOMUAj1iP2af9KCO3A7j2jMC%2FuMeRgWuqL7qTukei6RXttCgQCQMo3MGeVSW8PYAMkC542qel3w8q1MWO%2FIJKhcjAW1Ze0lzkTjw4mDvHPqfoZtCU0R7hFQiLshKscmD%2F6Ukr0iYgUdV1y4AXRuEmdkYqXOrHt1a5MDpcfJiVjXW80t%2Btv%2FNI0y9cGSQDdKloxTne9zvt6eJXvgeSUMA%3D"
+                },
+                "meta": {
+                    "source": "localStyles"
+                },
+                "type": "font",
+                "originId": "Inter-SemiBold",
+                "sourceId": "f64d14f9-3344-4c96-ab0d-044fb13ec943",
+                "repositoryId": "4484f468-4d15-41ab-a412-5b85b476b69a"
+            },
+            "fontSize": {
+                "value": {
+                    "unit": "px",
+                    "measure": 14
+                }
+            },
+            "textAlign": {
+                "vertical": "top",
+                "horizontal": "left"
+            },
+            "lineHeight": {
+                "value": {
+                    "unit": "px",
+                    "measure": 14
+                }
+            }
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "textStyle",
+        "originId": "6:1299",
+        "sourceId": "f64d14f9-3344-4c96-ab0d-044fb13ec943",
+        "repositoryId": "4484f468-4d15-41ab-a412-5b85b476b69a"
+    },
+    {
+        "id": "0b642083-d69b-4505-a773-45775ec311cb",
+        "createdAt": "2022-06-15T17:09:11.896Z",
+        "updatedAt": "2022-06-15T17:09:11.896Z",
+        "name": "button/text-link",
+        "value": {
+            "font": {
+                "id": "9da790b5-235b-42ce-ac1f-e1e42a015d53",
+                "createdAt": "2022-06-15T17:09:11.884Z",
+                "updatedAt": "2022-06-17T17:00:58.864Z",
+                "name": "IBMPlexMono-SemiBold",
+                "value": {
+                    "format": "ttf",
+                    "isItalic": false,
+                    "provider": "Custom font",
+                    "fontFamily": "IBM Plex Mono",
+                    "fontWeight": 600,
+                    "fontFileMissing": false,
+                    "fontPostScriptName": "IBMPlexMono-SemiBold",
+                    "url": "https://ddp-assets-prod.s3.eu-west-1.amazonaws.com/4484f468-4d15-41ab-a412-5b85b476b69a/font/IBMPlexMono-SemiBold/IBMPlexMono-SemiBold.ttf?AWSAccessKeyId=ASIAYLKZPEWOM3SFEWX4&Expires=1655489509&Signature=1CiHIf01G8BqnZE71T4%2F6sldsuE%3D&x-amz-security-token=IQoJb3JpZ2luX2VjENH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCWV1LXdlc3QtMSJGMEQCIEf4Qnu14RhrL7hzTtd%2FS4nvlVf89zWoMAlrCsZk47iOAiBo09Yhk36EG5X2G%2Bh6rXr0F9ivAn4wSr%2BQxwr0K2kwOCr4Awja%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAMaDDU3NDEwMjY0NDEyNCIMZUIDuC%2FRukOJ83vjKswD39%2BdV6003aRFdILGDrX%2FKLvKMEpAdc6d0%2FVxi4THPqSdJE3Bz1YW7cuVpBC1%2BC07%2FhuaMQigmwYaT8nYzCsIaWtt09y4VEsjEaWCy0FRH9JIKqpIbkRIcvIJjF9E%2F3M6W7tJ%2FqRcowl4O4czxxDui%2BrF8nWMmh54gd87hP%2F%2BWiBCkwoanFUJ%2BOipcjUnaSdW%2FHPS1plb%2FgbMBtfMbtMpR%2BpjlxKqUaouqkyqYj7pd2d1yhU34vGpvOVEvU9Qi6HAoor1MuyHqhqe%2BuAw8lSrT%2Fh2ZiuieTRvWB3cJiDARS76ATsBTdHc8IrblFyiSoiWZPICOkj87XVPFIAaPAsSNTJ5g5ZTfO8GidvsllN820b%2FpgV%2B8YQNIeUcJjvIbWD%2FYMhJ521k0vIBLRbk3w%2BkctrD9lidkYZlxgfviTL4PBI7AQhQkQsbjhuvy8iw0MUu0VXgnLeJ4IbRzy7%2BpCw7l1neIHYg%2F1Rp7cXB3v4wHue8AwQu7gtHq%2F6VctrYkhIL4%2BWowWRpiLf%2Bae7488SFQcHhsBnY8w9BBfWiI%2FKIFCVFmW1W4HmpHhkOfkOLc3ZgX13YhzGPIgMVpRl6xjIoGHziwT5HlVicMXKRcjCa3LKVBjqmAVzgceUda69KOMUAj1iP2af9KCO3A7j2jMC%2FuMeRgWuqL7qTukei6RXttCgQCQMo3MGeVSW8PYAMkC542qel3w8q1MWO%2FIJKhcjAW1Ze0lzkTjw4mDvHPqfoZtCU0R7hFQiLshKscmD%2F6Ukr0iYgUdV1y4AXRuEmdkYqXOrHt1a5MDpcfJiVjXW80t%2Btv%2FNI0y9cGSQDdKloxTne9zvt6eJXvgeSUMA%3D"
+                },
+                "meta": {
+                    "source": "localStyles"
+                },
+                "type": "font",
+                "originId": "IBMPlexMono-SemiBold",
+                "sourceId": "f64d14f9-3344-4c96-ab0d-044fb13ec943",
+                "repositoryId": "4484f468-4d15-41ab-a412-5b85b476b69a"
+            },
+            "fontSize": {
+                "value": {
+                    "unit": "px",
+                    "measure": 16
+                }
+            },
+            "textAlign": {
+                "vertical": "top",
+                "horizontal": "left"
+            },
+            "lineHeight": {
+                "value": {
+                    "unit": "px",
+                    "measure": 16
+                }
+            },
+            "letterSpacing": {
+                "value": {
+                    "unit": "px",
+                    "measure": 1.6
+                }
+            },
+            "textTransform": "uppercase",
+            "textDecoration": [
+                "underline"
+            ]
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "textStyle",
+        "originId": "57:1737",
+        "sourceId": "f64d14f9-3344-4c96-ab0d-044fb13ec943",
+        "repositoryId": "4484f468-4d15-41ab-a412-5b85b476b69a"
+    },
+    {
+        "id": "f467db1e-bf5f-41d7-8cbb-9289445ba005",
+        "createdAt": "2022-06-15T16:42:06.534Z",
+        "updatedAt": "2022-06-15T16:42:06.534Z",
+        "name": "color-background-brand-secondary",
+        "value": {
+            "a": 1,
+            "b": 62,
+            "g": 62,
+            "r": 229
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "2:534",
+        "sourceId": "b9befe4c-c940-48b1-bd53-e4ebb079847f",
+        "repositoryId": "4484f468-4d15-41ab-a412-5b85b476b69a"
+    },
+    {
+        "id": "2580b226-7237-4a6e-807c-4975bd2fa660",
+        "createdAt": "2022-06-15T16:42:06.552Z",
+        "updatedAt": "2022-06-15T16:42:06.552Z",
+        "name": "color-background-brand-secondary-stroke",
+        "value": {
+            "a": 1,
+            "b": 192,
+            "g": 174,
+            "r": 160
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "2:535",
+        "sourceId": "b9befe4c-c940-48b1-bd53-e4ebb079847f",
+        "repositoryId": "4484f468-4d15-41ab-a412-5b85b476b69a"
+    },
+    {
+        "id": "66ab1494-6512-4778-b68b-8be5640fef75",
+        "createdAt": "2022-06-15T16:42:06.551Z",
+        "updatedAt": "2022-06-15T16:42:06.551Z",
+        "name": "color-background-footer-accent",
+        "value": {
+            "a": 1,
+            "b": 149,
+            "g": 151,
+            "r": 49
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "2:527",
+        "sourceId": "b9befe4c-c940-48b1-bd53-e4ebb079847f",
+        "repositoryId": "4484f468-4d15-41ab-a412-5b85b476b69a"
+    },
+    {
+        "id": "f7e11d5d-e8e4-4d7d-bc8c-a85a75c22b81",
+        "createdAt": "2022-06-15T16:42:06.548Z",
+        "updatedAt": "2022-06-15T16:42:06.548Z",
+        "name": "color-background-footer-accent-stroke",
+        "value": {
+            "a": 1,
+            "b": 104,
+            "g": 85,
+            "r": 74
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "2:528",
+        "sourceId": "b9befe4c-c940-48b1-bd53-e4ebb079847f",
+        "repositoryId": "4484f468-4d15-41ab-a412-5b85b476b69a"
+    },
+    {
+        "id": "1bbdbf65-4d80-4693-b55a-401c761b1e4b",
+        "createdAt": "2022-06-15T16:42:06.546Z",
+        "updatedAt": "2022-06-15T16:42:06.546Z",
+        "name": "color-background-navigation",
+        "value": {
+            "a": 1,
+            "b": 72,
+            "g": 55,
+            "r": 45
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "2:531",
+        "sourceId": "b9befe4c-c940-48b1-bd53-e4ebb079847f",
+        "repositoryId": "4484f468-4d15-41ab-a412-5b85b476b69a"
+    },
+    {
+        "id": "27676404-356f-49ec-86bb-bad355942b1a",
+        "createdAt": "2022-06-15T16:42:06.546Z",
+        "updatedAt": "2022-06-15T16:42:06.546Z",
+        "name": "color-background-navigation-stroke",
+        "value": {
+            "a": 1,
+            "b": 104,
+            "g": 85,
+            "r": 74
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "2:532",
+        "sourceId": "b9befe4c-c940-48b1-bd53-e4ebb079847f",
+        "repositoryId": "4484f468-4d15-41ab-a412-5b85b476b69a"
+    },
+    {
+        "id": "69dde2ec-399f-4b8a-a725-f865c8b46cea",
+        "createdAt": "2022-06-15T17:09:11.904Z",
+        "updatedAt": "2022-06-15T17:09:11.904Z",
+        "name": "description/extralarge/bold",
+        "value": {
+            "font": {
+                "id": "d4746a73-2ae4-454d-8750-c99dc6311a86",
+                "createdAt": "2022-06-15T17:09:11.884Z",
+                "updatedAt": "2022-06-17T17:00:58.864Z",
+                "name": "Inter-Bold",
+                "value": {
+                    "format": "ttf",
+                    "isItalic": false,
+                    "provider": "Google Fonts",
+                    "fontFamily": "Inter",
+                    "fontWeight": 700,
+                    "fontFileMissing": false,
+                    "fontPostScriptName": "Inter-Bold",
+                    "url": "https://ddp-assets-prod.s3.eu-west-1.amazonaws.com/4484f468-4d15-41ab-a412-5b85b476b69a/font/Inter-Bold/Inter-Bold.ttf?AWSAccessKeyId=ASIAYLKZPEWOM3SFEWX4&Expires=1655489509&Signature=JE3FM2xwXiRl2jRiCG51vraYa70%3D&x-amz-security-token=IQoJb3JpZ2luX2VjENH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCWV1LXdlc3QtMSJGMEQCIEf4Qnu14RhrL7hzTtd%2FS4nvlVf89zWoMAlrCsZk47iOAiBo09Yhk36EG5X2G%2Bh6rXr0F9ivAn4wSr%2BQxwr0K2kwOCr4Awja%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAMaDDU3NDEwMjY0NDEyNCIMZUIDuC%2FRukOJ83vjKswD39%2BdV6003aRFdILGDrX%2FKLvKMEpAdc6d0%2FVxi4THPqSdJE3Bz1YW7cuVpBC1%2BC07%2FhuaMQigmwYaT8nYzCsIaWtt09y4VEsjEaWCy0FRH9JIKqpIbkRIcvIJjF9E%2F3M6W7tJ%2FqRcowl4O4czxxDui%2BrF8nWMmh54gd87hP%2F%2BWiBCkwoanFUJ%2BOipcjUnaSdW%2FHPS1plb%2FgbMBtfMbtMpR%2BpjlxKqUaouqkyqYj7pd2d1yhU34vGpvOVEvU9Qi6HAoor1MuyHqhqe%2BuAw8lSrT%2Fh2ZiuieTRvWB3cJiDARS76ATsBTdHc8IrblFyiSoiWZPICOkj87XVPFIAaPAsSNTJ5g5ZTfO8GidvsllN820b%2FpgV%2B8YQNIeUcJjvIbWD%2FYMhJ521k0vIBLRbk3w%2BkctrD9lidkYZlxgfviTL4PBI7AQhQkQsbjhuvy8iw0MUu0VXgnLeJ4IbRzy7%2BpCw7l1neIHYg%2F1Rp7cXB3v4wHue8AwQu7gtHq%2F6VctrYkhIL4%2BWowWRpiLf%2Bae7488SFQcHhsBnY8w9BBfWiI%2FKIFCVFmW1W4HmpHhkOfkOLc3ZgX13YhzGPIgMVpRl6xjIoGHziwT5HlVicMXKRcjCa3LKVBjqmAVzgceUda69KOMUAj1iP2af9KCO3A7j2jMC%2FuMeRgWuqL7qTukei6RXttCgQCQMo3MGeVSW8PYAMkC542qel3w8q1MWO%2FIJKhcjAW1Ze0lzkTjw4mDvHPqfoZtCU0R7hFQiLshKscmD%2F6Ukr0iYgUdV1y4AXRuEmdkYqXOrHt1a5MDpcfJiVjXW80t%2Btv%2FNI0y9cGSQDdKloxTne9zvt6eJXvgeSUMA%3D"
+                },
+                "meta": {
+                    "source": "localStyles"
+                },
+                "type": "font",
+                "originId": "Inter-Bold",
+                "sourceId": "f64d14f9-3344-4c96-ab0d-044fb13ec943",
+                "repositoryId": "4484f468-4d15-41ab-a412-5b85b476b69a"
+            },
+            "fontSize": {
+                "value": {
+                    "unit": "px",
+                    "measure": 20
+                }
+            },
+            "textAlign": {
+                "vertical": "top",
+                "horizontal": "left"
+            },
+            "lineHeight": {
+                "value": {
+                    "unit": "px",
+                    "measure": 30
+                }
+            }
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "textStyle",
+        "originId": "6:1307",
+        "sourceId": "f64d14f9-3344-4c96-ab0d-044fb13ec943",
+        "repositoryId": "4484f468-4d15-41ab-a412-5b85b476b69a"
+    },
+    {
+        "id": "a3613c48-0224-48cf-9410-8445b4726fdc",
+        "createdAt": "2022-06-15T17:09:11.884Z",
+        "updatedAt": "2022-06-15T17:09:11.884Z",
+        "name": "description/extralarge/normal",
+        "value": {
+            "font": {
+                "id": "9c694c4b-16e5-45b2-be73-91a5f4af8cca",
+                "createdAt": "2022-06-15T17:09:11.893Z",
+                "updatedAt": "2022-06-17T17:00:58.854Z",
+                "name": "Inter-Regular",
+                "value": {
+                    "format": "ttf",
+                    "isItalic": false,
+                    "provider": "Google Fonts",
+                    "fontFamily": "Inter",
+                    "fontWeight": 400,
+                    "fontFileMissing": false,
+                    "fontPostScriptName": "Inter-Regular",
+                    "url": "https://ddp-assets-prod.s3.eu-west-1.amazonaws.com/4484f468-4d15-41ab-a412-5b85b476b69a/font/Inter-Regular/Inter-Regular.ttf?AWSAccessKeyId=ASIAYLKZPEWOM3SFEWX4&Expires=1655489509&Signature=sRM8zbIFGSU2pavD8e1CpzNf7Pc%3D&x-amz-security-token=IQoJb3JpZ2luX2VjENH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCWV1LXdlc3QtMSJGMEQCIEf4Qnu14RhrL7hzTtd%2FS4nvlVf89zWoMAlrCsZk47iOAiBo09Yhk36EG5X2G%2Bh6rXr0F9ivAn4wSr%2BQxwr0K2kwOCr4Awja%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAMaDDU3NDEwMjY0NDEyNCIMZUIDuC%2FRukOJ83vjKswD39%2BdV6003aRFdILGDrX%2FKLvKMEpAdc6d0%2FVxi4THPqSdJE3Bz1YW7cuVpBC1%2BC07%2FhuaMQigmwYaT8nYzCsIaWtt09y4VEsjEaWCy0FRH9JIKqpIbkRIcvIJjF9E%2F3M6W7tJ%2FqRcowl4O4czxxDui%2BrF8nWMmh54gd87hP%2F%2BWiBCkwoanFUJ%2BOipcjUnaSdW%2FHPS1plb%2FgbMBtfMbtMpR%2BpjlxKqUaouqkyqYj7pd2d1yhU34vGpvOVEvU9Qi6HAoor1MuyHqhqe%2BuAw8lSrT%2Fh2ZiuieTRvWB3cJiDARS76ATsBTdHc8IrblFyiSoiWZPICOkj87XVPFIAaPAsSNTJ5g5ZTfO8GidvsllN820b%2FpgV%2B8YQNIeUcJjvIbWD%2FYMhJ521k0vIBLRbk3w%2BkctrD9lidkYZlxgfviTL4PBI7AQhQkQsbjhuvy8iw0MUu0VXgnLeJ4IbRzy7%2BpCw7l1neIHYg%2F1Rp7cXB3v4wHue8AwQu7gtHq%2F6VctrYkhIL4%2BWowWRpiLf%2Bae7488SFQcHhsBnY8w9BBfWiI%2FKIFCVFmW1W4HmpHhkOfkOLc3ZgX13YhzGPIgMVpRl6xjIoGHziwT5HlVicMXKRcjCa3LKVBjqmAVzgceUda69KOMUAj1iP2af9KCO3A7j2jMC%2FuMeRgWuqL7qTukei6RXttCgQCQMo3MGeVSW8PYAMkC542qel3w8q1MWO%2FIJKhcjAW1Ze0lzkTjw4mDvHPqfoZtCU0R7hFQiLshKscmD%2F6Ukr0iYgUdV1y4AXRuEmdkYqXOrHt1a5MDpcfJiVjXW80t%2Btv%2FNI0y9cGSQDdKloxTne9zvt6eJXvgeSUMA%3D"
+                },
+                "meta": {
+                    "source": "localStyles"
+                },
+                "type": "font",
+                "originId": "Inter-Regular",
+                "sourceId": "f64d14f9-3344-4c96-ab0d-044fb13ec943",
+                "repositoryId": "4484f468-4d15-41ab-a412-5b85b476b69a"
+            },
+            "fontSize": {
+                "value": {
+                    "unit": "px",
+                    "measure": 20
+                }
+            },
+            "textAlign": {
+                "vertical": "top",
+                "horizontal": "left"
+            },
+            "lineHeight": {
+                "value": {
+                    "unit": "px",
+                    "measure": 30
+                }
+            }
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "textStyle",
+        "originId": "6:1308",
+        "sourceId": "f64d14f9-3344-4c96-ab0d-044fb13ec943",
+        "repositoryId": "4484f468-4d15-41ab-a412-5b85b476b69a"
+    },
+    {
+        "id": "f5fcad68-38e6-4f43-af96-dc49b380532c",
+        "createdAt": "2022-06-15T17:09:11.884Z",
+        "updatedAt": "2022-06-15T17:09:11.884Z",
+        "name": "description/extrasmall/bold",
+        "value": {
+            "font": {
+                "id": "d4746a73-2ae4-454d-8750-c99dc6311a86",
+                "createdAt": "2022-06-15T17:09:11.884Z",
+                "updatedAt": "2022-06-17T17:00:58.864Z",
+                "name": "Inter-Bold",
+                "value": {
+                    "format": "ttf",
+                    "isItalic": false,
+                    "provider": "Google Fonts",
+                    "fontFamily": "Inter",
+                    "fontWeight": 700,
+                    "fontFileMissing": false,
+                    "fontPostScriptName": "Inter-Bold",
+                    "url": "https://ddp-assets-prod.s3.eu-west-1.amazonaws.com/4484f468-4d15-41ab-a412-5b85b476b69a/font/Inter-Bold/Inter-Bold.ttf?AWSAccessKeyId=ASIAYLKZPEWOM3SFEWX4&Expires=1655489509&Signature=JE3FM2xwXiRl2jRiCG51vraYa70%3D&x-amz-security-token=IQoJb3JpZ2luX2VjENH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCWV1LXdlc3QtMSJGMEQCIEf4Qnu14RhrL7hzTtd%2FS4nvlVf89zWoMAlrCsZk47iOAiBo09Yhk36EG5X2G%2Bh6rXr0F9ivAn4wSr%2BQxwr0K2kwOCr4Awja%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAMaDDU3NDEwMjY0NDEyNCIMZUIDuC%2FRukOJ83vjKswD39%2BdV6003aRFdILGDrX%2FKLvKMEpAdc6d0%2FVxi4THPqSdJE3Bz1YW7cuVpBC1%2BC07%2FhuaMQigmwYaT8nYzCsIaWtt09y4VEsjEaWCy0FRH9JIKqpIbkRIcvIJjF9E%2F3M6W7tJ%2FqRcowl4O4czxxDui%2BrF8nWMmh54gd87hP%2F%2BWiBCkwoanFUJ%2BOipcjUnaSdW%2FHPS1plb%2FgbMBtfMbtMpR%2BpjlxKqUaouqkyqYj7pd2d1yhU34vGpvOVEvU9Qi6HAoor1MuyHqhqe%2BuAw8lSrT%2Fh2ZiuieTRvWB3cJiDARS76ATsBTdHc8IrblFyiSoiWZPICOkj87XVPFIAaPAsSNTJ5g5ZTfO8GidvsllN820b%2FpgV%2B8YQNIeUcJjvIbWD%2FYMhJ521k0vIBLRbk3w%2BkctrD9lidkYZlxgfviTL4PBI7AQhQkQsbjhuvy8iw0MUu0VXgnLeJ4IbRzy7%2BpCw7l1neIHYg%2F1Rp7cXB3v4wHue8AwQu7gtHq%2F6VctrYkhIL4%2BWowWRpiLf%2Bae7488SFQcHhsBnY8w9BBfWiI%2FKIFCVFmW1W4HmpHhkOfkOLc3ZgX13YhzGPIgMVpRl6xjIoGHziwT5HlVicMXKRcjCa3LKVBjqmAVzgceUda69KOMUAj1iP2af9KCO3A7j2jMC%2FuMeRgWuqL7qTukei6RXttCgQCQMo3MGeVSW8PYAMkC542qel3w8q1MWO%2FIJKhcjAW1Ze0lzkTjw4mDvHPqfoZtCU0R7hFQiLshKscmD%2F6Ukr0iYgUdV1y4AXRuEmdkYqXOrHt1a5MDpcfJiVjXW80t%2Btv%2FNI0y9cGSQDdKloxTne9zvt6eJXvgeSUMA%3D"
+                },
+                "meta": {
+                    "source": "localStyles"
+                },
+                "type": "font",
+                "originId": "Inter-Bold",
+                "sourceId": "f64d14f9-3344-4c96-ab0d-044fb13ec943",
+                "repositoryId": "4484f468-4d15-41ab-a412-5b85b476b69a"
+            },
+            "fontSize": {
+                "value": {
+                    "unit": "px",
+                    "measure": 12
+                }
+            },
+            "textAlign": {
+                "vertical": "top",
+                "horizontal": "left"
+            },
+            "lineHeight": {
+                "value": {
+                    "unit": "px",
+                    "measure": 18
+                }
+            }
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "textStyle",
+        "originId": "6:1315",
+        "sourceId": "f64d14f9-3344-4c96-ab0d-044fb13ec943",
+        "repositoryId": "4484f468-4d15-41ab-a412-5b85b476b69a"
+    },
+    {
+        "id": "b46758ee-dcb7-46b7-84f1-68e8daf85f2c",
+        "createdAt": "2022-06-15T17:09:11.894Z",
+        "updatedAt": "2022-06-15T17:09:11.894Z",
+        "name": "description/extrasmall/normal",
+        "value": {
+            "font": {
+                "id": "9c694c4b-16e5-45b2-be73-91a5f4af8cca",
+                "createdAt": "2022-06-15T17:09:11.893Z",
+                "updatedAt": "2022-06-17T17:00:58.854Z",
+                "name": "Inter-Regular",
+                "value": {
+                    "format": "ttf",
+                    "isItalic": false,
+                    "provider": "Google Fonts",
+                    "fontFamily": "Inter",
+                    "fontWeight": 400,
+                    "fontFileMissing": false,
+                    "fontPostScriptName": "Inter-Regular",
+                    "url": "https://ddp-assets-prod.s3.eu-west-1.amazonaws.com/4484f468-4d15-41ab-a412-5b85b476b69a/font/Inter-Regular/Inter-Regular.ttf?AWSAccessKeyId=ASIAYLKZPEWOM3SFEWX4&Expires=1655489509&Signature=sRM8zbIFGSU2pavD8e1CpzNf7Pc%3D&x-amz-security-token=IQoJb3JpZ2luX2VjENH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCWV1LXdlc3QtMSJGMEQCIEf4Qnu14RhrL7hzTtd%2FS4nvlVf89zWoMAlrCsZk47iOAiBo09Yhk36EG5X2G%2Bh6rXr0F9ivAn4wSr%2BQxwr0K2kwOCr4Awja%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAMaDDU3NDEwMjY0NDEyNCIMZUIDuC%2FRukOJ83vjKswD39%2BdV6003aRFdILGDrX%2FKLvKMEpAdc6d0%2FVxi4THPqSdJE3Bz1YW7cuVpBC1%2BC07%2FhuaMQigmwYaT8nYzCsIaWtt09y4VEsjEaWCy0FRH9JIKqpIbkRIcvIJjF9E%2F3M6W7tJ%2FqRcowl4O4czxxDui%2BrF8nWMmh54gd87hP%2F%2BWiBCkwoanFUJ%2BOipcjUnaSdW%2FHPS1plb%2FgbMBtfMbtMpR%2BpjlxKqUaouqkyqYj7pd2d1yhU34vGpvOVEvU9Qi6HAoor1MuyHqhqe%2BuAw8lSrT%2Fh2ZiuieTRvWB3cJiDARS76ATsBTdHc8IrblFyiSoiWZPICOkj87XVPFIAaPAsSNTJ5g5ZTfO8GidvsllN820b%2FpgV%2B8YQNIeUcJjvIbWD%2FYMhJ521k0vIBLRbk3w%2BkctrD9lidkYZlxgfviTL4PBI7AQhQkQsbjhuvy8iw0MUu0VXgnLeJ4IbRzy7%2BpCw7l1neIHYg%2F1Rp7cXB3v4wHue8AwQu7gtHq%2F6VctrYkhIL4%2BWowWRpiLf%2Bae7488SFQcHhsBnY8w9BBfWiI%2FKIFCVFmW1W4HmpHhkOfkOLc3ZgX13YhzGPIgMVpRl6xjIoGHziwT5HlVicMXKRcjCa3LKVBjqmAVzgceUda69KOMUAj1iP2af9KCO3A7j2jMC%2FuMeRgWuqL7qTukei6RXttCgQCQMo3MGeVSW8PYAMkC542qel3w8q1MWO%2FIJKhcjAW1Ze0lzkTjw4mDvHPqfoZtCU0R7hFQiLshKscmD%2F6Ukr0iYgUdV1y4AXRuEmdkYqXOrHt1a5MDpcfJiVjXW80t%2Btv%2FNI0y9cGSQDdKloxTne9zvt6eJXvgeSUMA%3D"
+                },
+                "meta": {
+                    "source": "localStyles"
+                },
+                "type": "font",
+                "originId": "Inter-Regular",
+                "sourceId": "f64d14f9-3344-4c96-ab0d-044fb13ec943",
+                "repositoryId": "4484f468-4d15-41ab-a412-5b85b476b69a"
+            },
+            "fontSize": {
+                "value": {
+                    "unit": "px",
+                    "measure": 12
+                }
+            },
+            "textAlign": {
+                "vertical": "top",
+                "horizontal": "left"
+            },
+            "lineHeight": {
+                "value": {
+                    "unit": "px",
+                    "measure": 18
+                }
+            }
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "textStyle",
+        "originId": "6:1316",
+        "sourceId": "f64d14f9-3344-4c96-ab0d-044fb13ec943",
+        "repositoryId": "4484f468-4d15-41ab-a412-5b85b476b69a"
+    },
+    {
+        "id": "cc4d5f08-af7e-4425-8cfb-480b13fa66d7",
+        "createdAt": "2022-06-15T17:09:11.962Z",
+        "updatedAt": "2022-06-15T17:09:11.962Z",
+        "name": "description/large/bold",
+        "value": {
+            "font": {
+                "id": "d4746a73-2ae4-454d-8750-c99dc6311a86",
+                "createdAt": "2022-06-15T17:09:11.884Z",
+                "updatedAt": "2022-06-17T17:00:58.864Z",
+                "name": "Inter-Bold",
+                "value": {
+                    "format": "ttf",
+                    "isItalic": false,
+                    "provider": "Google Fonts",
+                    "fontFamily": "Inter",
+                    "fontWeight": 700,
+                    "fontFileMissing": false,
+                    "fontPostScriptName": "Inter-Bold",
+                    "url": "https://ddp-assets-prod.s3.eu-west-1.amazonaws.com/4484f468-4d15-41ab-a412-5b85b476b69a/font/Inter-Bold/Inter-Bold.ttf?AWSAccessKeyId=ASIAYLKZPEWOM3SFEWX4&Expires=1655489509&Signature=JE3FM2xwXiRl2jRiCG51vraYa70%3D&x-amz-security-token=IQoJb3JpZ2luX2VjENH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCWV1LXdlc3QtMSJGMEQCIEf4Qnu14RhrL7hzTtd%2FS4nvlVf89zWoMAlrCsZk47iOAiBo09Yhk36EG5X2G%2Bh6rXr0F9ivAn4wSr%2BQxwr0K2kwOCr4Awja%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAMaDDU3NDEwMjY0NDEyNCIMZUIDuC%2FRukOJ83vjKswD39%2BdV6003aRFdILGDrX%2FKLvKMEpAdc6d0%2FVxi4THPqSdJE3Bz1YW7cuVpBC1%2BC07%2FhuaMQigmwYaT8nYzCsIaWtt09y4VEsjEaWCy0FRH9JIKqpIbkRIcvIJjF9E%2F3M6W7tJ%2FqRcowl4O4czxxDui%2BrF8nWMmh54gd87hP%2F%2BWiBCkwoanFUJ%2BOipcjUnaSdW%2FHPS1plb%2FgbMBtfMbtMpR%2BpjlxKqUaouqkyqYj7pd2d1yhU34vGpvOVEvU9Qi6HAoor1MuyHqhqe%2BuAw8lSrT%2Fh2ZiuieTRvWB3cJiDARS76ATsBTdHc8IrblFyiSoiWZPICOkj87XVPFIAaPAsSNTJ5g5ZTfO8GidvsllN820b%2FpgV%2B8YQNIeUcJjvIbWD%2FYMhJ521k0vIBLRbk3w%2BkctrD9lidkYZlxgfviTL4PBI7AQhQkQsbjhuvy8iw0MUu0VXgnLeJ4IbRzy7%2BpCw7l1neIHYg%2F1Rp7cXB3v4wHue8AwQu7gtHq%2F6VctrYkhIL4%2BWowWRpiLf%2Bae7488SFQcHhsBnY8w9BBfWiI%2FKIFCVFmW1W4HmpHhkOfkOLc3ZgX13YhzGPIgMVpRl6xjIoGHziwT5HlVicMXKRcjCa3LKVBjqmAVzgceUda69KOMUAj1iP2af9KCO3A7j2jMC%2FuMeRgWuqL7qTukei6RXttCgQCQMo3MGeVSW8PYAMkC542qel3w8q1MWO%2FIJKhcjAW1Ze0lzkTjw4mDvHPqfoZtCU0R7hFQiLshKscmD%2F6Ukr0iYgUdV1y4AXRuEmdkYqXOrHt1a5MDpcfJiVjXW80t%2Btv%2FNI0y9cGSQDdKloxTne9zvt6eJXvgeSUMA%3D"
+                },
+                "meta": {
+                    "source": "localStyles"
+                },
+                "type": "font",
+                "originId": "Inter-Bold",
+                "sourceId": "f64d14f9-3344-4c96-ab0d-044fb13ec943",
+                "repositoryId": "4484f468-4d15-41ab-a412-5b85b476b69a"
+            },
+            "fontSize": {
+                "value": {
+                    "unit": "px",
+                    "measure": 18
+                }
+            },
+            "textAlign": {
+                "vertical": "top",
+                "horizontal": "left"
+            },
+            "lineHeight": {
+                "value": {
+                    "unit": "px",
+                    "measure": 27
+                }
+            }
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "textStyle",
+        "originId": "6:1309",
+        "sourceId": "f64d14f9-3344-4c96-ab0d-044fb13ec943",
+        "repositoryId": "4484f468-4d15-41ab-a412-5b85b476b69a"
+    },
+    {
+        "id": "a8cc7760-cbbb-4f3e-bf5d-67bd0cc33eac",
+        "createdAt": "2022-06-15T17:09:11.916Z",
+        "updatedAt": "2022-06-15T17:09:11.916Z",
+        "name": "description/large/normal",
+        "value": {
+            "font": {
+                "id": "9c694c4b-16e5-45b2-be73-91a5f4af8cca",
+                "createdAt": "2022-06-15T17:09:11.893Z",
+                "updatedAt": "2022-06-17T17:00:58.854Z",
+                "name": "Inter-Regular",
+                "value": {
+                    "format": "ttf",
+                    "isItalic": false,
+                    "provider": "Google Fonts",
+                    "fontFamily": "Inter",
+                    "fontWeight": 400,
+                    "fontFileMissing": false,
+                    "fontPostScriptName": "Inter-Regular",
+                    "url": "https://ddp-assets-prod.s3.eu-west-1.amazonaws.com/4484f468-4d15-41ab-a412-5b85b476b69a/font/Inter-Regular/Inter-Regular.ttf?AWSAccessKeyId=ASIAYLKZPEWOM3SFEWX4&Expires=1655489509&Signature=sRM8zbIFGSU2pavD8e1CpzNf7Pc%3D&x-amz-security-token=IQoJb3JpZ2luX2VjENH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCWV1LXdlc3QtMSJGMEQCIEf4Qnu14RhrL7hzTtd%2FS4nvlVf89zWoMAlrCsZk47iOAiBo09Yhk36EG5X2G%2Bh6rXr0F9ivAn4wSr%2BQxwr0K2kwOCr4Awja%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAMaDDU3NDEwMjY0NDEyNCIMZUIDuC%2FRukOJ83vjKswD39%2BdV6003aRFdILGDrX%2FKLvKMEpAdc6d0%2FVxi4THPqSdJE3Bz1YW7cuVpBC1%2BC07%2FhuaMQigmwYaT8nYzCsIaWtt09y4VEsjEaWCy0FRH9JIKqpIbkRIcvIJjF9E%2F3M6W7tJ%2FqRcowl4O4czxxDui%2BrF8nWMmh54gd87hP%2F%2BWiBCkwoanFUJ%2BOipcjUnaSdW%2FHPS1plb%2FgbMBtfMbtMpR%2BpjlxKqUaouqkyqYj7pd2d1yhU34vGpvOVEvU9Qi6HAoor1MuyHqhqe%2BuAw8lSrT%2Fh2ZiuieTRvWB3cJiDARS76ATsBTdHc8IrblFyiSoiWZPICOkj87XVPFIAaPAsSNTJ5g5ZTfO8GidvsllN820b%2FpgV%2B8YQNIeUcJjvIbWD%2FYMhJ521k0vIBLRbk3w%2BkctrD9lidkYZlxgfviTL4PBI7AQhQkQsbjhuvy8iw0MUu0VXgnLeJ4IbRzy7%2BpCw7l1neIHYg%2F1Rp7cXB3v4wHue8AwQu7gtHq%2F6VctrYkhIL4%2BWowWRpiLf%2Bae7488SFQcHhsBnY8w9BBfWiI%2FKIFCVFmW1W4HmpHhkOfkOLc3ZgX13YhzGPIgMVpRl6xjIoGHziwT5HlVicMXKRcjCa3LKVBjqmAVzgceUda69KOMUAj1iP2af9KCO3A7j2jMC%2FuMeRgWuqL7qTukei6RXttCgQCQMo3MGeVSW8PYAMkC542qel3w8q1MWO%2FIJKhcjAW1Ze0lzkTjw4mDvHPqfoZtCU0R7hFQiLshKscmD%2F6Ukr0iYgUdV1y4AXRuEmdkYqXOrHt1a5MDpcfJiVjXW80t%2Btv%2FNI0y9cGSQDdKloxTne9zvt6eJXvgeSUMA%3D"
+                },
+                "meta": {
+                    "source": "localStyles"
+                },
+                "type": "font",
+                "originId": "Inter-Regular",
+                "sourceId": "f64d14f9-3344-4c96-ab0d-044fb13ec943",
+                "repositoryId": "4484f468-4d15-41ab-a412-5b85b476b69a"
+            },
+            "fontSize": {
+                "value": {
+                    "unit": "px",
+                    "measure": 18
+                }
+            },
+            "textAlign": {
+                "vertical": "top",
+                "horizontal": "left"
+            },
+            "lineHeight": {
+                "value": {
+                    "unit": "px",
+                    "measure": 27
+                }
+            }
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "textStyle",
+        "originId": "6:1310",
+        "sourceId": "f64d14f9-3344-4c96-ab0d-044fb13ec943",
+        "repositoryId": "4484f468-4d15-41ab-a412-5b85b476b69a"
+    },
+    {
+        "id": "9a3d152f-1991-4639-8a7f-31521e8164ba",
+        "createdAt": "2022-06-15T17:09:11.957Z",
+        "updatedAt": "2022-06-15T17:09:11.957Z",
+        "name": "description/medium/bold",
+        "value": {
+            "font": {
+                "id": "d4746a73-2ae4-454d-8750-c99dc6311a86",
+                "createdAt": "2022-06-15T17:09:11.884Z",
+                "updatedAt": "2022-06-17T17:00:58.864Z",
+                "name": "Inter-Bold",
+                "value": {
+                    "format": "ttf",
+                    "isItalic": false,
+                    "provider": "Google Fonts",
+                    "fontFamily": "Inter",
+                    "fontWeight": 700,
+                    "fontFileMissing": false,
+                    "fontPostScriptName": "Inter-Bold",
+                    "url": "https://ddp-assets-prod.s3.eu-west-1.amazonaws.com/4484f468-4d15-41ab-a412-5b85b476b69a/font/Inter-Bold/Inter-Bold.ttf?AWSAccessKeyId=ASIAYLKZPEWOM3SFEWX4&Expires=1655489509&Signature=JE3FM2xwXiRl2jRiCG51vraYa70%3D&x-amz-security-token=IQoJb3JpZ2luX2VjENH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCWV1LXdlc3QtMSJGMEQCIEf4Qnu14RhrL7hzTtd%2FS4nvlVf89zWoMAlrCsZk47iOAiBo09Yhk36EG5X2G%2Bh6rXr0F9ivAn4wSr%2BQxwr0K2kwOCr4Awja%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAMaDDU3NDEwMjY0NDEyNCIMZUIDuC%2FRukOJ83vjKswD39%2BdV6003aRFdILGDrX%2FKLvKMEpAdc6d0%2FVxi4THPqSdJE3Bz1YW7cuVpBC1%2BC07%2FhuaMQigmwYaT8nYzCsIaWtt09y4VEsjEaWCy0FRH9JIKqpIbkRIcvIJjF9E%2F3M6W7tJ%2FqRcowl4O4czxxDui%2BrF8nWMmh54gd87hP%2F%2BWiBCkwoanFUJ%2BOipcjUnaSdW%2FHPS1plb%2FgbMBtfMbtMpR%2BpjlxKqUaouqkyqYj7pd2d1yhU34vGpvOVEvU9Qi6HAoor1MuyHqhqe%2BuAw8lSrT%2Fh2ZiuieTRvWB3cJiDARS76ATsBTdHc8IrblFyiSoiWZPICOkj87XVPFIAaPAsSNTJ5g5ZTfO8GidvsllN820b%2FpgV%2B8YQNIeUcJjvIbWD%2FYMhJ521k0vIBLRbk3w%2BkctrD9lidkYZlxgfviTL4PBI7AQhQkQsbjhuvy8iw0MUu0VXgnLeJ4IbRzy7%2BpCw7l1neIHYg%2F1Rp7cXB3v4wHue8AwQu7gtHq%2F6VctrYkhIL4%2BWowWRpiLf%2Bae7488SFQcHhsBnY8w9BBfWiI%2FKIFCVFmW1W4HmpHhkOfkOLc3ZgX13YhzGPIgMVpRl6xjIoGHziwT5HlVicMXKRcjCa3LKVBjqmAVzgceUda69KOMUAj1iP2af9KCO3A7j2jMC%2FuMeRgWuqL7qTukei6RXttCgQCQMo3MGeVSW8PYAMkC542qel3w8q1MWO%2FIJKhcjAW1Ze0lzkTjw4mDvHPqfoZtCU0R7hFQiLshKscmD%2F6Ukr0iYgUdV1y4AXRuEmdkYqXOrHt1a5MDpcfJiVjXW80t%2Btv%2FNI0y9cGSQDdKloxTne9zvt6eJXvgeSUMA%3D"
+                },
+                "meta": {
+                    "source": "localStyles"
+                },
+                "type": "font",
+                "originId": "Inter-Bold",
+                "sourceId": "f64d14f9-3344-4c96-ab0d-044fb13ec943",
+                "repositoryId": "4484f468-4d15-41ab-a412-5b85b476b69a"
+            },
+            "fontSize": {
+                "value": {
+                    "unit": "px",
+                    "measure": 16
+                }
+            },
+            "textAlign": {
+                "vertical": "top",
+                "horizontal": "left"
+            },
+            "lineHeight": {
+                "value": {
+                    "unit": "px",
+                    "measure": 24
+                }
+            }
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "textStyle",
+        "originId": "6:1311",
+        "sourceId": "f64d14f9-3344-4c96-ab0d-044fb13ec943",
+        "repositoryId": "4484f468-4d15-41ab-a412-5b85b476b69a"
+    },
+    {
+        "id": "de8a36aa-336f-4116-9c43-a721d43c0c62",
+        "createdAt": "2022-06-15T17:09:11.905Z",
+        "updatedAt": "2022-06-15T17:09:11.905Z",
+        "name": "description/medium/normal",
+        "value": {
+            "font": {
+                "id": "9c694c4b-16e5-45b2-be73-91a5f4af8cca",
+                "createdAt": "2022-06-15T17:09:11.893Z",
+                "updatedAt": "2022-06-17T17:00:58.854Z",
+                "name": "Inter-Regular",
+                "value": {
+                    "format": "ttf",
+                    "isItalic": false,
+                    "provider": "Google Fonts",
+                    "fontFamily": "Inter",
+                    "fontWeight": 400,
+                    "fontFileMissing": false,
+                    "fontPostScriptName": "Inter-Regular",
+                    "url": "https://ddp-assets-prod.s3.eu-west-1.amazonaws.com/4484f468-4d15-41ab-a412-5b85b476b69a/font/Inter-Regular/Inter-Regular.ttf?AWSAccessKeyId=ASIAYLKZPEWOM3SFEWX4&Expires=1655489509&Signature=sRM8zbIFGSU2pavD8e1CpzNf7Pc%3D&x-amz-security-token=IQoJb3JpZ2luX2VjENH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCWV1LXdlc3QtMSJGMEQCIEf4Qnu14RhrL7hzTtd%2FS4nvlVf89zWoMAlrCsZk47iOAiBo09Yhk36EG5X2G%2Bh6rXr0F9ivAn4wSr%2BQxwr0K2kwOCr4Awja%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAMaDDU3NDEwMjY0NDEyNCIMZUIDuC%2FRukOJ83vjKswD39%2BdV6003aRFdILGDrX%2FKLvKMEpAdc6d0%2FVxi4THPqSdJE3Bz1YW7cuVpBC1%2BC07%2FhuaMQigmwYaT8nYzCsIaWtt09y4VEsjEaWCy0FRH9JIKqpIbkRIcvIJjF9E%2F3M6W7tJ%2FqRcowl4O4czxxDui%2BrF8nWMmh54gd87hP%2F%2BWiBCkwoanFUJ%2BOipcjUnaSdW%2FHPS1plb%2FgbMBtfMbtMpR%2BpjlxKqUaouqkyqYj7pd2d1yhU34vGpvOVEvU9Qi6HAoor1MuyHqhqe%2BuAw8lSrT%2Fh2ZiuieTRvWB3cJiDARS76ATsBTdHc8IrblFyiSoiWZPICOkj87XVPFIAaPAsSNTJ5g5ZTfO8GidvsllN820b%2FpgV%2B8YQNIeUcJjvIbWD%2FYMhJ521k0vIBLRbk3w%2BkctrD9lidkYZlxgfviTL4PBI7AQhQkQsbjhuvy8iw0MUu0VXgnLeJ4IbRzy7%2BpCw7l1neIHYg%2F1Rp7cXB3v4wHue8AwQu7gtHq%2F6VctrYkhIL4%2BWowWRpiLf%2Bae7488SFQcHhsBnY8w9BBfWiI%2FKIFCVFmW1W4HmpHhkOfkOLc3ZgX13YhzGPIgMVpRl6xjIoGHziwT5HlVicMXKRcjCa3LKVBjqmAVzgceUda69KOMUAj1iP2af9KCO3A7j2jMC%2FuMeRgWuqL7qTukei6RXttCgQCQMo3MGeVSW8PYAMkC542qel3w8q1MWO%2FIJKhcjAW1Ze0lzkTjw4mDvHPqfoZtCU0R7hFQiLshKscmD%2F6Ukr0iYgUdV1y4AXRuEmdkYqXOrHt1a5MDpcfJiVjXW80t%2Btv%2FNI0y9cGSQDdKloxTne9zvt6eJXvgeSUMA%3D"
+                },
+                "meta": {
+                    "source": "localStyles"
+                },
+                "type": "font",
+                "originId": "Inter-Regular",
+                "sourceId": "f64d14f9-3344-4c96-ab0d-044fb13ec943",
+                "repositoryId": "4484f468-4d15-41ab-a412-5b85b476b69a"
+            },
+            "fontSize": {
+                "value": {
+                    "unit": "px",
+                    "measure": 16
+                }
+            },
+            "textAlign": {
+                "vertical": "top",
+                "horizontal": "left"
+            },
+            "lineHeight": {
+                "value": {
+                    "unit": "px",
+                    "measure": 24
+                }
+            }
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "textStyle",
+        "originId": "6:1312",
+        "sourceId": "f64d14f9-3344-4c96-ab0d-044fb13ec943",
+        "repositoryId": "4484f468-4d15-41ab-a412-5b85b476b69a"
+    },
+    {
+        "id": "3dc35bcf-c064-47b1-ae68-986c999a2956",
+        "createdAt": "2022-06-15T17:09:11.960Z",
+        "updatedAt": "2022-06-15T17:09:11.960Z",
+        "name": "description/small/bold",
+        "value": {
+            "font": {
+                "id": "d4746a73-2ae4-454d-8750-c99dc6311a86",
+                "createdAt": "2022-06-15T17:09:11.884Z",
+                "updatedAt": "2022-06-17T17:00:58.864Z",
+                "name": "Inter-Bold",
+                "value": {
+                    "format": "ttf",
+                    "isItalic": false,
+                    "provider": "Google Fonts",
+                    "fontFamily": "Inter",
+                    "fontWeight": 700,
+                    "fontFileMissing": false,
+                    "fontPostScriptName": "Inter-Bold",
+                    "url": "https://ddp-assets-prod.s3.eu-west-1.amazonaws.com/4484f468-4d15-41ab-a412-5b85b476b69a/font/Inter-Bold/Inter-Bold.ttf?AWSAccessKeyId=ASIAYLKZPEWOM3SFEWX4&Expires=1655489509&Signature=JE3FM2xwXiRl2jRiCG51vraYa70%3D&x-amz-security-token=IQoJb3JpZ2luX2VjENH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCWV1LXdlc3QtMSJGMEQCIEf4Qnu14RhrL7hzTtd%2FS4nvlVf89zWoMAlrCsZk47iOAiBo09Yhk36EG5X2G%2Bh6rXr0F9ivAn4wSr%2BQxwr0K2kwOCr4Awja%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAMaDDU3NDEwMjY0NDEyNCIMZUIDuC%2FRukOJ83vjKswD39%2BdV6003aRFdILGDrX%2FKLvKMEpAdc6d0%2FVxi4THPqSdJE3Bz1YW7cuVpBC1%2BC07%2FhuaMQigmwYaT8nYzCsIaWtt09y4VEsjEaWCy0FRH9JIKqpIbkRIcvIJjF9E%2F3M6W7tJ%2FqRcowl4O4czxxDui%2BrF8nWMmh54gd87hP%2F%2BWiBCkwoanFUJ%2BOipcjUnaSdW%2FHPS1plb%2FgbMBtfMbtMpR%2BpjlxKqUaouqkyqYj7pd2d1yhU34vGpvOVEvU9Qi6HAoor1MuyHqhqe%2BuAw8lSrT%2Fh2ZiuieTRvWB3cJiDARS76ATsBTdHc8IrblFyiSoiWZPICOkj87XVPFIAaPAsSNTJ5g5ZTfO8GidvsllN820b%2FpgV%2B8YQNIeUcJjvIbWD%2FYMhJ521k0vIBLRbk3w%2BkctrD9lidkYZlxgfviTL4PBI7AQhQkQsbjhuvy8iw0MUu0VXgnLeJ4IbRzy7%2BpCw7l1neIHYg%2F1Rp7cXB3v4wHue8AwQu7gtHq%2F6VctrYkhIL4%2BWowWRpiLf%2Bae7488SFQcHhsBnY8w9BBfWiI%2FKIFCVFmW1W4HmpHhkOfkOLc3ZgX13YhzGPIgMVpRl6xjIoGHziwT5HlVicMXKRcjCa3LKVBjqmAVzgceUda69KOMUAj1iP2af9KCO3A7j2jMC%2FuMeRgWuqL7qTukei6RXttCgQCQMo3MGeVSW8PYAMkC542qel3w8q1MWO%2FIJKhcjAW1Ze0lzkTjw4mDvHPqfoZtCU0R7hFQiLshKscmD%2F6Ukr0iYgUdV1y4AXRuEmdkYqXOrHt1a5MDpcfJiVjXW80t%2Btv%2FNI0y9cGSQDdKloxTne9zvt6eJXvgeSUMA%3D"
+                },
+                "meta": {
+                    "source": "localStyles"
+                },
+                "type": "font",
+                "originId": "Inter-Bold",
+                "sourceId": "f64d14f9-3344-4c96-ab0d-044fb13ec943",
+                "repositoryId": "4484f468-4d15-41ab-a412-5b85b476b69a"
+            },
+            "fontSize": {
+                "value": {
+                    "unit": "px",
+                    "measure": 14
+                }
+            },
+            "textAlign": {
+                "vertical": "top",
+                "horizontal": "left"
+            },
+            "lineHeight": {
+                "value": {
+                    "unit": "px",
+                    "measure": 21
+                }
+            }
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "textStyle",
+        "originId": "6:1313",
+        "sourceId": "f64d14f9-3344-4c96-ab0d-044fb13ec943",
+        "repositoryId": "4484f468-4d15-41ab-a412-5b85b476b69a"
+    },
+    {
+        "id": "30e3609a-b9f2-42cb-88d3-690431a9a21b",
+        "createdAt": "2022-06-15T17:09:11.911Z",
+        "updatedAt": "2022-06-15T17:09:11.911Z",
+        "name": "description/small/normal",
+        "value": {
+            "font": {
+                "id": "9c694c4b-16e5-45b2-be73-91a5f4af8cca",
+                "createdAt": "2022-06-15T17:09:11.893Z",
+                "updatedAt": "2022-06-17T17:00:58.854Z",
+                "name": "Inter-Regular",
+                "value": {
+                    "format": "ttf",
+                    "isItalic": false,
+                    "provider": "Google Fonts",
+                    "fontFamily": "Inter",
+                    "fontWeight": 400,
+                    "fontFileMissing": false,
+                    "fontPostScriptName": "Inter-Regular",
+                    "url": "https://ddp-assets-prod.s3.eu-west-1.amazonaws.com/4484f468-4d15-41ab-a412-5b85b476b69a/font/Inter-Regular/Inter-Regular.ttf?AWSAccessKeyId=ASIAYLKZPEWOM3SFEWX4&Expires=1655489509&Signature=sRM8zbIFGSU2pavD8e1CpzNf7Pc%3D&x-amz-security-token=IQoJb3JpZ2luX2VjENH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCWV1LXdlc3QtMSJGMEQCIEf4Qnu14RhrL7hzTtd%2FS4nvlVf89zWoMAlrCsZk47iOAiBo09Yhk36EG5X2G%2Bh6rXr0F9ivAn4wSr%2BQxwr0K2kwOCr4Awja%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAMaDDU3NDEwMjY0NDEyNCIMZUIDuC%2FRukOJ83vjKswD39%2BdV6003aRFdILGDrX%2FKLvKMEpAdc6d0%2FVxi4THPqSdJE3Bz1YW7cuVpBC1%2BC07%2FhuaMQigmwYaT8nYzCsIaWtt09y4VEsjEaWCy0FRH9JIKqpIbkRIcvIJjF9E%2F3M6W7tJ%2FqRcowl4O4czxxDui%2BrF8nWMmh54gd87hP%2F%2BWiBCkwoanFUJ%2BOipcjUnaSdW%2FHPS1plb%2FgbMBtfMbtMpR%2BpjlxKqUaouqkyqYj7pd2d1yhU34vGpvOVEvU9Qi6HAoor1MuyHqhqe%2BuAw8lSrT%2Fh2ZiuieTRvWB3cJiDARS76ATsBTdHc8IrblFyiSoiWZPICOkj87XVPFIAaPAsSNTJ5g5ZTfO8GidvsllN820b%2FpgV%2B8YQNIeUcJjvIbWD%2FYMhJ521k0vIBLRbk3w%2BkctrD9lidkYZlxgfviTL4PBI7AQhQkQsbjhuvy8iw0MUu0VXgnLeJ4IbRzy7%2BpCw7l1neIHYg%2F1Rp7cXB3v4wHue8AwQu7gtHq%2F6VctrYkhIL4%2BWowWRpiLf%2Bae7488SFQcHhsBnY8w9BBfWiI%2FKIFCVFmW1W4HmpHhkOfkOLc3ZgX13YhzGPIgMVpRl6xjIoGHziwT5HlVicMXKRcjCa3LKVBjqmAVzgceUda69KOMUAj1iP2af9KCO3A7j2jMC%2FuMeRgWuqL7qTukei6RXttCgQCQMo3MGeVSW8PYAMkC542qel3w8q1MWO%2FIJKhcjAW1Ze0lzkTjw4mDvHPqfoZtCU0R7hFQiLshKscmD%2F6Ukr0iYgUdV1y4AXRuEmdkYqXOrHt1a5MDpcfJiVjXW80t%2Btv%2FNI0y9cGSQDdKloxTne9zvt6eJXvgeSUMA%3D"
+                },
+                "meta": {
+                    "source": "localStyles"
+                },
+                "type": "font",
+                "originId": "Inter-Regular",
+                "sourceId": "f64d14f9-3344-4c96-ab0d-044fb13ec943",
+                "repositoryId": "4484f468-4d15-41ab-a412-5b85b476b69a"
+            },
+            "fontSize": {
+                "value": {
+                    "unit": "px",
+                    "measure": 14
+                }
+            },
+            "textAlign": {
+                "vertical": "top",
+                "horizontal": "left"
+            },
+            "lineHeight": {
+                "value": {
+                    "unit": "px",
+                    "measure": 21
+                }
+            }
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "textStyle",
+        "originId": "6:1314",
+        "sourceId": "f64d14f9-3344-4c96-ab0d-044fb13ec943",
+        "repositoryId": "4484f468-4d15-41ab-a412-5b85b476b69a"
+    },
+    {
+        "id": "142f1295-ef82-4a91-85c3-15342b7ed44d",
+        "createdAt": "2022-06-15T17:09:11.917Z",
+        "updatedAt": "2022-06-15T17:09:11.917Z",
+        "name": "eyebrow/large",
+        "value": {
+            "font": {
+                "id": "9da790b5-235b-42ce-ac1f-e1e42a015d53",
+                "createdAt": "2022-06-15T17:09:11.884Z",
+                "updatedAt": "2022-06-17T17:00:58.864Z",
+                "name": "IBMPlexMono-SemiBold",
+                "value": {
+                    "format": "ttf",
+                    "isItalic": false,
+                    "provider": "Custom font",
+                    "fontFamily": "IBM Plex Mono",
+                    "fontWeight": 600,
+                    "fontFileMissing": false,
+                    "fontPostScriptName": "IBMPlexMono-SemiBold",
+                    "url": "https://ddp-assets-prod.s3.eu-west-1.amazonaws.com/4484f468-4d15-41ab-a412-5b85b476b69a/font/IBMPlexMono-SemiBold/IBMPlexMono-SemiBold.ttf?AWSAccessKeyId=ASIAYLKZPEWOM3SFEWX4&Expires=1655489509&Signature=1CiHIf01G8BqnZE71T4%2F6sldsuE%3D&x-amz-security-token=IQoJb3JpZ2luX2VjENH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCWV1LXdlc3QtMSJGMEQCIEf4Qnu14RhrL7hzTtd%2FS4nvlVf89zWoMAlrCsZk47iOAiBo09Yhk36EG5X2G%2Bh6rXr0F9ivAn4wSr%2BQxwr0K2kwOCr4Awja%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAMaDDU3NDEwMjY0NDEyNCIMZUIDuC%2FRukOJ83vjKswD39%2BdV6003aRFdILGDrX%2FKLvKMEpAdc6d0%2FVxi4THPqSdJE3Bz1YW7cuVpBC1%2BC07%2FhuaMQigmwYaT8nYzCsIaWtt09y4VEsjEaWCy0FRH9JIKqpIbkRIcvIJjF9E%2F3M6W7tJ%2FqRcowl4O4czxxDui%2BrF8nWMmh54gd87hP%2F%2BWiBCkwoanFUJ%2BOipcjUnaSdW%2FHPS1plb%2FgbMBtfMbtMpR%2BpjlxKqUaouqkyqYj7pd2d1yhU34vGpvOVEvU9Qi6HAoor1MuyHqhqe%2BuAw8lSrT%2Fh2ZiuieTRvWB3cJiDARS76ATsBTdHc8IrblFyiSoiWZPICOkj87XVPFIAaPAsSNTJ5g5ZTfO8GidvsllN820b%2FpgV%2B8YQNIeUcJjvIbWD%2FYMhJ521k0vIBLRbk3w%2BkctrD9lidkYZlxgfviTL4PBI7AQhQkQsbjhuvy8iw0MUu0VXgnLeJ4IbRzy7%2BpCw7l1neIHYg%2F1Rp7cXB3v4wHue8AwQu7gtHq%2F6VctrYkhIL4%2BWowWRpiLf%2Bae7488SFQcHhsBnY8w9BBfWiI%2FKIFCVFmW1W4HmpHhkOfkOLc3ZgX13YhzGPIgMVpRl6xjIoGHziwT5HlVicMXKRcjCa3LKVBjqmAVzgceUda69KOMUAj1iP2af9KCO3A7j2jMC%2FuMeRgWuqL7qTukei6RXttCgQCQMo3MGeVSW8PYAMkC542qel3w8q1MWO%2FIJKhcjAW1Ze0lzkTjw4mDvHPqfoZtCU0R7hFQiLshKscmD%2F6Ukr0iYgUdV1y4AXRuEmdkYqXOrHt1a5MDpcfJiVjXW80t%2Btv%2FNI0y9cGSQDdKloxTne9zvt6eJXvgeSUMA%3D"
+                },
+                "meta": {
+                    "source": "localStyles"
+                },
+                "type": "font",
+                "originId": "IBMPlexMono-SemiBold",
+                "sourceId": "f64d14f9-3344-4c96-ab0d-044fb13ec943",
+                "repositoryId": "4484f468-4d15-41ab-a412-5b85b476b69a"
+            },
+            "fontSize": {
+                "value": {
+                    "unit": "px",
+                    "measure": 16
+                }
+            },
+            "textAlign": {
+                "vertical": "top",
+                "horizontal": "left"
+            },
+            "lineHeight": {
+                "value": {
+                    "unit": "px",
+                    "measure": 16
+                }
+            },
+            "letterSpacing": {
+                "value": {
+                    "unit": "px",
+                    "measure": 1.6
+                }
+            },
+            "textTransform": "uppercase"
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "textStyle",
+        "originId": "138:2095",
+        "sourceId": "f64d14f9-3344-4c96-ab0d-044fb13ec943",
+        "repositoryId": "4484f468-4d15-41ab-a412-5b85b476b69a"
+    },
+    {
+        "id": "a1483374-73fc-4f7b-b623-0688520ce790",
+        "createdAt": "2022-06-15T17:09:11.904Z",
+        "updatedAt": "2022-06-15T17:09:11.904Z",
+        "name": "eyebrow/medium",
+        "value": {
+            "font": {
+                "id": "9da790b5-235b-42ce-ac1f-e1e42a015d53",
+                "createdAt": "2022-06-15T17:09:11.884Z",
+                "updatedAt": "2022-06-17T17:00:58.864Z",
+                "name": "IBMPlexMono-SemiBold",
+                "value": {
+                    "format": "ttf",
+                    "isItalic": false,
+                    "provider": "Custom font",
+                    "fontFamily": "IBM Plex Mono",
+                    "fontWeight": 600,
+                    "fontFileMissing": false,
+                    "fontPostScriptName": "IBMPlexMono-SemiBold",
+                    "url": "https://ddp-assets-prod.s3.eu-west-1.amazonaws.com/4484f468-4d15-41ab-a412-5b85b476b69a/font/IBMPlexMono-SemiBold/IBMPlexMono-SemiBold.ttf?AWSAccessKeyId=ASIAYLKZPEWOM3SFEWX4&Expires=1655489509&Signature=1CiHIf01G8BqnZE71T4%2F6sldsuE%3D&x-amz-security-token=IQoJb3JpZ2luX2VjENH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCWV1LXdlc3QtMSJGMEQCIEf4Qnu14RhrL7hzTtd%2FS4nvlVf89zWoMAlrCsZk47iOAiBo09Yhk36EG5X2G%2Bh6rXr0F9ivAn4wSr%2BQxwr0K2kwOCr4Awja%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAMaDDU3NDEwMjY0NDEyNCIMZUIDuC%2FRukOJ83vjKswD39%2BdV6003aRFdILGDrX%2FKLvKMEpAdc6d0%2FVxi4THPqSdJE3Bz1YW7cuVpBC1%2BC07%2FhuaMQigmwYaT8nYzCsIaWtt09y4VEsjEaWCy0FRH9JIKqpIbkRIcvIJjF9E%2F3M6W7tJ%2FqRcowl4O4czxxDui%2BrF8nWMmh54gd87hP%2F%2BWiBCkwoanFUJ%2BOipcjUnaSdW%2FHPS1plb%2FgbMBtfMbtMpR%2BpjlxKqUaouqkyqYj7pd2d1yhU34vGpvOVEvU9Qi6HAoor1MuyHqhqe%2BuAw8lSrT%2Fh2ZiuieTRvWB3cJiDARS76ATsBTdHc8IrblFyiSoiWZPICOkj87XVPFIAaPAsSNTJ5g5ZTfO8GidvsllN820b%2FpgV%2B8YQNIeUcJjvIbWD%2FYMhJ521k0vIBLRbk3w%2BkctrD9lidkYZlxgfviTL4PBI7AQhQkQsbjhuvy8iw0MUu0VXgnLeJ4IbRzy7%2BpCw7l1neIHYg%2F1Rp7cXB3v4wHue8AwQu7gtHq%2F6VctrYkhIL4%2BWowWRpiLf%2Bae7488SFQcHhsBnY8w9BBfWiI%2FKIFCVFmW1W4HmpHhkOfkOLc3ZgX13YhzGPIgMVpRl6xjIoGHziwT5HlVicMXKRcjCa3LKVBjqmAVzgceUda69KOMUAj1iP2af9KCO3A7j2jMC%2FuMeRgWuqL7qTukei6RXttCgQCQMo3MGeVSW8PYAMkC542qel3w8q1MWO%2FIJKhcjAW1Ze0lzkTjw4mDvHPqfoZtCU0R7hFQiLshKscmD%2F6Ukr0iYgUdV1y4AXRuEmdkYqXOrHt1a5MDpcfJiVjXW80t%2Btv%2FNI0y9cGSQDdKloxTne9zvt6eJXvgeSUMA%3D"
+                },
+                "meta": {
+                    "source": "localStyles"
+                },
+                "type": "font",
+                "originId": "IBMPlexMono-SemiBold",
+                "sourceId": "f64d14f9-3344-4c96-ab0d-044fb13ec943",
+                "repositoryId": "4484f468-4d15-41ab-a412-5b85b476b69a"
+            },
+            "fontSize": {
+                "value": {
+                    "unit": "px",
+                    "measure": 14
+                }
+            },
+            "textAlign": {
+                "vertical": "top",
+                "horizontal": "left"
+            },
+            "lineHeight": {
+                "value": {
+                    "unit": "px",
+                    "measure": 14
+                }
+            },
+            "letterSpacing": {
+                "value": {
+                    "unit": "px",
+                    "measure": 1.4000000000000001
+                }
+            },
+            "textTransform": "uppercase"
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "textStyle",
+        "originId": "138:2096",
+        "sourceId": "f64d14f9-3344-4c96-ab0d-044fb13ec943",
+        "repositoryId": "4484f468-4d15-41ab-a412-5b85b476b69a"
+    },
+    {
+        "id": "e95d3561-4b55-43ea-9580-1f6384e1d930",
+        "createdAt": "2022-06-15T17:09:11.905Z",
+        "updatedAt": "2022-06-15T17:09:11.905Z",
+        "name": "eyebrow/small",
+        "value": {
+            "font": {
+                "id": "9da790b5-235b-42ce-ac1f-e1e42a015d53",
+                "createdAt": "2022-06-15T17:09:11.884Z",
+                "updatedAt": "2022-06-17T17:00:58.864Z",
+                "name": "IBMPlexMono-SemiBold",
+                "value": {
+                    "format": "ttf",
+                    "isItalic": false,
+                    "provider": "Custom font",
+                    "fontFamily": "IBM Plex Mono",
+                    "fontWeight": 600,
+                    "fontFileMissing": false,
+                    "fontPostScriptName": "IBMPlexMono-SemiBold",
+                    "url": "https://ddp-assets-prod.s3.eu-west-1.amazonaws.com/4484f468-4d15-41ab-a412-5b85b476b69a/font/IBMPlexMono-SemiBold/IBMPlexMono-SemiBold.ttf?AWSAccessKeyId=ASIAYLKZPEWOM3SFEWX4&Expires=1655489509&Signature=1CiHIf01G8BqnZE71T4%2F6sldsuE%3D&x-amz-security-token=IQoJb3JpZ2luX2VjENH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCWV1LXdlc3QtMSJGMEQCIEf4Qnu14RhrL7hzTtd%2FS4nvlVf89zWoMAlrCsZk47iOAiBo09Yhk36EG5X2G%2Bh6rXr0F9ivAn4wSr%2BQxwr0K2kwOCr4Awja%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAMaDDU3NDEwMjY0NDEyNCIMZUIDuC%2FRukOJ83vjKswD39%2BdV6003aRFdILGDrX%2FKLvKMEpAdc6d0%2FVxi4THPqSdJE3Bz1YW7cuVpBC1%2BC07%2FhuaMQigmwYaT8nYzCsIaWtt09y4VEsjEaWCy0FRH9JIKqpIbkRIcvIJjF9E%2F3M6W7tJ%2FqRcowl4O4czxxDui%2BrF8nWMmh54gd87hP%2F%2BWiBCkwoanFUJ%2BOipcjUnaSdW%2FHPS1plb%2FgbMBtfMbtMpR%2BpjlxKqUaouqkyqYj7pd2d1yhU34vGpvOVEvU9Qi6HAoor1MuyHqhqe%2BuAw8lSrT%2Fh2ZiuieTRvWB3cJiDARS76ATsBTdHc8IrblFyiSoiWZPICOkj87XVPFIAaPAsSNTJ5g5ZTfO8GidvsllN820b%2FpgV%2B8YQNIeUcJjvIbWD%2FYMhJ521k0vIBLRbk3w%2BkctrD9lidkYZlxgfviTL4PBI7AQhQkQsbjhuvy8iw0MUu0VXgnLeJ4IbRzy7%2BpCw7l1neIHYg%2F1Rp7cXB3v4wHue8AwQu7gtHq%2F6VctrYkhIL4%2BWowWRpiLf%2Bae7488SFQcHhsBnY8w9BBfWiI%2FKIFCVFmW1W4HmpHhkOfkOLc3ZgX13YhzGPIgMVpRl6xjIoGHziwT5HlVicMXKRcjCa3LKVBjqmAVzgceUda69KOMUAj1iP2af9KCO3A7j2jMC%2FuMeRgWuqL7qTukei6RXttCgQCQMo3MGeVSW8PYAMkC542qel3w8q1MWO%2FIJKhcjAW1Ze0lzkTjw4mDvHPqfoZtCU0R7hFQiLshKscmD%2F6Ukr0iYgUdV1y4AXRuEmdkYqXOrHt1a5MDpcfJiVjXW80t%2Btv%2FNI0y9cGSQDdKloxTne9zvt6eJXvgeSUMA%3D"
+                },
+                "meta": {
+                    "source": "localStyles"
+                },
+                "type": "font",
+                "originId": "IBMPlexMono-SemiBold",
+                "sourceId": "f64d14f9-3344-4c96-ab0d-044fb13ec943",
+                "repositoryId": "4484f468-4d15-41ab-a412-5b85b476b69a"
+            },
+            "fontSize": {
+                "value": {
+                    "unit": "px",
+                    "measure": 12
+                }
+            },
+            "textAlign": {
+                "vertical": "top",
+                "horizontal": "left"
+            },
+            "lineHeight": {
+                "value": {
+                    "unit": "px",
+                    "measure": 12
+                }
+            },
+            "letterSpacing": {
+                "value": {
+                    "unit": "px",
+                    "measure": 1.2000000000000002
+                }
+            },
+            "textTransform": "uppercase"
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "textStyle",
+        "originId": "138:2097",
+        "sourceId": "f64d14f9-3344-4c96-ab0d-044fb13ec943",
+        "repositoryId": "4484f468-4d15-41ab-a412-5b85b476b69a"
+    },
+    {
+        "id": "dc6b6e2a-8bfc-45ac-8ab6-300c94f9dc28",
+        "createdAt": "2022-06-15T17:09:11.926Z",
+        "updatedAt": "2022-06-15T17:09:11.926Z",
+        "name": "heading/breakout-desktop",
+        "value": {
+            "font": {
+                "id": "5cb5270b-e818-42aa-8c81-e90426c5bd50",
+                "createdAt": "2022-06-15T17:09:11.921Z",
+                "updatedAt": "2022-06-17T17:00:58.863Z",
+                "name": "Sora-Bold",
+                "value": {
+                    "format": "ttf",
+                    "isItalic": false,
+                    "provider": "Google Fonts",
+                    "fontFamily": "Sora",
+                    "fontWeight": 700,
+                    "fontFileMissing": false,
+                    "fontPostScriptName": "Sora-Bold",
+                    "url": "https://ddp-assets-prod.s3.eu-west-1.amazonaws.com/4484f468-4d15-41ab-a412-5b85b476b69a/font/Sora-Bold/Sora-Bold.ttf?AWSAccessKeyId=ASIAYLKZPEWOM3SFEWX4&Expires=1655489509&Signature=nt%2FlLLJTmaX7XoJY0oF3%2Bx0h1BI%3D&x-amz-security-token=IQoJb3JpZ2luX2VjENH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCWV1LXdlc3QtMSJGMEQCIEf4Qnu14RhrL7hzTtd%2FS4nvlVf89zWoMAlrCsZk47iOAiBo09Yhk36EG5X2G%2Bh6rXr0F9ivAn4wSr%2BQxwr0K2kwOCr4Awja%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAMaDDU3NDEwMjY0NDEyNCIMZUIDuC%2FRukOJ83vjKswD39%2BdV6003aRFdILGDrX%2FKLvKMEpAdc6d0%2FVxi4THPqSdJE3Bz1YW7cuVpBC1%2BC07%2FhuaMQigmwYaT8nYzCsIaWtt09y4VEsjEaWCy0FRH9JIKqpIbkRIcvIJjF9E%2F3M6W7tJ%2FqRcowl4O4czxxDui%2BrF8nWMmh54gd87hP%2F%2BWiBCkwoanFUJ%2BOipcjUnaSdW%2FHPS1plb%2FgbMBtfMbtMpR%2BpjlxKqUaouqkyqYj7pd2d1yhU34vGpvOVEvU9Qi6HAoor1MuyHqhqe%2BuAw8lSrT%2Fh2ZiuieTRvWB3cJiDARS76ATsBTdHc8IrblFyiSoiWZPICOkj87XVPFIAaPAsSNTJ5g5ZTfO8GidvsllN820b%2FpgV%2B8YQNIeUcJjvIbWD%2FYMhJ521k0vIBLRbk3w%2BkctrD9lidkYZlxgfviTL4PBI7AQhQkQsbjhuvy8iw0MUu0VXgnLeJ4IbRzy7%2BpCw7l1neIHYg%2F1Rp7cXB3v4wHue8AwQu7gtHq%2F6VctrYkhIL4%2BWowWRpiLf%2Bae7488SFQcHhsBnY8w9BBfWiI%2FKIFCVFmW1W4HmpHhkOfkOLc3ZgX13YhzGPIgMVpRl6xjIoGHziwT5HlVicMXKRcjCa3LKVBjqmAVzgceUda69KOMUAj1iP2af9KCO3A7j2jMC%2FuMeRgWuqL7qTukei6RXttCgQCQMo3MGeVSW8PYAMkC542qel3w8q1MWO%2FIJKhcjAW1Ze0lzkTjw4mDvHPqfoZtCU0R7hFQiLshKscmD%2F6Ukr0iYgUdV1y4AXRuEmdkYqXOrHt1a5MDpcfJiVjXW80t%2Btv%2FNI0y9cGSQDdKloxTne9zvt6eJXvgeSUMA%3D"
+                },
+                "meta": {
+                    "source": "localStyles"
+                },
+                "type": "font",
+                "originId": "Sora-Bold",
+                "sourceId": "f64d14f9-3344-4c96-ab0d-044fb13ec943",
+                "repositoryId": "4484f468-4d15-41ab-a412-5b85b476b69a"
+            },
+            "fontSize": {
+                "value": {
+                    "unit": "px",
+                    "measure": 60
+                }
+            },
+            "textAlign": {
+                "vertical": "top",
+                "horizontal": "left"
+            },
+            "lineHeight": {
+                "value": {
+                    "unit": "px",
+                    "measure": 75
+                }
+            }
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "textStyle",
+        "originId": "6:1302",
+        "sourceId": "f64d14f9-3344-4c96-ab0d-044fb13ec943",
+        "repositoryId": "4484f468-4d15-41ab-a412-5b85b476b69a"
+    },
+    {
+        "id": "758d8f02-8d36-45cd-8a2c-f572c5d8275b",
+        "createdAt": "2022-06-15T17:09:11.925Z",
+        "updatedAt": "2022-06-15T17:09:11.925Z",
+        "name": "heading/breakout-mobile",
+        "value": {
+            "font": {
+                "id": "5cb5270b-e818-42aa-8c81-e90426c5bd50",
+                "createdAt": "2022-06-15T17:09:11.921Z",
+                "updatedAt": "2022-06-17T17:00:58.863Z",
+                "name": "Sora-Bold",
+                "value": {
+                    "format": "ttf",
+                    "isItalic": false,
+                    "provider": "Google Fonts",
+                    "fontFamily": "Sora",
+                    "fontWeight": 700,
+                    "fontFileMissing": false,
+                    "fontPostScriptName": "Sora-Bold",
+                    "url": "https://ddp-assets-prod.s3.eu-west-1.amazonaws.com/4484f468-4d15-41ab-a412-5b85b476b69a/font/Sora-Bold/Sora-Bold.ttf?AWSAccessKeyId=ASIAYLKZPEWOM3SFEWX4&Expires=1655489509&Signature=nt%2FlLLJTmaX7XoJY0oF3%2Bx0h1BI%3D&x-amz-security-token=IQoJb3JpZ2luX2VjENH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCWV1LXdlc3QtMSJGMEQCIEf4Qnu14RhrL7hzTtd%2FS4nvlVf89zWoMAlrCsZk47iOAiBo09Yhk36EG5X2G%2Bh6rXr0F9ivAn4wSr%2BQxwr0K2kwOCr4Awja%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAMaDDU3NDEwMjY0NDEyNCIMZUIDuC%2FRukOJ83vjKswD39%2BdV6003aRFdILGDrX%2FKLvKMEpAdc6d0%2FVxi4THPqSdJE3Bz1YW7cuVpBC1%2BC07%2FhuaMQigmwYaT8nYzCsIaWtt09y4VEsjEaWCy0FRH9JIKqpIbkRIcvIJjF9E%2F3M6W7tJ%2FqRcowl4O4czxxDui%2BrF8nWMmh54gd87hP%2F%2BWiBCkwoanFUJ%2BOipcjUnaSdW%2FHPS1plb%2FgbMBtfMbtMpR%2BpjlxKqUaouqkyqYj7pd2d1yhU34vGpvOVEvU9Qi6HAoor1MuyHqhqe%2BuAw8lSrT%2Fh2ZiuieTRvWB3cJiDARS76ATsBTdHc8IrblFyiSoiWZPICOkj87XVPFIAaPAsSNTJ5g5ZTfO8GidvsllN820b%2FpgV%2B8YQNIeUcJjvIbWD%2FYMhJ521k0vIBLRbk3w%2BkctrD9lidkYZlxgfviTL4PBI7AQhQkQsbjhuvy8iw0MUu0VXgnLeJ4IbRzy7%2BpCw7l1neIHYg%2F1Rp7cXB3v4wHue8AwQu7gtHq%2F6VctrYkhIL4%2BWowWRpiLf%2Bae7488SFQcHhsBnY8w9BBfWiI%2FKIFCVFmW1W4HmpHhkOfkOLc3ZgX13YhzGPIgMVpRl6xjIoGHziwT5HlVicMXKRcjCa3LKVBjqmAVzgceUda69KOMUAj1iP2af9KCO3A7j2jMC%2FuMeRgWuqL7qTukei6RXttCgQCQMo3MGeVSW8PYAMkC542qel3w8q1MWO%2FIJKhcjAW1Ze0lzkTjw4mDvHPqfoZtCU0R7hFQiLshKscmD%2F6Ukr0iYgUdV1y4AXRuEmdkYqXOrHt1a5MDpcfJiVjXW80t%2Btv%2FNI0y9cGSQDdKloxTne9zvt6eJXvgeSUMA%3D"
+                },
+                "meta": {
+                    "source": "localStyles"
+                },
+                "type": "font",
+                "originId": "Sora-Bold",
+                "sourceId": "f64d14f9-3344-4c96-ab0d-044fb13ec943",
+                "repositoryId": "4484f468-4d15-41ab-a412-5b85b476b69a"
+            },
+            "fontSize": {
+                "value": {
+                    "unit": "px",
+                    "measure": 36
+                }
+            },
+            "textAlign": {
+                "vertical": "top",
+                "horizontal": "left"
+            },
+            "lineHeight": {
+                "value": {
+                    "unit": "px",
+                    "measure": 45
+                }
+            }
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "textStyle",
+        "originId": "173:1993",
+        "sourceId": "f64d14f9-3344-4c96-ab0d-044fb13ec943",
+        "repositoryId": "4484f468-4d15-41ab-a412-5b85b476b69a"
+    },
+    {
+        "id": "e90033f0-5b0c-4762-b3c7-e013e30d69b5",
+        "createdAt": "2022-06-15T17:09:11.926Z",
+        "updatedAt": "2022-06-15T17:09:11.926Z",
+        "name": "heading/feature-desktop",
+        "value": {
+            "font": {
+                "id": "5cb5270b-e818-42aa-8c81-e90426c5bd50",
+                "createdAt": "2022-06-15T17:09:11.921Z",
+                "updatedAt": "2022-06-17T17:00:58.863Z",
+                "name": "Sora-Bold",
+                "value": {
+                    "format": "ttf",
+                    "isItalic": false,
+                    "provider": "Google Fonts",
+                    "fontFamily": "Sora",
+                    "fontWeight": 700,
+                    "fontFileMissing": false,
+                    "fontPostScriptName": "Sora-Bold",
+                    "url": "https://ddp-assets-prod.s3.eu-west-1.amazonaws.com/4484f468-4d15-41ab-a412-5b85b476b69a/font/Sora-Bold/Sora-Bold.ttf?AWSAccessKeyId=ASIAYLKZPEWOM3SFEWX4&Expires=1655489509&Signature=nt%2FlLLJTmaX7XoJY0oF3%2Bx0h1BI%3D&x-amz-security-token=IQoJb3JpZ2luX2VjENH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCWV1LXdlc3QtMSJGMEQCIEf4Qnu14RhrL7hzTtd%2FS4nvlVf89zWoMAlrCsZk47iOAiBo09Yhk36EG5X2G%2Bh6rXr0F9ivAn4wSr%2BQxwr0K2kwOCr4Awja%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAMaDDU3NDEwMjY0NDEyNCIMZUIDuC%2FRukOJ83vjKswD39%2BdV6003aRFdILGDrX%2FKLvKMEpAdc6d0%2FVxi4THPqSdJE3Bz1YW7cuVpBC1%2BC07%2FhuaMQigmwYaT8nYzCsIaWtt09y4VEsjEaWCy0FRH9JIKqpIbkRIcvIJjF9E%2F3M6W7tJ%2FqRcowl4O4czxxDui%2BrF8nWMmh54gd87hP%2F%2BWiBCkwoanFUJ%2BOipcjUnaSdW%2FHPS1plb%2FgbMBtfMbtMpR%2BpjlxKqUaouqkyqYj7pd2d1yhU34vGpvOVEvU9Qi6HAoor1MuyHqhqe%2BuAw8lSrT%2Fh2ZiuieTRvWB3cJiDARS76ATsBTdHc8IrblFyiSoiWZPICOkj87XVPFIAaPAsSNTJ5g5ZTfO8GidvsllN820b%2FpgV%2B8YQNIeUcJjvIbWD%2FYMhJ521k0vIBLRbk3w%2BkctrD9lidkYZlxgfviTL4PBI7AQhQkQsbjhuvy8iw0MUu0VXgnLeJ4IbRzy7%2BpCw7l1neIHYg%2F1Rp7cXB3v4wHue8AwQu7gtHq%2F6VctrYkhIL4%2BWowWRpiLf%2Bae7488SFQcHhsBnY8w9BBfWiI%2FKIFCVFmW1W4HmpHhkOfkOLc3ZgX13YhzGPIgMVpRl6xjIoGHziwT5HlVicMXKRcjCa3LKVBjqmAVzgceUda69KOMUAj1iP2af9KCO3A7j2jMC%2FuMeRgWuqL7qTukei6RXttCgQCQMo3MGeVSW8PYAMkC542qel3w8q1MWO%2FIJKhcjAW1Ze0lzkTjw4mDvHPqfoZtCU0R7hFQiLshKscmD%2F6Ukr0iYgUdV1y4AXRuEmdkYqXOrHt1a5MDpcfJiVjXW80t%2Btv%2FNI0y9cGSQDdKloxTne9zvt6eJXvgeSUMA%3D"
+                },
+                "meta": {
+                    "source": "localStyles"
+                },
+                "type": "font",
+                "originId": "Sora-Bold",
+                "sourceId": "f64d14f9-3344-4c96-ab0d-044fb13ec943",
+                "repositoryId": "4484f468-4d15-41ab-a412-5b85b476b69a"
+            },
+            "fontSize": {
+                "value": {
+                    "unit": "px",
+                    "measure": 48
+                }
+            },
+            "textAlign": {
+                "vertical": "top",
+                "horizontal": "left"
+            },
+            "lineHeight": {
+                "value": {
+                    "unit": "px",
+                    "measure": 60
+                }
+            }
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "textStyle",
+        "originId": "6:1303",
+        "sourceId": "f64d14f9-3344-4c96-ab0d-044fb13ec943",
+        "repositoryId": "4484f468-4d15-41ab-a412-5b85b476b69a"
+    },
+    {
+        "id": "d67e2bb2-e553-4de9-91c6-6a68b577c693",
+        "createdAt": "2022-06-15T17:09:11.928Z",
+        "updatedAt": "2022-06-15T17:09:11.928Z",
+        "name": "heading/feature-mobile",
+        "value": {
+            "font": {
+                "id": "5cb5270b-e818-42aa-8c81-e90426c5bd50",
+                "createdAt": "2022-06-15T17:09:11.921Z",
+                "updatedAt": "2022-06-17T17:00:58.863Z",
+                "name": "Sora-Bold",
+                "value": {
+                    "format": "ttf",
+                    "isItalic": false,
+                    "provider": "Google Fonts",
+                    "fontFamily": "Sora",
+                    "fontWeight": 700,
+                    "fontFileMissing": false,
+                    "fontPostScriptName": "Sora-Bold",
+                    "url": "https://ddp-assets-prod.s3.eu-west-1.amazonaws.com/4484f468-4d15-41ab-a412-5b85b476b69a/font/Sora-Bold/Sora-Bold.ttf?AWSAccessKeyId=ASIAYLKZPEWOM3SFEWX4&Expires=1655489509&Signature=nt%2FlLLJTmaX7XoJY0oF3%2Bx0h1BI%3D&x-amz-security-token=IQoJb3JpZ2luX2VjENH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCWV1LXdlc3QtMSJGMEQCIEf4Qnu14RhrL7hzTtd%2FS4nvlVf89zWoMAlrCsZk47iOAiBo09Yhk36EG5X2G%2Bh6rXr0F9ivAn4wSr%2BQxwr0K2kwOCr4Awja%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAMaDDU3NDEwMjY0NDEyNCIMZUIDuC%2FRukOJ83vjKswD39%2BdV6003aRFdILGDrX%2FKLvKMEpAdc6d0%2FVxi4THPqSdJE3Bz1YW7cuVpBC1%2BC07%2FhuaMQigmwYaT8nYzCsIaWtt09y4VEsjEaWCy0FRH9JIKqpIbkRIcvIJjF9E%2F3M6W7tJ%2FqRcowl4O4czxxDui%2BrF8nWMmh54gd87hP%2F%2BWiBCkwoanFUJ%2BOipcjUnaSdW%2FHPS1plb%2FgbMBtfMbtMpR%2BpjlxKqUaouqkyqYj7pd2d1yhU34vGpvOVEvU9Qi6HAoor1MuyHqhqe%2BuAw8lSrT%2Fh2ZiuieTRvWB3cJiDARS76ATsBTdHc8IrblFyiSoiWZPICOkj87XVPFIAaPAsSNTJ5g5ZTfO8GidvsllN820b%2FpgV%2B8YQNIeUcJjvIbWD%2FYMhJ521k0vIBLRbk3w%2BkctrD9lidkYZlxgfviTL4PBI7AQhQkQsbjhuvy8iw0MUu0VXgnLeJ4IbRzy7%2BpCw7l1neIHYg%2F1Rp7cXB3v4wHue8AwQu7gtHq%2F6VctrYkhIL4%2BWowWRpiLf%2Bae7488SFQcHhsBnY8w9BBfWiI%2FKIFCVFmW1W4HmpHhkOfkOLc3ZgX13YhzGPIgMVpRl6xjIoGHziwT5HlVicMXKRcjCa3LKVBjqmAVzgceUda69KOMUAj1iP2af9KCO3A7j2jMC%2FuMeRgWuqL7qTukei6RXttCgQCQMo3MGeVSW8PYAMkC542qel3w8q1MWO%2FIJKhcjAW1Ze0lzkTjw4mDvHPqfoZtCU0R7hFQiLshKscmD%2F6Ukr0iYgUdV1y4AXRuEmdkYqXOrHt1a5MDpcfJiVjXW80t%2Btv%2FNI0y9cGSQDdKloxTne9zvt6eJXvgeSUMA%3D"
+                },
+                "meta": {
+                    "source": "localStyles"
+                },
+                "type": "font",
+                "originId": "Sora-Bold",
+                "sourceId": "f64d14f9-3344-4c96-ab0d-044fb13ec943",
+                "repositoryId": "4484f468-4d15-41ab-a412-5b85b476b69a"
+            },
+            "fontSize": {
+                "value": {
+                    "unit": "px",
+                    "measure": 30
+                }
+            },
+            "textAlign": {
+                "vertical": "top",
+                "horizontal": "left"
+            },
+            "lineHeight": {
+                "value": {
+                    "unit": "px",
+                    "measure": 37.5
+                }
+            }
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "textStyle",
+        "originId": "6:1306",
+        "sourceId": "f64d14f9-3344-4c96-ab0d-044fb13ec943",
+        "repositoryId": "4484f468-4d15-41ab-a412-5b85b476b69a"
+    },
+    {
+        "id": "fef55825-2b66-4bc8-8756-16e632f6d91d",
+        "createdAt": "2022-06-15T17:09:11.934Z",
+        "updatedAt": "2022-06-15T17:09:11.934Z",
+        "name": "heading/title-desktop",
+        "value": {
+            "font": {
+                "id": "5cb5270b-e818-42aa-8c81-e90426c5bd50",
+                "createdAt": "2022-06-15T17:09:11.921Z",
+                "updatedAt": "2022-06-17T17:00:58.863Z",
+                "name": "Sora-Bold",
+                "value": {
+                    "format": "ttf",
+                    "isItalic": false,
+                    "provider": "Google Fonts",
+                    "fontFamily": "Sora",
+                    "fontWeight": 700,
+                    "fontFileMissing": false,
+                    "fontPostScriptName": "Sora-Bold",
+                    "url": "https://ddp-assets-prod.s3.eu-west-1.amazonaws.com/4484f468-4d15-41ab-a412-5b85b476b69a/font/Sora-Bold/Sora-Bold.ttf?AWSAccessKeyId=ASIAYLKZPEWOM3SFEWX4&Expires=1655489509&Signature=nt%2FlLLJTmaX7XoJY0oF3%2Bx0h1BI%3D&x-amz-security-token=IQoJb3JpZ2luX2VjENH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCWV1LXdlc3QtMSJGMEQCIEf4Qnu14RhrL7hzTtd%2FS4nvlVf89zWoMAlrCsZk47iOAiBo09Yhk36EG5X2G%2Bh6rXr0F9ivAn4wSr%2BQxwr0K2kwOCr4Awja%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAMaDDU3NDEwMjY0NDEyNCIMZUIDuC%2FRukOJ83vjKswD39%2BdV6003aRFdILGDrX%2FKLvKMEpAdc6d0%2FVxi4THPqSdJE3Bz1YW7cuVpBC1%2BC07%2FhuaMQigmwYaT8nYzCsIaWtt09y4VEsjEaWCy0FRH9JIKqpIbkRIcvIJjF9E%2F3M6W7tJ%2FqRcowl4O4czxxDui%2BrF8nWMmh54gd87hP%2F%2BWiBCkwoanFUJ%2BOipcjUnaSdW%2FHPS1plb%2FgbMBtfMbtMpR%2BpjlxKqUaouqkyqYj7pd2d1yhU34vGpvOVEvU9Qi6HAoor1MuyHqhqe%2BuAw8lSrT%2Fh2ZiuieTRvWB3cJiDARS76ATsBTdHc8IrblFyiSoiWZPICOkj87XVPFIAaPAsSNTJ5g5ZTfO8GidvsllN820b%2FpgV%2B8YQNIeUcJjvIbWD%2FYMhJ521k0vIBLRbk3w%2BkctrD9lidkYZlxgfviTL4PBI7AQhQkQsbjhuvy8iw0MUu0VXgnLeJ4IbRzy7%2BpCw7l1neIHYg%2F1Rp7cXB3v4wHue8AwQu7gtHq%2F6VctrYkhIL4%2BWowWRpiLf%2Bae7488SFQcHhsBnY8w9BBfWiI%2FKIFCVFmW1W4HmpHhkOfkOLc3ZgX13YhzGPIgMVpRl6xjIoGHziwT5HlVicMXKRcjCa3LKVBjqmAVzgceUda69KOMUAj1iP2af9KCO3A7j2jMC%2FuMeRgWuqL7qTukei6RXttCgQCQMo3MGeVSW8PYAMkC542qel3w8q1MWO%2FIJKhcjAW1Ze0lzkTjw4mDvHPqfoZtCU0R7hFQiLshKscmD%2F6Ukr0iYgUdV1y4AXRuEmdkYqXOrHt1a5MDpcfJiVjXW80t%2Btv%2FNI0y9cGSQDdKloxTne9zvt6eJXvgeSUMA%3D"
+                },
+                "meta": {
+                    "source": "localStyles"
+                },
+                "type": "font",
+                "originId": "Sora-Bold",
+                "sourceId": "f64d14f9-3344-4c96-ab0d-044fb13ec943",
+                "repositoryId": "4484f468-4d15-41ab-a412-5b85b476b69a"
+            },
+            "fontSize": {
+                "value": {
+                    "unit": "px",
+                    "measure": 36
+                }
+            },
+            "textAlign": {
+                "vertical": "top",
+                "horizontal": "left"
+            },
+            "lineHeight": {
+                "value": {
+                    "unit": "px",
+                    "measure": 45
+                }
+            }
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "textStyle",
+        "originId": "6:1304",
+        "sourceId": "f64d14f9-3344-4c96-ab0d-044fb13ec943",
+        "repositoryId": "4484f468-4d15-41ab-a412-5b85b476b69a"
+    },
+    {
+        "id": "090a559e-68d8-451d-b541-5d4a04e6ff4b",
+        "createdAt": "2022-06-15T17:09:11.916Z",
+        "updatedAt": "2022-06-15T17:09:11.916Z",
+        "name": "heading/title-mobile",
+        "value": {
+            "font": {
+                "id": "5cb5270b-e818-42aa-8c81-e90426c5bd50",
+                "createdAt": "2022-06-15T17:09:11.921Z",
+                "updatedAt": "2022-06-17T17:00:58.863Z",
+                "name": "Sora-Bold",
+                "value": {
+                    "format": "ttf",
+                    "isItalic": false,
+                    "provider": "Google Fonts",
+                    "fontFamily": "Sora",
+                    "fontWeight": 700,
+                    "fontFileMissing": false,
+                    "fontPostScriptName": "Sora-Bold",
+                    "url": "https://ddp-assets-prod.s3.eu-west-1.amazonaws.com/4484f468-4d15-41ab-a412-5b85b476b69a/font/Sora-Bold/Sora-Bold.ttf?AWSAccessKeyId=ASIAYLKZPEWOM3SFEWX4&Expires=1655489509&Signature=nt%2FlLLJTmaX7XoJY0oF3%2Bx0h1BI%3D&x-amz-security-token=IQoJb3JpZ2luX2VjENH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCWV1LXdlc3QtMSJGMEQCIEf4Qnu14RhrL7hzTtd%2FS4nvlVf89zWoMAlrCsZk47iOAiBo09Yhk36EG5X2G%2Bh6rXr0F9ivAn4wSr%2BQxwr0K2kwOCr4Awja%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAMaDDU3NDEwMjY0NDEyNCIMZUIDuC%2FRukOJ83vjKswD39%2BdV6003aRFdILGDrX%2FKLvKMEpAdc6d0%2FVxi4THPqSdJE3Bz1YW7cuVpBC1%2BC07%2FhuaMQigmwYaT8nYzCsIaWtt09y4VEsjEaWCy0FRH9JIKqpIbkRIcvIJjF9E%2F3M6W7tJ%2FqRcowl4O4czxxDui%2BrF8nWMmh54gd87hP%2F%2BWiBCkwoanFUJ%2BOipcjUnaSdW%2FHPS1plb%2FgbMBtfMbtMpR%2BpjlxKqUaouqkyqYj7pd2d1yhU34vGpvOVEvU9Qi6HAoor1MuyHqhqe%2BuAw8lSrT%2Fh2ZiuieTRvWB3cJiDARS76ATsBTdHc8IrblFyiSoiWZPICOkj87XVPFIAaPAsSNTJ5g5ZTfO8GidvsllN820b%2FpgV%2B8YQNIeUcJjvIbWD%2FYMhJ521k0vIBLRbk3w%2BkctrD9lidkYZlxgfviTL4PBI7AQhQkQsbjhuvy8iw0MUu0VXgnLeJ4IbRzy7%2BpCw7l1neIHYg%2F1Rp7cXB3v4wHue8AwQu7gtHq%2F6VctrYkhIL4%2BWowWRpiLf%2Bae7488SFQcHhsBnY8w9BBfWiI%2FKIFCVFmW1W4HmpHhkOfkOLc3ZgX13YhzGPIgMVpRl6xjIoGHziwT5HlVicMXKRcjCa3LKVBjqmAVzgceUda69KOMUAj1iP2af9KCO3A7j2jMC%2FuMeRgWuqL7qTukei6RXttCgQCQMo3MGeVSW8PYAMkC542qel3w8q1MWO%2FIJKhcjAW1Ze0lzkTjw4mDvHPqfoZtCU0R7hFQiLshKscmD%2F6Ukr0iYgUdV1y4AXRuEmdkYqXOrHt1a5MDpcfJiVjXW80t%2Btv%2FNI0y9cGSQDdKloxTne9zvt6eJXvgeSUMA%3D"
+                },
+                "meta": {
+                    "source": "localStyles"
+                },
+                "type": "font",
+                "originId": "Sora-Bold",
+                "sourceId": "f64d14f9-3344-4c96-ab0d-044fb13ec943",
+                "repositoryId": "4484f468-4d15-41ab-a412-5b85b476b69a"
+            },
+            "fontSize": {
+                "value": {
+                    "unit": "px",
+                    "measure": 24
+                }
+            },
+            "textAlign": {
+                "vertical": "top",
+                "horizontal": "left"
+            },
+            "lineHeight": {
+                "value": {
+                    "unit": "px",
+                    "measure": 30
+                }
+            }
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "textStyle",
+        "originId": "173:1992",
+        "sourceId": "f64d14f9-3344-4c96-ab0d-044fb13ec943",
+        "repositoryId": "4484f468-4d15-41ab-a412-5b85b476b69a"
+    },
+    {
+        "id": "9da790b5-235b-42ce-ac1f-e1e42a015d53",
+        "createdAt": "2022-06-15T17:09:11.884Z",
+        "updatedAt": "2022-06-17T17:00:58.864Z",
+        "name": "IBMPlexMono-SemiBold",
+        "value": {
+            "format": "ttf",
+            "isItalic": false,
+            "provider": "Custom font",
+            "fontFamily": "IBM Plex Mono",
+            "fontWeight": 600,
+            "fontFileMissing": false,
+            "fontPostScriptName": "IBMPlexMono-SemiBold",
+            "url": "https://ddp-assets-prod.s3.eu-west-1.amazonaws.com/4484f468-4d15-41ab-a412-5b85b476b69a/font/IBMPlexMono-SemiBold/IBMPlexMono-SemiBold.ttf?AWSAccessKeyId=ASIAYLKZPEWOM3SFEWX4&Expires=1655489509&Signature=1CiHIf01G8BqnZE71T4%2F6sldsuE%3D&x-amz-security-token=IQoJb3JpZ2luX2VjENH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCWV1LXdlc3QtMSJGMEQCIEf4Qnu14RhrL7hzTtd%2FS4nvlVf89zWoMAlrCsZk47iOAiBo09Yhk36EG5X2G%2Bh6rXr0F9ivAn4wSr%2BQxwr0K2kwOCr4Awja%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAMaDDU3NDEwMjY0NDEyNCIMZUIDuC%2FRukOJ83vjKswD39%2BdV6003aRFdILGDrX%2FKLvKMEpAdc6d0%2FVxi4THPqSdJE3Bz1YW7cuVpBC1%2BC07%2FhuaMQigmwYaT8nYzCsIaWtt09y4VEsjEaWCy0FRH9JIKqpIbkRIcvIJjF9E%2F3M6W7tJ%2FqRcowl4O4czxxDui%2BrF8nWMmh54gd87hP%2F%2BWiBCkwoanFUJ%2BOipcjUnaSdW%2FHPS1plb%2FgbMBtfMbtMpR%2BpjlxKqUaouqkyqYj7pd2d1yhU34vGpvOVEvU9Qi6HAoor1MuyHqhqe%2BuAw8lSrT%2Fh2ZiuieTRvWB3cJiDARS76ATsBTdHc8IrblFyiSoiWZPICOkj87XVPFIAaPAsSNTJ5g5ZTfO8GidvsllN820b%2FpgV%2B8YQNIeUcJjvIbWD%2FYMhJ521k0vIBLRbk3w%2BkctrD9lidkYZlxgfviTL4PBI7AQhQkQsbjhuvy8iw0MUu0VXgnLeJ4IbRzy7%2BpCw7l1neIHYg%2F1Rp7cXB3v4wHue8AwQu7gtHq%2F6VctrYkhIL4%2BWowWRpiLf%2Bae7488SFQcHhsBnY8w9BBfWiI%2FKIFCVFmW1W4HmpHhkOfkOLc3ZgX13YhzGPIgMVpRl6xjIoGHziwT5HlVicMXKRcjCa3LKVBjqmAVzgceUda69KOMUAj1iP2af9KCO3A7j2jMC%2FuMeRgWuqL7qTukei6RXttCgQCQMo3MGeVSW8PYAMkC542qel3w8q1MWO%2FIJKhcjAW1Ze0lzkTjw4mDvHPqfoZtCU0R7hFQiLshKscmD%2F6Ukr0iYgUdV1y4AXRuEmdkYqXOrHt1a5MDpcfJiVjXW80t%2Btv%2FNI0y9cGSQDdKloxTne9zvt6eJXvgeSUMA%3D"
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "font",
+        "originId": "IBMPlexMono-SemiBold",
+        "sourceId": "f64d14f9-3344-4c96-ab0d-044fb13ec943",
+        "repositoryId": "4484f468-4d15-41ab-a412-5b85b476b69a"
+    },
+    {
+        "id": "d4746a73-2ae4-454d-8750-c99dc6311a86",
+        "createdAt": "2022-06-15T17:09:11.884Z",
+        "updatedAt": "2022-06-17T17:00:58.864Z",
+        "name": "Inter-Bold",
+        "value": {
+            "format": "ttf",
+            "isItalic": false,
+            "provider": "Google Fonts",
+            "fontFamily": "Inter",
+            "fontWeight": 700,
+            "fontFileMissing": false,
+            "fontPostScriptName": "Inter-Bold",
+            "url": "https://ddp-assets-prod.s3.eu-west-1.amazonaws.com/4484f468-4d15-41ab-a412-5b85b476b69a/font/Inter-Bold/Inter-Bold.ttf?AWSAccessKeyId=ASIAYLKZPEWOM3SFEWX4&Expires=1655489509&Signature=JE3FM2xwXiRl2jRiCG51vraYa70%3D&x-amz-security-token=IQoJb3JpZ2luX2VjENH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCWV1LXdlc3QtMSJGMEQCIEf4Qnu14RhrL7hzTtd%2FS4nvlVf89zWoMAlrCsZk47iOAiBo09Yhk36EG5X2G%2Bh6rXr0F9ivAn4wSr%2BQxwr0K2kwOCr4Awja%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAMaDDU3NDEwMjY0NDEyNCIMZUIDuC%2FRukOJ83vjKswD39%2BdV6003aRFdILGDrX%2FKLvKMEpAdc6d0%2FVxi4THPqSdJE3Bz1YW7cuVpBC1%2BC07%2FhuaMQigmwYaT8nYzCsIaWtt09y4VEsjEaWCy0FRH9JIKqpIbkRIcvIJjF9E%2F3M6W7tJ%2FqRcowl4O4czxxDui%2BrF8nWMmh54gd87hP%2F%2BWiBCkwoanFUJ%2BOipcjUnaSdW%2FHPS1plb%2FgbMBtfMbtMpR%2BpjlxKqUaouqkyqYj7pd2d1yhU34vGpvOVEvU9Qi6HAoor1MuyHqhqe%2BuAw8lSrT%2Fh2ZiuieTRvWB3cJiDARS76ATsBTdHc8IrblFyiSoiWZPICOkj87XVPFIAaPAsSNTJ5g5ZTfO8GidvsllN820b%2FpgV%2B8YQNIeUcJjvIbWD%2FYMhJ521k0vIBLRbk3w%2BkctrD9lidkYZlxgfviTL4PBI7AQhQkQsbjhuvy8iw0MUu0VXgnLeJ4IbRzy7%2BpCw7l1neIHYg%2F1Rp7cXB3v4wHue8AwQu7gtHq%2F6VctrYkhIL4%2BWowWRpiLf%2Bae7488SFQcHhsBnY8w9BBfWiI%2FKIFCVFmW1W4HmpHhkOfkOLc3ZgX13YhzGPIgMVpRl6xjIoGHziwT5HlVicMXKRcjCa3LKVBjqmAVzgceUda69KOMUAj1iP2af9KCO3A7j2jMC%2FuMeRgWuqL7qTukei6RXttCgQCQMo3MGeVSW8PYAMkC542qel3w8q1MWO%2FIJKhcjAW1Ze0lzkTjw4mDvHPqfoZtCU0R7hFQiLshKscmD%2F6Ukr0iYgUdV1y4AXRuEmdkYqXOrHt1a5MDpcfJiVjXW80t%2Btv%2FNI0y9cGSQDdKloxTne9zvt6eJXvgeSUMA%3D"
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "font",
+        "originId": "Inter-Bold",
+        "sourceId": "f64d14f9-3344-4c96-ab0d-044fb13ec943",
+        "repositoryId": "4484f468-4d15-41ab-a412-5b85b476b69a"
+    },
+    {
+        "id": "9c694c4b-16e5-45b2-be73-91a5f4af8cca",
+        "createdAt": "2022-06-15T17:09:11.893Z",
+        "updatedAt": "2022-06-17T17:00:58.854Z",
+        "name": "Inter-Regular",
+        "value": {
+            "format": "ttf",
+            "isItalic": false,
+            "provider": "Google Fonts",
+            "fontFamily": "Inter",
+            "fontWeight": 400,
+            "fontFileMissing": false,
+            "fontPostScriptName": "Inter-Regular",
+            "url": "https://ddp-assets-prod.s3.eu-west-1.amazonaws.com/4484f468-4d15-41ab-a412-5b85b476b69a/font/Inter-Regular/Inter-Regular.ttf?AWSAccessKeyId=ASIAYLKZPEWOM3SFEWX4&Expires=1655489509&Signature=sRM8zbIFGSU2pavD8e1CpzNf7Pc%3D&x-amz-security-token=IQoJb3JpZ2luX2VjENH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCWV1LXdlc3QtMSJGMEQCIEf4Qnu14RhrL7hzTtd%2FS4nvlVf89zWoMAlrCsZk47iOAiBo09Yhk36EG5X2G%2Bh6rXr0F9ivAn4wSr%2BQxwr0K2kwOCr4Awja%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAMaDDU3NDEwMjY0NDEyNCIMZUIDuC%2FRukOJ83vjKswD39%2BdV6003aRFdILGDrX%2FKLvKMEpAdc6d0%2FVxi4THPqSdJE3Bz1YW7cuVpBC1%2BC07%2FhuaMQigmwYaT8nYzCsIaWtt09y4VEsjEaWCy0FRH9JIKqpIbkRIcvIJjF9E%2F3M6W7tJ%2FqRcowl4O4czxxDui%2BrF8nWMmh54gd87hP%2F%2BWiBCkwoanFUJ%2BOipcjUnaSdW%2FHPS1plb%2FgbMBtfMbtMpR%2BpjlxKqUaouqkyqYj7pd2d1yhU34vGpvOVEvU9Qi6HAoor1MuyHqhqe%2BuAw8lSrT%2Fh2ZiuieTRvWB3cJiDARS76ATsBTdHc8IrblFyiSoiWZPICOkj87XVPFIAaPAsSNTJ5g5ZTfO8GidvsllN820b%2FpgV%2B8YQNIeUcJjvIbWD%2FYMhJ521k0vIBLRbk3w%2BkctrD9lidkYZlxgfviTL4PBI7AQhQkQsbjhuvy8iw0MUu0VXgnLeJ4IbRzy7%2BpCw7l1neIHYg%2F1Rp7cXB3v4wHue8AwQu7gtHq%2F6VctrYkhIL4%2BWowWRpiLf%2Bae7488SFQcHhsBnY8w9BBfWiI%2FKIFCVFmW1W4HmpHhkOfkOLc3ZgX13YhzGPIgMVpRl6xjIoGHziwT5HlVicMXKRcjCa3LKVBjqmAVzgceUda69KOMUAj1iP2af9KCO3A7j2jMC%2FuMeRgWuqL7qTukei6RXttCgQCQMo3MGeVSW8PYAMkC542qel3w8q1MWO%2FIJKhcjAW1Ze0lzkTjw4mDvHPqfoZtCU0R7hFQiLshKscmD%2F6Ukr0iYgUdV1y4AXRuEmdkYqXOrHt1a5MDpcfJiVjXW80t%2Btv%2FNI0y9cGSQDdKloxTne9zvt6eJXvgeSUMA%3D"
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "font",
+        "originId": "Inter-Regular",
+        "sourceId": "f64d14f9-3344-4c96-ab0d-044fb13ec943",
+        "repositoryId": "4484f468-4d15-41ab-a412-5b85b476b69a"
+    },
+    {
+        "id": "aaa366a6-9dc6-4d16-81e6-bf3b4471136e",
+        "createdAt": "2022-06-15T17:09:11.876Z",
+        "updatedAt": "2022-06-17T17:00:58.854Z",
+        "name": "Inter-SemiBold",
+        "value": {
+            "format": "ttf",
+            "isItalic": false,
+            "provider": "Google Fonts",
+            "fontFamily": "Inter",
+            "fontWeight": 600,
+            "fontFileMissing": false,
+            "fontPostScriptName": "Inter-SemiBold",
+            "url": "https://ddp-assets-prod.s3.eu-west-1.amazonaws.com/4484f468-4d15-41ab-a412-5b85b476b69a/font/Inter-SemiBold/Inter-SemiBold.ttf?AWSAccessKeyId=ASIAYLKZPEWOM3SFEWX4&Expires=1655489509&Signature=qLPIx7CQB8%2F7m3rAMXvwCKmsyok%3D&x-amz-security-token=IQoJb3JpZ2luX2VjENH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCWV1LXdlc3QtMSJGMEQCIEf4Qnu14RhrL7hzTtd%2FS4nvlVf89zWoMAlrCsZk47iOAiBo09Yhk36EG5X2G%2Bh6rXr0F9ivAn4wSr%2BQxwr0K2kwOCr4Awja%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAMaDDU3NDEwMjY0NDEyNCIMZUIDuC%2FRukOJ83vjKswD39%2BdV6003aRFdILGDrX%2FKLvKMEpAdc6d0%2FVxi4THPqSdJE3Bz1YW7cuVpBC1%2BC07%2FhuaMQigmwYaT8nYzCsIaWtt09y4VEsjEaWCy0FRH9JIKqpIbkRIcvIJjF9E%2F3M6W7tJ%2FqRcowl4O4czxxDui%2BrF8nWMmh54gd87hP%2F%2BWiBCkwoanFUJ%2BOipcjUnaSdW%2FHPS1plb%2FgbMBtfMbtMpR%2BpjlxKqUaouqkyqYj7pd2d1yhU34vGpvOVEvU9Qi6HAoor1MuyHqhqe%2BuAw8lSrT%2Fh2ZiuieTRvWB3cJiDARS76ATsBTdHc8IrblFyiSoiWZPICOkj87XVPFIAaPAsSNTJ5g5ZTfO8GidvsllN820b%2FpgV%2B8YQNIeUcJjvIbWD%2FYMhJ521k0vIBLRbk3w%2BkctrD9lidkYZlxgfviTL4PBI7AQhQkQsbjhuvy8iw0MUu0VXgnLeJ4IbRzy7%2BpCw7l1neIHYg%2F1Rp7cXB3v4wHue8AwQu7gtHq%2F6VctrYkhIL4%2BWowWRpiLf%2Bae7488SFQcHhsBnY8w9BBfWiI%2FKIFCVFmW1W4HmpHhkOfkOLc3ZgX13YhzGPIgMVpRl6xjIoGHziwT5HlVicMXKRcjCa3LKVBjqmAVzgceUda69KOMUAj1iP2af9KCO3A7j2jMC%2FuMeRgWuqL7qTukei6RXttCgQCQMo3MGeVSW8PYAMkC542qel3w8q1MWO%2FIJKhcjAW1Ze0lzkTjw4mDvHPqfoZtCU0R7hFQiLshKscmD%2F6Ukr0iYgUdV1y4AXRuEmdkYqXOrHt1a5MDpcfJiVjXW80t%2Btv%2FNI0y9cGSQDdKloxTne9zvt6eJXvgeSUMA%3D"
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "font",
+        "originId": "Inter-SemiBold",
+        "sourceId": "f64d14f9-3344-4c96-ab0d-044fb13ec943",
+        "repositoryId": "4484f468-4d15-41ab-a412-5b85b476b69a"
+    },
+    {
+        "id": "c2813994-89a5-4f75-89bc-6ae6160696b6",
+        "createdAt": "2022-06-13T17:26:24.273Z",
+        "updatedAt": "2022-06-13T17:26:24.273Z",
+        "name": "reference/color/primary/1/100",
+        "value": {
+            "a": 1,
+            "b": 234,
+            "g": 245,
+            "r": 178
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "11507:35865",
+        "sourceId": "c73e794e-4b23-40e8-84d7-be43254b8e9f",
+        "repositoryId": "4484f468-4d15-41ab-a412-5b85b476b69a"
+    },
+    {
+        "id": "d485d3cb-a040-40ef-9c9a-4655fe7373a7",
+        "createdAt": "2022-06-13T17:26:24.276Z",
+        "updatedAt": "2022-06-13T17:26:24.276Z",
+        "name": "reference/color/primary/1/500",
+        "value": {
+            "a": 1,
+            "b": 149,
+            "g": 151,
+            "r": 49
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "11507:35866",
+        "sourceId": "c73e794e-4b23-40e8-84d7-be43254b8e9f",
+        "repositoryId": "4484f468-4d15-41ab-a412-5b85b476b69a"
+    },
+    {
+        "id": "f459ad31-81ee-4818-b3c8-61ba2cbbfbe7",
+        "createdAt": "2022-06-13T17:26:24.276Z",
+        "updatedAt": "2022-06-13T17:26:24.276Z",
+        "name": "reference/color/primary/1/700",
+        "value": {
+            "a": 1,
+            "b": 97,
+            "g": 94,
+            "r": 40
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "11507:35867",
+        "sourceId": "c73e794e-4b23-40e8-84d7-be43254b8e9f",
+        "repositoryId": "4484f468-4d15-41ab-a412-5b85b476b69a"
+    },
+    {
+        "id": "5fc33d03-4db1-4485-9747-64358675b25c",
+        "createdAt": "2022-06-13T17:26:24.279Z",
+        "updatedAt": "2022-06-13T17:26:24.279Z",
+        "name": "reference/color/primary/1/900",
+        "value": {
+            "a": 1,
+            "b": 68,
+            "g": 64,
+            "r": 29
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "11507:35868",
+        "sourceId": "c73e794e-4b23-40e8-84d7-be43254b8e9f",
+        "repositoryId": "4484f468-4d15-41ab-a412-5b85b476b69a"
+    },
+    {
+        "id": "94f158fd-d788-4090-84a3-5342297de03d",
+        "createdAt": "2022-06-13T17:26:24.273Z",
+        "updatedAt": "2022-06-13T17:26:24.273Z",
+        "name": "reference/color/secondary/1/500",
+        "value": {
+            "a": 1,
+            "b": 234,
+            "g": 122,
+            "r": 159
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "11507:35862",
+        "sourceId": "c73e794e-4b23-40e8-84d7-be43254b8e9f",
+        "repositoryId": "4484f468-4d15-41ab-a412-5b85b476b69a"
+    },
+    {
+        "id": "4024a5e4-3629-4ab2-a81e-b5a15513d62a",
+        "createdAt": "2022-06-13T17:26:24.273Z",
+        "updatedAt": "2022-06-13T17:26:24.273Z",
+        "name": "reference/color/secondary/2/500",
+        "value": {
+            "a": 1,
+            "b": 234,
+            "g": 197,
+            "r": 11
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "11507:35863",
+        "sourceId": "c73e794e-4b23-40e8-84d7-be43254b8e9f",
+        "repositoryId": "4484f468-4d15-41ab-a412-5b85b476b69a"
+    },
+    {
+        "id": "4574128d-c8dd-43c3-a364-a4b2198af6cc",
+        "createdAt": "2022-06-13T17:26:24.276Z",
+        "updatedAt": "2022-06-13T17:26:24.276Z",
+        "name": "reference/color/secondary/3/500",
+        "value": {
+            "a": 1,
+            "b": 166,
+            "g": 100,
+            "r": 237
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "11507:35864",
+        "sourceId": "c73e794e-4b23-40e8-84d7-be43254b8e9f",
+        "repositoryId": "4484f468-4d15-41ab-a412-5b85b476b69a"
+    },
+    {
+        "id": "63cfa1f1-b807-4ac8-a02b-6dcc0985f535",
+        "createdAt": "2022-06-13T17:26:24.251Z",
+        "updatedAt": "2022-06-13T17:26:24.251Z",
+        "name": "reference/color/support/1/100",
+        "value": {
+            "a": 1,
+            "b": 215,
+            "g": 215,
+            "r": 254
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "11507:35977",
+        "sourceId": "c73e794e-4b23-40e8-84d7-be43254b8e9f",
+        "repositoryId": "4484f468-4d15-41ab-a412-5b85b476b69a"
+    },
+    {
+        "id": "3e61f901-bf8b-44ed-8c42-bd47c5d6cecc",
+        "createdAt": "2022-06-13T17:26:24.227Z",
+        "updatedAt": "2022-06-13T17:26:24.227Z",
+        "name": "reference/color/support/1/500",
+        "value": {
+            "a": 1,
+            "b": 62,
+            "g": 62,
+            "r": 229
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "11507:35978",
+        "sourceId": "c73e794e-4b23-40e8-84d7-be43254b8e9f",
+        "repositoryId": "4484f468-4d15-41ab-a412-5b85b476b69a"
+    },
+    {
+        "id": "787a1b77-af84-4e98-ad8b-b8a6fb5dffb0",
+        "createdAt": "2022-06-13T17:26:24.253Z",
+        "updatedAt": "2022-06-13T17:26:24.253Z",
+        "name": "reference/color/support/2/100",
+        "value": {
+            "a": 1,
+            "b": 203,
+            "g": 235,
+            "r": 254
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "11507:35869",
+        "sourceId": "c73e794e-4b23-40e8-84d7-be43254b8e9f",
+        "repositoryId": "4484f468-4d15-41ab-a412-5b85b476b69a"
+    },
+    {
+        "id": "48f1e08e-4f88-4537-b139-bb9a37c17ff6",
+        "createdAt": "2022-06-13T17:26:24.256Z",
+        "updatedAt": "2022-06-13T17:26:24.256Z",
+        "name": "reference/color/support/2/500",
+        "value": {
+            "a": 1,
+            "b": 32,
+            "g": 107,
+            "r": 221
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "11507:35870",
+        "sourceId": "c73e794e-4b23-40e8-84d7-be43254b8e9f",
+        "repositoryId": "4484f468-4d15-41ab-a412-5b85b476b69a"
+    },
+    {
+        "id": "64c004f5-b7f6-4b67-b089-ed7b0eb41eef",
+        "createdAt": "2022-06-13T17:26:24.261Z",
+        "updatedAt": "2022-06-13T17:26:24.261Z",
+        "name": "reference/color/support/3/100",
+        "value": {
+            "a": 1,
+            "b": 213,
+            "g": 246,
+            "r": 198
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "11507:35871",
+        "sourceId": "c73e794e-4b23-40e8-84d7-be43254b8e9f",
+        "repositoryId": "4484f468-4d15-41ab-a412-5b85b476b69a"
+    },
+    {
+        "id": "3197214f-e15d-4cff-9574-c29df7f3e8c7",
+        "createdAt": "2022-06-13T17:26:24.283Z",
+        "updatedAt": "2022-06-13T17:26:24.283Z",
+        "name": "reference/color/support/3/500",
+        "value": {
+            "a": 1,
+            "b": 105,
+            "g": 161,
+            "r": 56
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "11507:35872",
+        "sourceId": "c73e794e-4b23-40e8-84d7-be43254b8e9f",
+        "repositoryId": "4484f468-4d15-41ab-a412-5b85b476b69a"
+    },
+    {
+        "id": "fd042a9a-8133-4088-b682-28a65413c6cb",
+        "createdAt": "2022-06-13T17:26:24.286Z",
+        "updatedAt": "2022-06-13T17:26:24.286Z",
+        "name": "reference/color/support/4/100",
+        "value": {
+            "a": 1,
+            "b": 248,
+            "g": 227,
+            "r": 190
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "11507:35873",
+        "sourceId": "c73e794e-4b23-40e8-84d7-be43254b8e9f",
+        "repositoryId": "4484f468-4d15-41ab-a412-5b85b476b69a"
+    },
+    {
+        "id": "cc497c4d-386d-4e5a-b924-e77591c61c04",
+        "createdAt": "2022-06-13T17:26:24.277Z",
+        "updatedAt": "2022-06-13T17:26:24.277Z",
+        "name": "reference/color/support/4/500",
+        "value": {
+            "a": 1,
+            "b": 206,
+            "g": 130,
+            "r": 49
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "11507:35874",
+        "sourceId": "c73e794e-4b23-40e8-84d7-be43254b8e9f",
+        "repositoryId": "4484f468-4d15-41ab-a412-5b85b476b69a"
+    },
+    {
+        "id": "9fbc48a2-bf87-494d-a300-e84b0a6765a7",
+        "createdAt": "2022-06-13T17:26:24.287Z",
+        "updatedAt": "2022-06-13T17:26:24.287Z",
+        "name": "reference/color/surface/1/500",
+        "value": {
+            "a": 1,
+            "b": 255,
+            "g": 255,
+            "r": 255
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "11507:35875",
+        "sourceId": "c73e794e-4b23-40e8-84d7-be43254b8e9f",
+        "repositoryId": "4484f468-4d15-41ab-a412-5b85b476b69a"
+    },
+    {
+        "id": "04440377-a4e6-4daa-963c-47359f4b04a1",
+        "createdAt": "2022-06-13T17:26:24.251Z",
+        "updatedAt": "2022-06-13T17:26:24.251Z",
+        "name": "reference/color/surface/2/500",
+        "value": {
+            "a": 1,
+            "b": 0,
+            "g": 0,
+            "r": 0
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "11507:35876",
+        "sourceId": "c73e794e-4b23-40e8-84d7-be43254b8e9f",
+        "repositoryId": "4484f468-4d15-41ab-a412-5b85b476b69a"
+    },
+    {
+        "id": "7deb3d5e-c218-4887-aada-086f48c2ce2c",
+        "createdAt": "2022-06-13T17:26:24.263Z",
+        "updatedAt": "2022-06-13T17:26:24.263Z",
+        "name": "reference/color/surface/3/100",
+        "value": {
+            "a": 1,
+            "b": 247,
+            "g": 242,
+            "r": 237
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "11507:35929",
+        "sourceId": "c73e794e-4b23-40e8-84d7-be43254b8e9f",
+        "repositoryId": "4484f468-4d15-41ab-a412-5b85b476b69a"
+    },
+    {
+        "id": "d600aad6-2ebc-42d6-acdb-4414c2d9eff9",
+        "createdAt": "2022-06-13T17:26:24.268Z",
+        "updatedAt": "2022-06-13T17:26:24.268Z",
+        "name": "reference/color/surface/3/200",
+        "value": {
+            "a": 1,
+            "b": 240,
+            "g": 232,
+            "r": 226
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "11507:35877",
+        "sourceId": "c73e794e-4b23-40e8-84d7-be43254b8e9f",
+        "repositoryId": "4484f468-4d15-41ab-a412-5b85b476b69a"
+    },
+    {
+        "id": "464da9c1-c987-44c0-ad83-08f0723e0c88",
+        "createdAt": "2022-06-13T17:26:24.238Z",
+        "updatedAt": "2022-06-13T17:26:24.238Z",
+        "name": "reference/color/surface/3/400",
+        "value": {
+            "a": 1,
+            "b": 224,
+            "g": 213,
+            "r": 203
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "11507:35979",
+        "sourceId": "c73e794e-4b23-40e8-84d7-be43254b8e9f",
+        "repositoryId": "4484f468-4d15-41ab-a412-5b85b476b69a"
+    },
+    {
+        "id": "4e798a71-8978-4135-96cf-b57933e966d9",
+        "createdAt": "2022-06-13T17:26:24.287Z",
+        "updatedAt": "2022-06-13T17:26:24.287Z",
+        "name": "reference/color/surface/3/500",
+        "value": {
+            "a": 1,
+            "b": 192,
+            "g": 174,
+            "r": 160
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "11507:35878",
+        "sourceId": "c73e794e-4b23-40e8-84d7-be43254b8e9f",
+        "repositoryId": "4484f468-4d15-41ab-a412-5b85b476b69a"
+    },
+    {
+        "id": "7ec944dd-9a4a-4943-a232-43e41f58cd5b",
+        "createdAt": "2022-06-13T17:26:24.284Z",
+        "updatedAt": "2022-06-13T17:26:24.284Z",
+        "name": "reference/color/surface/3/600",
+        "value": {
+            "a": 1,
+            "b": 104,
+            "g": 85,
+            "r": 74
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "11507:35879",
+        "sourceId": "c73e794e-4b23-40e8-84d7-be43254b8e9f",
+        "repositoryId": "4484f468-4d15-41ab-a412-5b85b476b69a"
+    },
+    {
+        "id": "25a8bca8-afff-4783-80f6-4320e5a48416",
+        "createdAt": "2022-06-13T17:26:24.278Z",
+        "updatedAt": "2022-06-13T17:26:24.278Z",
+        "name": "reference/color/surface/3/700",
+        "value": {
+            "a": 1,
+            "b": 72,
+            "g": 55,
+            "r": 45
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "11507:35938",
+        "sourceId": "c73e794e-4b23-40e8-84d7-be43254b8e9f",
+        "repositoryId": "4484f468-4d15-41ab-a412-5b85b476b69a"
+    },
+    {
+        "id": "e9c0aa39-0967-4d84-b1ca-472e87034032",
+        "createdAt": "2022-06-13T17:26:24.289Z",
+        "updatedAt": "2022-06-13T17:26:24.289Z",
+        "name": "reference/color/surface/4/0",
+        "value": {
+            "a": 0,
+            "b": 0,
+            "g": 0,
+            "r": 0
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "11507:35916",
+        "sourceId": "c73e794e-4b23-40e8-84d7-be43254b8e9f",
+        "repositoryId": "4484f468-4d15-41ab-a412-5b85b476b69a"
+    },
+    {
+        "id": "036b3e79-d291-4659-93c5-aa571253edf9",
+        "createdAt": "2022-06-13T17:26:24.251Z",
+        "updatedAt": "2022-06-13T17:26:24.251Z",
+        "name": "reference/color/surface/4/100",
+        "value": {
+            "a": 1,
+            "b": 0,
+            "g": 0,
+            "r": 0
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "11507:35921",
+        "sourceId": "c73e794e-4b23-40e8-84d7-be43254b8e9f",
+        "repositoryId": "4484f468-4d15-41ab-a412-5b85b476b69a"
+    },
+    {
+        "id": "f42b447b-a209-4af8-a7ac-e249435b7dcb",
+        "createdAt": "2022-06-13T17:26:24.246Z",
+        "updatedAt": "2022-06-13T17:26:24.246Z",
+        "name": "reference/color/surface/4/20",
+        "value": {
+            "a": 0.2,
+            "b": 0,
+            "g": 0,
+            "r": 0
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "11507:35917",
+        "sourceId": "c73e794e-4b23-40e8-84d7-be43254b8e9f",
+        "repositoryId": "4484f468-4d15-41ab-a412-5b85b476b69a"
+    },
+    {
+        "id": "1a2c2550-c745-4534-afec-e7aca670efe7",
+        "createdAt": "2022-06-13T17:26:24.239Z",
+        "updatedAt": "2022-06-13T17:26:24.239Z",
+        "name": "reference/color/surface/4/40",
+        "value": {
+            "a": 0.4,
+            "b": 0,
+            "g": 0,
+            "r": 0
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "11507:35918",
+        "sourceId": "c73e794e-4b23-40e8-84d7-be43254b8e9f",
+        "repositoryId": "4484f468-4d15-41ab-a412-5b85b476b69a"
+    },
+    {
+        "id": "651fa436-d846-425d-8d7f-24e28352bcab",
+        "createdAt": "2022-06-13T17:26:24.273Z",
+        "updatedAt": "2022-06-13T17:26:24.273Z",
+        "name": "reference/color/surface/4/60",
+        "value": {
+            "a": 0.6,
+            "b": 0,
+            "g": 0,
+            "r": 0
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "11507:35919",
+        "sourceId": "c73e794e-4b23-40e8-84d7-be43254b8e9f",
+        "repositoryId": "4484f468-4d15-41ab-a412-5b85b476b69a"
+    },
+    {
+        "id": "4d5d7090-a542-4a44-b1a3-0b015331ee69",
+        "createdAt": "2022-06-13T17:26:24.256Z",
+        "updatedAt": "2022-06-13T17:26:24.256Z",
+        "name": "reference/color/surface/4/80",
+        "value": {
+            "a": 0.8,
+            "b": 0,
+            "g": 0,
+            "r": 0
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "11507:35920",
+        "sourceId": "c73e794e-4b23-40e8-84d7-be43254b8e9f",
+        "repositoryId": "4484f468-4d15-41ab-a412-5b85b476b69a"
+    },
+    {
+        "id": "5cb5270b-e818-42aa-8c81-e90426c5bd50",
+        "createdAt": "2022-06-15T17:09:11.921Z",
+        "updatedAt": "2022-06-17T17:00:58.863Z",
+        "name": "Sora-Bold",
+        "value": {
+            "format": "ttf",
+            "isItalic": false,
+            "provider": "Google Fonts",
+            "fontFamily": "Sora",
+            "fontWeight": 700,
+            "fontFileMissing": false,
+            "fontPostScriptName": "Sora-Bold",
+            "url": "https://ddp-assets-prod.s3.eu-west-1.amazonaws.com/4484f468-4d15-41ab-a412-5b85b476b69a/font/Sora-Bold/Sora-Bold.ttf?AWSAccessKeyId=ASIAYLKZPEWOM3SFEWX4&Expires=1655489509&Signature=nt%2FlLLJTmaX7XoJY0oF3%2Bx0h1BI%3D&x-amz-security-token=IQoJb3JpZ2luX2VjENH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCWV1LXdlc3QtMSJGMEQCIEf4Qnu14RhrL7hzTtd%2FS4nvlVf89zWoMAlrCsZk47iOAiBo09Yhk36EG5X2G%2Bh6rXr0F9ivAn4wSr%2BQxwr0K2kwOCr4Awja%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAMaDDU3NDEwMjY0NDEyNCIMZUIDuC%2FRukOJ83vjKswD39%2BdV6003aRFdILGDrX%2FKLvKMEpAdc6d0%2FVxi4THPqSdJE3Bz1YW7cuVpBC1%2BC07%2FhuaMQigmwYaT8nYzCsIaWtt09y4VEsjEaWCy0FRH9JIKqpIbkRIcvIJjF9E%2F3M6W7tJ%2FqRcowl4O4czxxDui%2BrF8nWMmh54gd87hP%2F%2BWiBCkwoanFUJ%2BOipcjUnaSdW%2FHPS1plb%2FgbMBtfMbtMpR%2BpjlxKqUaouqkyqYj7pd2d1yhU34vGpvOVEvU9Qi6HAoor1MuyHqhqe%2BuAw8lSrT%2Fh2ZiuieTRvWB3cJiDARS76ATsBTdHc8IrblFyiSoiWZPICOkj87XVPFIAaPAsSNTJ5g5ZTfO8GidvsllN820b%2FpgV%2B8YQNIeUcJjvIbWD%2FYMhJ521k0vIBLRbk3w%2BkctrD9lidkYZlxgfviTL4PBI7AQhQkQsbjhuvy8iw0MUu0VXgnLeJ4IbRzy7%2BpCw7l1neIHYg%2F1Rp7cXB3v4wHue8AwQu7gtHq%2F6VctrYkhIL4%2BWowWRpiLf%2Bae7488SFQcHhsBnY8w9BBfWiI%2FKIFCVFmW1W4HmpHhkOfkOLc3ZgX13YhzGPIgMVpRl6xjIoGHziwT5HlVicMXKRcjCa3LKVBjqmAVzgceUda69KOMUAj1iP2af9KCO3A7j2jMC%2FuMeRgWuqL7qTukei6RXttCgQCQMo3MGeVSW8PYAMkC542qel3w8q1MWO%2FIJKhcjAW1Ze0lzkTjw4mDvHPqfoZtCU0R7hFQiLshKscmD%2F6Ukr0iYgUdV1y4AXRuEmdkYqXOrHt1a5MDpcfJiVjXW80t%2Btv%2FNI0y9cGSQDdKloxTne9zvt6eJXvgeSUMA%3D"
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "font",
+        "originId": "Sora-Bold",
+        "sourceId": "f64d14f9-3344-4c96-ab0d-044fb13ec943",
+        "repositoryId": "4484f468-4d15-41ab-a412-5b85b476b69a"
+    },
+    {
+        "id": "31d058e0-e68a-4710-a22c-752a454d1629",
+        "createdAt": "2022-06-15T17:09:11.873Z",
+        "updatedAt": "2022-06-15T17:09:11.873Z",
+        "name": "system/quiz-title",
+        "value": {
+            "font": {
+                "id": "d4746a73-2ae4-454d-8750-c99dc6311a86",
+                "createdAt": "2022-06-15T17:09:11.884Z",
+                "updatedAt": "2022-06-17T17:00:58.864Z",
+                "name": "Inter-Bold",
+                "value": {
+                    "format": "ttf",
+                    "isItalic": false,
+                    "provider": "Google Fonts",
+                    "fontFamily": "Inter",
+                    "fontWeight": 700,
+                    "fontFileMissing": false,
+                    "fontPostScriptName": "Inter-Bold",
+                    "url": "https://ddp-assets-prod.s3.eu-west-1.amazonaws.com/4484f468-4d15-41ab-a412-5b85b476b69a/font/Inter-Bold/Inter-Bold.ttf?AWSAccessKeyId=ASIAYLKZPEWOM3SFEWX4&Expires=1655489509&Signature=JE3FM2xwXiRl2jRiCG51vraYa70%3D&x-amz-security-token=IQoJb3JpZ2luX2VjENH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCWV1LXdlc3QtMSJGMEQCIEf4Qnu14RhrL7hzTtd%2FS4nvlVf89zWoMAlrCsZk47iOAiBo09Yhk36EG5X2G%2Bh6rXr0F9ivAn4wSr%2BQxwr0K2kwOCr4Awja%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAMaDDU3NDEwMjY0NDEyNCIMZUIDuC%2FRukOJ83vjKswD39%2BdV6003aRFdILGDrX%2FKLvKMEpAdc6d0%2FVxi4THPqSdJE3Bz1YW7cuVpBC1%2BC07%2FhuaMQigmwYaT8nYzCsIaWtt09y4VEsjEaWCy0FRH9JIKqpIbkRIcvIJjF9E%2F3M6W7tJ%2FqRcowl4O4czxxDui%2BrF8nWMmh54gd87hP%2F%2BWiBCkwoanFUJ%2BOipcjUnaSdW%2FHPS1plb%2FgbMBtfMbtMpR%2BpjlxKqUaouqkyqYj7pd2d1yhU34vGpvOVEvU9Qi6HAoor1MuyHqhqe%2BuAw8lSrT%2Fh2ZiuieTRvWB3cJiDARS76ATsBTdHc8IrblFyiSoiWZPICOkj87XVPFIAaPAsSNTJ5g5ZTfO8GidvsllN820b%2FpgV%2B8YQNIeUcJjvIbWD%2FYMhJ521k0vIBLRbk3w%2BkctrD9lidkYZlxgfviTL4PBI7AQhQkQsbjhuvy8iw0MUu0VXgnLeJ4IbRzy7%2BpCw7l1neIHYg%2F1Rp7cXB3v4wHue8AwQu7gtHq%2F6VctrYkhIL4%2BWowWRpiLf%2Bae7488SFQcHhsBnY8w9BBfWiI%2FKIFCVFmW1W4HmpHhkOfkOLc3ZgX13YhzGPIgMVpRl6xjIoGHziwT5HlVicMXKRcjCa3LKVBjqmAVzgceUda69KOMUAj1iP2af9KCO3A7j2jMC%2FuMeRgWuqL7qTukei6RXttCgQCQMo3MGeVSW8PYAMkC542qel3w8q1MWO%2FIJKhcjAW1Ze0lzkTjw4mDvHPqfoZtCU0R7hFQiLshKscmD%2F6Ukr0iYgUdV1y4AXRuEmdkYqXOrHt1a5MDpcfJiVjXW80t%2Btv%2FNI0y9cGSQDdKloxTne9zvt6eJXvgeSUMA%3D"
+                },
+                "meta": {
+                    "source": "localStyles"
+                },
+                "type": "font",
+                "originId": "Inter-Bold",
+                "sourceId": "f64d14f9-3344-4c96-ab0d-044fb13ec943",
+                "repositoryId": "4484f468-4d15-41ab-a412-5b85b476b69a"
+            },
+            "fontSize": {
+                "value": {
+                    "unit": "px",
+                    "measure": 24
+                }
+            },
+            "textAlign": {
+                "vertical": "top",
+                "horizontal": "left"
+            },
+            "lineHeight": {
+                "value": {
+                    "unit": "px",
+                    "measure": 36
+                }
+            }
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "textStyle",
+        "originId": "6:1301",
+        "sourceId": "f64d14f9-3344-4c96-ab0d-044fb13ec943",
+        "repositoryId": "4484f468-4d15-41ab-a412-5b85b476b69a"
+    },
+    {
+        "id": "5347a37e-186c-406a-82fb-876b8c368fa9",
+        "createdAt": "2022-06-15T17:09:11.864Z",
+        "updatedAt": "2022-06-15T17:09:11.864Z",
+        "name": "system/support-desktop",
+        "value": {
+            "font": {
+                "id": "9c694c4b-16e5-45b2-be73-91a5f4af8cca",
+                "createdAt": "2022-06-15T17:09:11.893Z",
+                "updatedAt": "2022-06-17T17:00:58.854Z",
+                "name": "Inter-Regular",
+                "value": {
+                    "format": "ttf",
+                    "isItalic": false,
+                    "provider": "Google Fonts",
+                    "fontFamily": "Inter",
+                    "fontWeight": 400,
+                    "fontFileMissing": false,
+                    "fontPostScriptName": "Inter-Regular",
+                    "url": "https://ddp-assets-prod.s3.eu-west-1.amazonaws.com/4484f468-4d15-41ab-a412-5b85b476b69a/font/Inter-Regular/Inter-Regular.ttf?AWSAccessKeyId=ASIAYLKZPEWOM3SFEWX4&Expires=1655489509&Signature=sRM8zbIFGSU2pavD8e1CpzNf7Pc%3D&x-amz-security-token=IQoJb3JpZ2luX2VjENH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCWV1LXdlc3QtMSJGMEQCIEf4Qnu14RhrL7hzTtd%2FS4nvlVf89zWoMAlrCsZk47iOAiBo09Yhk36EG5X2G%2Bh6rXr0F9ivAn4wSr%2BQxwr0K2kwOCr4Awja%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAMaDDU3NDEwMjY0NDEyNCIMZUIDuC%2FRukOJ83vjKswD39%2BdV6003aRFdILGDrX%2FKLvKMEpAdc6d0%2FVxi4THPqSdJE3Bz1YW7cuVpBC1%2BC07%2FhuaMQigmwYaT8nYzCsIaWtt09y4VEsjEaWCy0FRH9JIKqpIbkRIcvIJjF9E%2F3M6W7tJ%2FqRcowl4O4czxxDui%2BrF8nWMmh54gd87hP%2F%2BWiBCkwoanFUJ%2BOipcjUnaSdW%2FHPS1plb%2FgbMBtfMbtMpR%2BpjlxKqUaouqkyqYj7pd2d1yhU34vGpvOVEvU9Qi6HAoor1MuyHqhqe%2BuAw8lSrT%2Fh2ZiuieTRvWB3cJiDARS76ATsBTdHc8IrblFyiSoiWZPICOkj87XVPFIAaPAsSNTJ5g5ZTfO8GidvsllN820b%2FpgV%2B8YQNIeUcJjvIbWD%2FYMhJ521k0vIBLRbk3w%2BkctrD9lidkYZlxgfviTL4PBI7AQhQkQsbjhuvy8iw0MUu0VXgnLeJ4IbRzy7%2BpCw7l1neIHYg%2F1Rp7cXB3v4wHue8AwQu7gtHq%2F6VctrYkhIL4%2BWowWRpiLf%2Bae7488SFQcHhsBnY8w9BBfWiI%2FKIFCVFmW1W4HmpHhkOfkOLc3ZgX13YhzGPIgMVpRl6xjIoGHziwT5HlVicMXKRcjCa3LKVBjqmAVzgceUda69KOMUAj1iP2af9KCO3A7j2jMC%2FuMeRgWuqL7qTukei6RXttCgQCQMo3MGeVSW8PYAMkC542qel3w8q1MWO%2FIJKhcjAW1Ze0lzkTjw4mDvHPqfoZtCU0R7hFQiLshKscmD%2F6Ukr0iYgUdV1y4AXRuEmdkYqXOrHt1a5MDpcfJiVjXW80t%2Btv%2FNI0y9cGSQDdKloxTne9zvt6eJXvgeSUMA%3D"
+                },
+                "meta": {
+                    "source": "localStyles"
+                },
+                "type": "font",
+                "originId": "Inter-Regular",
+                "sourceId": "f64d14f9-3344-4c96-ab0d-044fb13ec943",
+                "repositoryId": "4484f468-4d15-41ab-a412-5b85b476b69a"
+            },
+            "fontSize": {
+                "value": {
+                    "unit": "px",
+                    "measure": 48
+                }
+            },
+            "textAlign": {
+                "vertical": "top",
+                "horizontal": "left"
+            },
+            "lineHeight": {
+                "value": {
+                    "unit": "px",
+                    "measure": 60
+                }
+            }
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "textStyle",
+        "originId": "232:1905",
+        "sourceId": "f64d14f9-3344-4c96-ab0d-044fb13ec943",
+        "repositoryId": "4484f468-4d15-41ab-a412-5b85b476b69a"
+    },
+    {
+        "id": "a37d9c79-327e-4ae3-aac5-c98fc20191c6",
+        "createdAt": "2022-06-15T17:09:11.884Z",
+        "updatedAt": "2022-06-15T17:09:11.884Z",
+        "name": "system/support-mobile",
+        "value": {
+            "font": {
+                "id": "9c694c4b-16e5-45b2-be73-91a5f4af8cca",
+                "createdAt": "2022-06-15T17:09:11.893Z",
+                "updatedAt": "2022-06-17T17:00:58.854Z",
+                "name": "Inter-Regular",
+                "value": {
+                    "format": "ttf",
+                    "isItalic": false,
+                    "provider": "Google Fonts",
+                    "fontFamily": "Inter",
+                    "fontWeight": 400,
+                    "fontFileMissing": false,
+                    "fontPostScriptName": "Inter-Regular",
+                    "url": "https://ddp-assets-prod.s3.eu-west-1.amazonaws.com/4484f468-4d15-41ab-a412-5b85b476b69a/font/Inter-Regular/Inter-Regular.ttf?AWSAccessKeyId=ASIAYLKZPEWOM3SFEWX4&Expires=1655489509&Signature=sRM8zbIFGSU2pavD8e1CpzNf7Pc%3D&x-amz-security-token=IQoJb3JpZ2luX2VjENH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCWV1LXdlc3QtMSJGMEQCIEf4Qnu14RhrL7hzTtd%2FS4nvlVf89zWoMAlrCsZk47iOAiBo09Yhk36EG5X2G%2Bh6rXr0F9ivAn4wSr%2BQxwr0K2kwOCr4Awja%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAMaDDU3NDEwMjY0NDEyNCIMZUIDuC%2FRukOJ83vjKswD39%2BdV6003aRFdILGDrX%2FKLvKMEpAdc6d0%2FVxi4THPqSdJE3Bz1YW7cuVpBC1%2BC07%2FhuaMQigmwYaT8nYzCsIaWtt09y4VEsjEaWCy0FRH9JIKqpIbkRIcvIJjF9E%2F3M6W7tJ%2FqRcowl4O4czxxDui%2BrF8nWMmh54gd87hP%2F%2BWiBCkwoanFUJ%2BOipcjUnaSdW%2FHPS1plb%2FgbMBtfMbtMpR%2BpjlxKqUaouqkyqYj7pd2d1yhU34vGpvOVEvU9Qi6HAoor1MuyHqhqe%2BuAw8lSrT%2Fh2ZiuieTRvWB3cJiDARS76ATsBTdHc8IrblFyiSoiWZPICOkj87XVPFIAaPAsSNTJ5g5ZTfO8GidvsllN820b%2FpgV%2B8YQNIeUcJjvIbWD%2FYMhJ521k0vIBLRbk3w%2BkctrD9lidkYZlxgfviTL4PBI7AQhQkQsbjhuvy8iw0MUu0VXgnLeJ4IbRzy7%2BpCw7l1neIHYg%2F1Rp7cXB3v4wHue8AwQu7gtHq%2F6VctrYkhIL4%2BWowWRpiLf%2Bae7488SFQcHhsBnY8w9BBfWiI%2FKIFCVFmW1W4HmpHhkOfkOLc3ZgX13YhzGPIgMVpRl6xjIoGHziwT5HlVicMXKRcjCa3LKVBjqmAVzgceUda69KOMUAj1iP2af9KCO3A7j2jMC%2FuMeRgWuqL7qTukei6RXttCgQCQMo3MGeVSW8PYAMkC542qel3w8q1MWO%2FIJKhcjAW1Ze0lzkTjw4mDvHPqfoZtCU0R7hFQiLshKscmD%2F6Ukr0iYgUdV1y4AXRuEmdkYqXOrHt1a5MDpcfJiVjXW80t%2Btv%2FNI0y9cGSQDdKloxTne9zvt6eJXvgeSUMA%3D"
+                },
+                "meta": {
+                    "source": "localStyles"
+                },
+                "type": "font",
+                "originId": "Inter-Regular",
+                "sourceId": "f64d14f9-3344-4c96-ab0d-044fb13ec943",
+                "repositoryId": "4484f468-4d15-41ab-a412-5b85b476b69a"
+            },
+            "fontSize": {
+                "value": {
+                    "unit": "px",
+                    "measure": 30
+                }
+            },
+            "textAlign": {
+                "vertical": "top",
+                "horizontal": "left"
+            },
+            "lineHeight": {
+                "value": {
+                    "unit": "px",
+                    "measure": 37.5
+                }
+            }
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "textStyle",
+        "originId": "232:1906",
+        "sourceId": "f64d14f9-3344-4c96-ab0d-044fb13ec943",
+        "repositoryId": "4484f468-4d15-41ab-a412-5b85b476b69a"
+    }
+]
