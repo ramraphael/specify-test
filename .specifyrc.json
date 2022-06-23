@@ -5,8 +5,37 @@
   "rules": [
     {
       "name": "Extract all tokens to JSON",
-      "path": "./output/all-tokens.json",
-      "parsers": []
+      "path": "specify_output/all-tokens.json",
+      "parsers": [
+        {
+          "name": "link-design-tokens"
+        },
+        {
+          "name": "filter",
+          "options": {
+            "key": "name",
+            "regex": {
+              "pattern": "^(?!reference/color).*$"
+            }
+          }
+        },
+        {
+          "name": "to-theme-ui",
+          "options": {
+            "variants": true,
+            "formatConfig": {
+              "exportDefault": true
+            },
+            "formatName": "kebabCase",
+            "formatTokens": {
+              "fontSizeFormat": {
+                "type": "string",
+                "unit": "rem"
+              }
+            }
+          }
+        }
+      ]
     }
   ]
 }
