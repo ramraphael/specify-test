@@ -8,15 +8,18 @@
       "path": "specify_output/all-tokens.json",
       "parsers": [
         {
-          "name": "link-design-tokens"
-        },
-        {
           "name": "filter",
           "options": {
             "key": "name",
             "regex": {
               "pattern": "^(?!reference/color).*$"
             }
+          }
+        },
+        {
+          "name": "px-to-rem",
+          "options": {
+            "keys": ["fontSize"]
           }
         },
         {
