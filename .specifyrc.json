@@ -1,41 +1,12 @@
 {
-  "repository": "@thirty-madison/Launch-Design-System",
+  "repository": "@thirty-madison/Flat-Tokens",
   "head": "specify",
   "base": "main",
   "rules": [
     {
       "name": "Extract all tokens to JSON",
-      "path": "specify_output/all-tokens.json",
-      "parsers": [
-        {
-          "name": "link-design-tokens"
-        },
-        {
-          "name": "filter",
-          "options": {
-            "key": "name",
-            "regex": {
-              "pattern": "^(?!reference/color).*$"
-            }
-          }
-        },
-        {
-          "name": "to-theme-ui",
-          "options": {
-            "variants": true,
-            "formatConfig": {
-              "exportDefault": true
-            },
-            "formatName": "kebabCase",
-            "formatTokens": {
-              "fontSizeFormat": {
-                "type": "string",
-                "unit": "rem"
-              }
-            }
-          }
-        }
-      ]
+      "path": "./output/all-tokens.json",
+      "parsers": []
     }
   ]
 }
