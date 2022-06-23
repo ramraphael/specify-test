@@ -31,12 +31,6 @@
               }
             }
           }
-        },
-        {
-          "name": "px-to-rem",
-          "options": {
-            "keys": ["fontSize", "lineHeight"]
-          }
         }
       ]
     }
