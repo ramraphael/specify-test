@@ -21,7 +21,7 @@
           "options": {
             "variants": true,
             "formatConfig": {
-              "exportDefault": true
+              "module": "json"
             },
             "formatName": "kebabCase",
             "formatTokens": {
