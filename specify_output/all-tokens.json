@@ -1,6 +1,6 @@
 const theme = {
   colors: {
-    "brand-accent-1-background": "rgb(178, 245, 234)",
+    "brand-accent-1-background": "rgb(231, 246, 244)",
     "brand-accent-1-icon": "rgb(45, 55, 72)",
     "brand-accent-1-stroke": "rgb(255, 255, 255)",
     "brand-accent-1-text": "rgb(45, 55, 72)",
@@ -122,6 +122,20 @@ const theme = {
     "inter-regular": 400,
     "inter-semi-bold": 600,
     "sora-bold": 700,
+  },
+  sizes: {
+    "spacing-1": "2px",
+    "spacing-2": "4px",
+    "spacing-3": "8px",
+    "spacing-4": "12px",
+    "spacing-5": "16px",
+    "spacing-6": "24px",
+    "spacing-7": "32px",
+    "spacing-8": "40px",
+    "spacing-9": "48px",
+    "spacing-10": "64px",
+    "spacing-11": "80px",
+    "spacing-12": "96px",
   },
   text: {
     "button-extrasmall": {
