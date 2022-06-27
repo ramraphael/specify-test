@@ -62,6 +62,9 @@
         "ui-warning-stroke": "rgb(221, 107, 32)",
         "ui-warning-text": "rgb(31, 31, 31)"
     },
+    "gradients": {
+        "brand-contrast-background-opacity": "linear-gradient(180deg, rgba(0, 0, 0, 0.2) 0%, rgb(255, 255, 255) 100%)"
+    },
     "fontSizes": [
         "0.75rem",
         "0.875rem",
