@@ -8,6 +8,18 @@
       "path": "specify_output/all-tokens.json",
       "parsers": [
         {
+          "name": "replace-string",
+          "options": {
+            "keys": ["name"],
+            "regex": {
+              "pattern": "brand-accent-2",
+              "flags": "g"
+            },
+            "replaceBy": "brand-bright",
+            "trim": true
+          }
+        },
+        {
           "name": "filter",
           "options": {
             "key": "name",
