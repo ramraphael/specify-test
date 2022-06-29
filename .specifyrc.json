@@ -1,5 +1,5 @@
 {
-  "repository": "@thirty-madison/Flat-Tokens",
+  "repository": "@thirtymadison/base-theme",
   "head": "specify",
   "base": "main",
   "rules": [
