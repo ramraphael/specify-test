@@ -63,7 +63,7 @@
         "ui-warning-text": "rgb(31, 31, 31)"
     },
     "gradients": {
-        "brand-contrast-background-opacity": "linear-gradient(180deg, rgba(0, 0, 0, 0.2) 0%, rgb(255, 255, 255) 100%)"
+        "brand-contrast-background-opacity": "linear-gradient(180deg, rgb(0, 0, 0) 0%, rgb(255, 255, 255) 100%)"
     },
     "fontSizes": [
         "0.75rem",
@@ -79,13 +79,17 @@
     ],
     "lineHeights": {
         "button-extrasmall": "12px",
+        "button-extrasmall-underline": "12px",
         "eyebrow-small": "12px",
         "button-small": "14px",
+        "button-small-underline": "14px",
         "eyebrow-medium": "14px",
         "button-medium": "16px",
+        "button-medium-underline": "16px",
         "button-text-link": "16px",
         "eyebrow-large": "16px",
         "button-large": "18px",
+        "button-large-underline": "18px",
         "description-extrasmall-bold": "18px",
         "description-extrasmall-normal": "18px",
         "description-small-bold": "21px",
@@ -149,6 +153,15 @@
             "textAlign": "left",
             "verticalAlign": "top"
         },
+        "button-extrasmall-underline": {
+            "fontFamily": "inter-semi-bold",
+            "lineHeight": "eyebrow-small",
+            "fontSize": 0,
+            "fontWeight": "inter-semi-bold",
+            "textAlign": "left",
+            "verticalAlign": "top",
+            "textDecoration": "underline"
+        },
         "button-large": {
             "fontFamily": "inter-semi-bold",
             "lineHeight": "description-extrasmall-normal",
@@ -156,6 +169,15 @@
             "fontWeight": "inter-semi-bold",
             "textAlign": "left",
             "verticalAlign": "top"
+        },
+        "button-large-underline": {
+            "fontFamily": "inter-semi-bold",
+            "lineHeight": "description-extrasmall-normal",
+            "fontSize": 3,
+            "fontWeight": "inter-semi-bold",
+            "textAlign": "left",
+            "verticalAlign": "top",
+            "textDecoration": "underline"
         },
         "button-medium": {
             "fontFamily": "inter-semi-bold",
@@ -165,6 +187,15 @@
             "textAlign": "left",
             "verticalAlign": "top"
         },
+        "button-medium-underline": {
+            "fontFamily": "inter-semi-bold",
+            "lineHeight": "eyebrow-large",
+            "fontSize": 2,
+            "fontWeight": "inter-semi-bold",
+            "textAlign": "left",
+            "verticalAlign": "top",
+            "textDecoration": "underline"
+        },
         "button-small": {
             "fontFamily": "inter-semi-bold",
             "lineHeight": "eyebrow-medium",
@@ -172,6 +203,15 @@
             "fontWeight": "inter-semi-bold",
             "textAlign": "left",
             "verticalAlign": "top"
+        },
+        "button-small-underline": {
+            "fontFamily": "inter-semi-bold",
+            "lineHeight": "eyebrow-medium",
+            "fontSize": 1,
+            "fontWeight": "inter-semi-bold",
+            "textAlign": "left",
+            "verticalAlign": "top",
+            "textDecoration": "underline"
         },
         "button-text-link": {
             "fontFamily": "ibm-plex-mono-semi-bold",
