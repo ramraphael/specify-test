@@ -1,4 +1,14 @@
 {
+    "borderWidths": {
+        "border-width-button-focus": "4px",
+        "border-width-input-form": "4px",
+        "border-width-outline": "1px"
+    },
+    "borderStyles": {
+        "border-width-button-focus": "solid",
+        "border-width-input-form": "solid",
+        "border-width-outline": "solid"
+    },
     "colors": {
         "brand-accent-1-background": "rgb(231, 246, 244)",
         "brand-accent-1-icon": "rgb(45, 55, 72)",
@@ -54,6 +64,7 @@
         "ui-form-hover-stroke": "rgb(8, 59, 152)",
         "ui-form-icon": "rgb(226, 232, 240)",
         "ui-form-icon-active": "rgb(0, 75, 214)",
+        "ui-form-icon-neutral": "rgb(54, 54, 54)",
         "ui-form-stroke": "rgb(229, 229, 229)",
         "ui-form-text": "rgb(61, 61, 61)",
         "ui-form-text-weak": "rgb(166, 166, 166)",
@@ -158,6 +169,23 @@
         "spacing-11": "80px",
         "spacing-12": "96px",
         "spacing-13": "160px"
+    },
+    "border": {
+        "border-width-button-focus": {
+            "borderColor": "rgb(204, 204, 204)",
+            "borderWidth": "4px",
+            "borderStyle": "solid"
+        },
+        "border-width-input-form": {
+            "borderColor": "rgb(0, 0, 0)",
+            "borderWidth": "4px",
+            "borderStyle": "solid"
+        },
+        "border-width-outline": {
+            "borderColor": "rgb(0, 0, 0)",
+            "borderWidth": "1px",
+            "borderStyle": "solid"
+        }
     },
     "text": {
         "button-extrasmall": {
