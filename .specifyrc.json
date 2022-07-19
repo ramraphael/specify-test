@@ -5,16 +5,8 @@
   "rules": [
     {
       "name": "Extract all tokens to JSON",
-      "path": "specify_output",
+      "path": "specify_output/all-tokens.json",
       "parsers": [
-        {
-          "name": "convert-font",
-          "options": {
-            "formats": ["woff2", "woff"],
-            "fileNameKey":  ["fontFamily", "fontWeight"],
-            "fileNameFormat": "kebabCase"
-          }
-        },
         {
           "name": "omit",
           "options": {
