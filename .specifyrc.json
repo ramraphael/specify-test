@@ -4,6 +4,20 @@
   "base": "main",
   "rules": [
     {
+      "name": "Extract Fonts",
+      "path": "specify_output/fonts",
+      "parsers": [
+        {
+          "name": "convert-font",
+          "options": {
+            "formats": ["woff2", "woff"],
+            "fileNameKey":  ["fontFamily", "fontWeight"],
+            "fileNameFormat": "kebabCase"
+          }
+        }
+      ]
+    },
+    {
       "name": "Extract all tokens to JSON",
       "path": "specify_output/all-tokens.json",
       "parsers": [
@@ -32,14 +46,6 @@
             "regex": {
               "pattern": "^(?!reference/color).*$"
             }
-          }
-        },
-        {
-          "name": "convert-font",
-          "options": {
-            "formats": ["woff2", "woff"],
-            "fileNameKey":  ["fontFamily", "fontWeight"],
-            "fileNameFormat": "kebabCase"
           }
         },
         {
