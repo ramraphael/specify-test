@@ -41,7 +41,7 @@
             "formatConfig": {
               "module": "json"
             },
-            "formatName": "kebabCase",
+            "formatName": "camelCase",
             "formatTokens": {
               "fontSizeFormat": {
                 "type": "string",
