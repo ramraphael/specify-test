@@ -35,6 +35,14 @@
           }
         },
         {
+          "name": "convert-font",
+          "options": {
+            "formats": ["woff2", "woff"],
+            "fileNameKey":  ["fontFamily", "fontWeight"],
+            "fileNameFormat": "kebabCase"
+          }
+        },
+        {
           "name": "to-theme-ui",
           "options": {
             "variants": true,
