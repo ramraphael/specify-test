@@ -4,8 +4,8 @@
   "base": "main",
   "rules": [
     {
-      "name": "Extract Fonts",
-      "path": "specify_output/fonts",
+      "name": "Extract all tokens to JSON",
+      "path": "specify_output",
       "parsers": [
         {
           "name": "convert-font",
@@ -14,13 +14,7 @@
             "fileNameKey":  ["fontFamily", "fontWeight"],
             "fileNameFormat": "kebabCase"
           }
-        }
-      ]
-    },
-    {
-      "name": "Extract all tokens to JSON",
-      "path": "specify_output/all-tokens.json",
-      "parsers": [
+        },
         {
           "name": "omit",
           "options": {
