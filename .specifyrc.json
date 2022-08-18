@@ -6,51 +6,7 @@
     {
       "name": "Extract all tokens to JSON",
       "path": "specify_output/all-tokens.json",
-      "parsers": [
-        {
-          "name": "omit",
-          "options": {
-            "keys": ["value.textAlign"]
-          }
-        },
-        {
-          "name": "replace-string",
-          "options": {
-            "keys": ["name"],
-            "regex": {
-              "pattern": "brand-accent-2",
-              "flags": "g"
-            },
-            "replaceBy": "brand-bright",
-            "trim": true
-          }
-        },
-        {
-          "name": "filter",
-          "options": {
-            "key": "name",
-            "regex": {
-              "pattern": "^(?!reference/color).*$"
-            }
-          }
-        },
-        {
-          "name": "to-theme-ui",
-          "options": {
-            "variants": true,
-            "formatConfig": {
-              "module": "json"
-            },
-            "formatName": "kebabCase",
-            "formatTokens": {
-              "fontSizeFormat": {
-                "type": "string",
-                "unit": "rem"
-              }
-            }
-          }
-        }
-      ]
+      "parsers": []
     }
   ]
 }
