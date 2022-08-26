@@ -1,5 +1,5 @@
 {
-  "repository": "@thirty-madison/Flat-Tokens",
+  "repository": "@thirtymadison/Facet",
   "head": "specify",
   "base": "main",
   "rules": [
@@ -7,6 +7,24 @@
       "name": "Extract all tokens to JSON",
       "path": "specify_output/all-tokens.json",
       "parsers": [
+        {
+          "name": "omit",
+          "options": {
+            "keys": ["value.textAlign"]
+          }
+        },
+        {
+          "name": "replace-string",
+          "options": {
+            "keys": ["name"],
+            "regex": {
+              "pattern": "brand-accent-2",
+              "flags": "g"
+            },
+            "replaceBy": "brand-bright",
+            "trim": true
+          }
+        },
         {
           "name": "filter",
           "options": {
