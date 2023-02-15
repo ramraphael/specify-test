@@ -1,715 +1,737 @@
 {
-    "borderWidths": {
-        "border-alert": "1px",
-        "border-button": "1.5px",
-        "border-button-focus": "3px",
-        "border-card": "1px",
-        "border-card-focus": "3px",
-        "border-container": "1px",
-        "border-container-focus": "3px",
-        "border-divider": "1px",
-        "border-form": "1px",
-        "border-form-focus": "3px",
-        "border-nav": "1px",
-        "border-ui-badge": "1px"
+  "colors": {
+    "brand-neutral-background": "rgb(255, 255, 255)",
+    "buttons-brand-contrast-secondary-stroke-hover": "rgba(255, 255, 255, 0.6)",
+    "buttons-brand-neutral-primary-text-disabled": "rgb(90, 90, 90)",
+    "buttons-brand-contrast-primary-stroke-hover": "rgb(255, 255, 255)",
+    "buttons-brand-contrast-secondary-background-hover": "rgba(255, 255, 255, 0.05)",
+    "nav-background": "rgb(255, 255, 255)",
+    "buttons-brand-contrast-secondary-text-hover": "rgb(255, 255, 255)",
+    "buttons-brand-contrast-secondary-stroke": "rgb(255, 255, 255)",
+    "brand-subtle-background-container": "rgb(215, 214, 214)",
+    "ui-form-active-stroke": "rgb(0, 75, 214)",
+    "ui-form-background-hover": "rgb(218, 218, 218)",
+    "buttons-brand-contrast-secondary-stroke-active": "rgb(255, 255, 255)",
+    "buttons-brand-contrast-primary-stroke-active": "rgb(255, 255, 255)",
+    "buttons-brand-contrast-primary-background-disabled": "rgb(182, 182, 182)",
+    "buttons-brand-neutral-secondary-text-active": "rgb(0, 10, 87)",
+    "buttons-brand-contrast-primary-stroke": "rgb(255, 255, 255)",
+    "brand-accent-1-text-strong": "rgb(255, 255, 255)",
+    "buttons-brand-neutral-secondary-stroke": "rgb(0, 75, 214)",
+    "buttons-brand-neutral-primary-text": "rgb(255, 255, 255)",
+    "buttons-brand-contrast-secondary-text": "rgb(255, 255, 255)",
+    "brand-contrast-stroke": "rgba(255, 255, 255, 0.7)",
+    "brand-contrast-background": "rgb(0, 75, 214)",
+    "buttons-brand-neutral-primary-background-disabled": "rgb(182, 182, 182)",
+    "nav-stroke": "rgb(247, 247, 247)",
+    "system-price-discounted": "rgb(0, 75, 214)",
+    "buttons-brand-neutral-primary-text-hover": "rgb(255, 255, 255)",
+    "buttons-brand-contrast-primary-stroke-disabled": "rgb(212, 212, 212)",
+    "ui-form-icon": "rgb(226, 232, 240)",
+    "brand-neutral-link-active": "rgb(0, 12, 98)",
+    "buttons-brand-neutral-secondary-text-hover": "rgb(0, 17, 149)",
+    "ui-form-hover-stroke": "rgb(8, 59, 152)",
+    "buttons-brand-neutral-secondary-text": "rgb(0, 24, 206)",
+    "ui-error-stroke": "rgb(229, 62, 62)",
+    "ui-form-stroke": "rgb(229, 229, 229)",
+    "ui-success-text": "rgb(31, 31, 31)",
+    "brand-contrast-text": "rgb(255, 255, 255)",
+    "brand-contrast-icon": "rgb(255, 255, 255)",
+    "ui-warning-icon": "rgb(221, 107, 32)",
+    "buttons-brand-neutral-primary-text-active": "rgb(255, 255, 255)",
+    "ui-success-stroke": "rgb(56, 161, 105)",
+    "ui-form-icon-active": "rgb(0, 75, 214)",
+    "ui-error-background": "rgb(254, 215, 215)",
+    "brand-neutral-text": "rgb(31, 31, 31)",
+    "brand-subtle-stroke": "rgb(198, 217, 255)",
+    "ui-form-text": "rgb(21, 21, 21)",
+    "brand-neutral-link": "rgb(0, 75, 214)",
+    "ui-warning-background": "rgb(239, 251, 190)",
+    "brand-subtle-background-hover": "rgb(206, 34, 221)",
+    "system-focus-stroke": "rgb(197, 207, 254)",
+    "brand-neutral-hover-stroke": "rgb(195, 195, 195)",
+    "system-hero-text": "rgb(255, 255, 255)",
+    "buttons-brand-neutral-primary-background": "rgb(0, 75, 214)",
+    "brand-neutral-stroke": "rgb(232, 232, 232)",
+    "ui-information-icon": "rgb(0, 75, 214)",
+    "brand-contrast-background-container": "rgb(4, 0, 175)",
+    "brand-accent-1-text": "rgb(255, 255, 255)",
+    "brand-accent-1-icon": "rgb(255, 255, 255)",
+    "brand-neutral-text-weak": "rgb(104, 112, 109)",
+    "ui-warning-text": "rgb(31, 31, 31)",
+    "brand-subtle-text": "rgb(21, 21, 21)",
+    "brand-contrast-link-active": "rgb(129, 172, 255)",
+    "ui-information-stroke": "rgb(49, 130, 206)",
+    "brand-subtle-background": "rgb(229, 238, 255)",
+    "ui-information-text": "rgb(31, 31, 31)",
+    "brand-bright-text": "rgb(21, 21, 21)",
+    "nav-link": "rgb(0, 29, 243)",
+    "brand-bright-stroke": "rgb(5, 5, 5)",
+    "buttons-brand-accent-1-primary-background-disabled": "rgb(212, 212, 212)",
+    "brand-bright-background": "rgb(255, 202, 172)",
+    "brand-accent-1-stroke": "rgba(255, 255, 255, 0.7)",
+    "buttons-brand-contrast-primary-text": "rgb(0, 29, 243)",
+    "buttons-brand-accent-1-primary-text-active": "rgb(15, 0, 81)",
+    "brand-contrast-link-hover": "rgb(198, 217, 255)",
+    "buttons-brand-contrast-primary-text-hover": "rgb(1, 24, 193)",
+    "buttons-brand-accent-1-secondary-background": "rgba(255, 255, 255, 0)",
+    "buttons-brand-accent-1-primary-text-disabled": "rgb(90, 90, 90)",
+    "buttons-brand-neutral-primary-background-hover": "rgb(0, 62, 176)",
+    "buttons-brand-accent-1-primary-text-hover": "rgb(1, 24, 193)",
+    "buttons-brand-neutral-primary-background-active": "rgba(51, 74, 245, 0.9)",
+    "buttons-brand-contrast-primary-text-active": "rgb(15, 0, 81)",
+    "buttons-brand-accent-1-secondary-stroke": "rgb(255, 255, 255)",
+    "buttons-brand-accent-1-primary-background-active": "rgb(204, 204, 204)",
+    "buttons-brand-accent-1-primary-stroke-active": "rgb(255, 255, 255)",
+    "buttons-brand-accent-1-primary-background": "rgb(255, 255, 255)",
+    "buttons-brand-accent-1-secondary-text": "rgb(255, 255, 255)",
+    "buttons-brand-accent-1-primary-text": "rgb(0, 29, 243)",
+    "buttons-brand-accent-1-secondary-background-hover": "rgba(255, 255, 255, 0.05)",
+    "buttons-brand-accent-1-secondary-stroke-active": "rgb(255, 255, 255)",
+    "buttons-brand-accent-1-secondary-stroke-hover": "rgba(255, 255, 255, 0.6)",
+    "buttons-brand-accent-1-secondary-background-active": "rgba(255, 255, 255, 0.1)",
+    "buttons-brand-accent-1-primary-stroke-hover": "rgb(255, 255, 255)",
+    "buttons-brand-accent-1-primary-stroke": "rgb(255, 255, 255)",
+    "buttons-brand-neutral-secondary-background-active": "rgba(60, 127, 255, 0.2)",
+    "buttons-brand-accent-1-secondary-text-hover": "rgb(255, 255, 255)",
+    "buttons-brand-accent-1-primary-background-hover": "rgba(255, 255, 255, 0.8)",
+    "buttons-brand-accent-1-primary-stroke-disabled": "rgb(212, 212, 212)",
+    "nav-link-hover": "rgb(0, 24, 203)",
+    "brand-neutral-text-strong": "rgb(21, 21, 21)",
+    "brand-bright-text-strong": "rgb(21, 21, 21)",
+    "nav-progress-bar": "rgb(0, 75, 214)",
+    "buttons-brand-contrast-primary-background": "rgb(255, 255, 255)",
+    "brand-neutral-background-hover": "rgba(248, 248, 248, 0.95)",
+    "ui-information-background": "rgb(229, 238, 255)",
+    "brand-subtle-text-weak": "rgb(21, 21, 21)",
+    "buttons-brand-contrast-secondary-background-active": "rgba(255, 255, 255, 0.1)",
+    "ui-form-icon-static": "rgb(54, 54, 54)",
+    "nav-brand-logo": "rgb(0, 75, 214)",
+    "ui-error-icon": "rgb(229, 62, 62)",
+    "brand-subtle-icon": "rgb(0, 29, 243)",
+    "brand-bright-background-hover": "rgb(229, 226, 146)",
+    "buttons-brand-neutral-secondary-background-hover": "rgba(60, 127, 255, 0.1)",
+    "buttons-brand-neutral-primary-stroke": "rgb(0, 75, 214)",
+    "ui-form-text-weak": "rgb(104, 112, 109)",
+    "ui-success-background": "rgb(198, 246, 213)",
+    "buttons-brand-contrast-primary-background-active": "rgba(198, 217, 255, 0.9)",
+    "system-transparent": "rgba(237, 242, 247, 0)",
+    "brand-neutral-strong-stroke": "rgb(215, 215, 215)",
+    "buttons-brand-neutral-secondary-stroke-active": "rgb(0, 15, 127)",
+    "ui-success-icon": "rgb(56, 161, 105)",
+    "brand-contrast-text-strong": "rgb(255, 255, 255)",
+    "brand-neutral-icon": "rgb(0, 29, 243)",
+    "buttons-brand-contrast-primary-background-hover": "rgb(198, 217, 255)",
+    "brand-accent-1-background": "rgb(16, 91, 83)",
+    "brand-accent-1-text-weak": "rgb(255, 255, 255)",
+    "brand-bright-text-weak": "rgb(21, 21, 21)",
+    "brand-neutral-link-hover": "rgb(0, 24, 197)",
+    "brand-neutral-background-container": "rgb(244, 244, 244)",
+    "buttons-brand-accent-1-secondary-text-active": "rgb(255, 255, 255)",
+    "brand-contrast-link": "rgb(255, 255, 255)",
+    "buttons-brand-neutral-primary-stroke-active": "rgb(0, 29, 243)",
+    "ui-error-text": "rgb(229, 62, 62)",
+    "buttons-brand-contrast-primary-text-disabled": "rgb(90, 90, 90)",
+    "brand-accent-1-background-hover": "rgb(255, 255, 255)",
+    "brand-accent-1-link": "rgb(255, 255, 255)",
+    "buttons-brand-neutral-secondary-stroke-hover": "rgb(2, 24, 187)",
+    "ui-form-background": "rgb(255, 255, 255)",
+    "brand-subtle-text-highlight": "rgb(0, 75, 214)",
+    "brand-subtle-text-strong": "rgb(21, 21, 21)",
+    "buttons-brand-neutral-primary-stroke-hover": "rgb(0, 24, 200)",
+    "buttons-brand-contrast-secondary-background": "rgba(255, 255, 255, 0)",
+    "brand-bright-icon": "rgb(7, 7, 7)",
+    "brand-contrast-background-hover": "rgb(14, 81, 53)",
+    "buttons-brand-neutral-primary-stroke-disabled": "rgb(212, 212, 212)",
+    "brand-contrast-text-weak": "rgb(255, 255, 255)",
+    "buttons-brand-neutral-secondary-background": "rgba(255, 255, 255, 0)",
+    "buttons-brand-contrast-secondary-text-active": "rgb(255, 255, 255)",
+    "ui-warning-stroke": "rgb(207, 237, 85)",
+    "brand-subtle-icon-highlight": "rgb(235, 0, 255)"
+  },
+  "fonts": {
+    "inter-regular": "Inter-Regular",
+    "inter-bold": "Inter-Bold",
+    "sohne-buch": "Sohne-Buch",
+    "sohne-halbfett": "Sohne-Halbfett",
+    "louize-display": "LouizeDisplay"
+  },
+  "fontWeights": {
+    "inter-regular": 400,
+    "sohne-buch": 400,
+    "sohne-halbfett": 400,
+    "louize-display": 400,
+    "inter-bold": 700
+  },
+  "shadows": {
+    "shadow-card": "0px 3px 10px rgba(67, 67, 78, 0.1)",
+    "shadow-fixed-footer": "0px 4px 10px rgba(0, 0, 0, 0.1)",
+    "shadow-header": "0px 4px 10px rgba(0, 0, 0, 0.05)",
+    "shadow-alert": "0px 2px 6px rgba(35, 35, 35, 0.16)"
+  },
+  "borderWidths": {
+    "border-completionbar": "1px",
+    "border-card-focus": "3px",
+    "border-card": "1px",
+    "border-divider": "1.5px",
+    "border-container": "1px",
+    "border-nav": "1px",
+    "border-button-focus": "1.5px",
+    "border-button": "1.5px",
+    "border-alert": "1px",
+    "border-form-focus": "1.5px",
+    "border-container-focus": "3px",
+    "border-ui-badge": "1px",
+    "border-form": "1.5px"
+  },
+  "borderStyles": {
+    "border-completionbar": "solid",
+    "border-card-focus": "solid",
+    "border-card": "solid",
+    "border-divider": "solid",
+    "border-container": "solid",
+    "border-nav": "solid",
+    "border-button-focus": "solid",
+    "border-button": "solid",
+    "border-alert": "solid",
+    "border-form-focus": "solid",
+    "border-container-focus": "solid",
+    "border-ui-badge": "solid",
+    "border-form": "solid"
+  },
+  "radii": {
+    "border-completionbar": 30,
+    "border-card-focus": 4,
+    "border-card": 4,
+    "border-container": 8,
+    "border-button-focus": 100,
+    "border-button": 100,
+    "border-alert": 5,
+    "border-form-focus": 4,
+    "border-container-focus": 8,
+    "border-ui-badge": 30,
+    "border-form": 4
+  },
+  "sizes": {
+    "spacing-1": "2px",
+    "spacing-2": "4px",
+    "spacing-3": "8px",
+    "spacing-4": "12px",
+    "spacing-5": "16px",
+    "spacing-6": "24px",
+    "spacing-7": "32px",
+    "spacing-8": "40px",
+    "spacing-9": "48px",
+    "spacing-10": "64px",
+    "spacing-11": "80px",
+    "spacing-12": "96px",
+    "spacing-13": "160px"
+  },
+  "fontSizes": [
+    "0.5rem",
+    "0.75rem",
+    "0.875rem",
+    "1rem",
+    "1.125rem",
+    "1.25rem",
+    "1.5rem",
+    "1.875rem",
+    "2.25rem",
+    "3rem",
+    "3.75rem"
+  ],
+  "lineHeights": {
+    "system-ui-badge": "8px",
+    "button-small-underline": "12px",
+    "button-extrasmall-underline": "12px",
+    "button-extrasmall": "12px",
+    "eyebrow-small": "12px",
+    "price-xs-strikethru": "12px",
+    "price-xs-bold": "12px",
+    "price-xs": "12px",
+    "eyebrow-medium": "14px",
+    "button-small": "14px",
+    "price-sm": "14px",
+    "price-sm-strikethru": "14px",
+    "price-sm-bold": "14px",
+    "price-md-strikethru": "16px",
+    "button-tertiary": "16px",
+    "button-medium": "16px",
+    "eyebrow-large": "16px",
+    "price-md-bold": "16px",
+    "price-md": "16px",
+    "button-medium-underline": "16px",
+    "description-extrasmall-normal": "18px",
+    "description-extrasmall-bold": "18px",
+    "button-large": "18px",
+    "button-large-underline": "18px",
+    "price-lg-strikethru": "18px",
+    "price-lg-bold": "18px",
+    "price-lg": "18px",
+    "description-small-normal": "21px",
+    "description-small-bold": "21px",
+    "static-xs-heading": "22.5px",
+    "description-medium-bold": "24px",
+    "description-medium-normal": "24px",
+    "static-sm-heading": "25px",
+    "description-large-bold": "27px",
+    "description-large-normal": "27px",
+    "static-md-heading": "30px",
+    "heading-title-mobile": "30px",
+    "system-support-mobile": "30px",
+    "description-extralarge-normal": "30px",
+    "description-extralarge-bold": "30px",
+    "description-xxl-normal-bold": "36px",
+    "description-xxl-normal": "36px",
+    "static-lg-heading": "37.5px",
+    "heading-feature-mobile": "37.5px",
+    "heading-title-desktop": "45px",
+    "static-xl-heading": "45px",
+    "system-quiz-title": "45px",
+    "heading-breakout-mobile": "45px",
+    "system-support-desktop": "45px",
+    "static-2-xl-heading": "60px",
+    "heading-feature-desktop": "60px",
+    "static-3-xl-heading": "75px",
+    "heading-breakout-desktop": "75px"
+  },
+  "letterSpacings": {
+    "button-extrasmall": "1.2000000000000002px",
+    "eyebrow-small": "1.2000000000000002px",
+    "eyebrow-medium": "1.4000000000000001px",
+    "button-small": "1.4000000000000001px",
+    "button-tertiary": "1.6px",
+    "button-medium": "1.6px",
+    "eyebrow-large": "1.6px",
+    "button-large": "1.8px"
+  },
+  "gradients": {
+    "brand-bright-background-opacity": "linear-gradient(180deg, rgb(235, 238, 255) 0%, rgb(17, 52, 234) 100%)",
+    "brand-accent-1-background-opacity": "linear-gradient(180deg, rgb(16, 91, 83) 0%, rgb(0, 0, 0) 100%)",
+    "brand-contrast-background-opacity": "linear-gradient(180deg, rgb(0, 0, 0) 0%, rgb(255, 255, 255) 100%)",
+    "system-hero-opacity": "linear-gradient(180deg, rgba(0, 0, 0, 0.09) 0%, rgba(255, 255, 255, 0) 100%)"
+  },
+  "border": {
+    "border-completionbar": {
+      "borderColor": "rgb(0, 0, 0)",
+      "borderWidth": "1px",
+      "borderRadius": "30px",
+      "borderStyle": "solid"
     },
-    "borderStyles": {
-        "border-alert": "solid",
-        "border-button": "solid",
-        "border-button-focus": "solid",
-        "border-card": "solid",
-        "border-card-focus": "solid",
-        "border-container": "solid",
-        "border-container-focus": "solid",
-        "border-divider": "solid",
-        "border-form": "solid",
-        "border-form-focus": "solid",
-        "border-nav": "solid",
-        "border-ui-badge": "solid"
+    "border-card-focus": {
+      "borderColor": "rgb(0, 0, 0)",
+      "borderWidth": "3px",
+      "borderRadius": "4px",
+      "borderStyle": "solid"
     },
-    "radii": {
-        "border-button": 100,
-        "border-button-focus": 100,
-        "border-card": 4,
-        "border-card-focus": 4,
-        "border-container": 8,
-        "border-container-focus": 8,
-        "border-form": 4,
-        "border-form-focus": 4,
-        "border-ui-badge": 30
+    "border-card": {
+      "borderColor": "rgb(0, 0, 0)",
+      "borderWidth": "1px",
+      "borderRadius": "4px",
+      "borderStyle": "solid"
     },
-    "colors": {
-        "brand-accent-1-background": "rgb(16, 91, 83)",
-        "brand-accent-1-background-hover": "rgb(255, 255, 255)",
-        "brand-accent-1-icon": "rgb(255, 255, 255)",
-        "brand-accent-1-stroke": "rgb(255, 255, 255)",
-        "brand-accent-1-text": "rgb(255, 255, 255)",
-        "brand-accent-1-text-strong": "rgb(255, 255, 255)",
-        "brand-bright-background": "rgb(255, 202, 172)",
-        "brand-bright-background-hover": "rgb(229, 226, 146)",
-        "brand-bright-icon": "rgb(7, 7, 7)",
-        "brand-bright-stroke": "rgb(5, 5, 5)",
-        "brand-bright-text": "rgb(32, 32, 32)",
-        "brand-bright-text-strong": "rgb(4, 4, 4)",
-        "brand-contrast-background": "rgb(0, 75, 214)",
-        "brand-contrast-background-container": "rgb(4, 0, 175)",
-        "brand-contrast-background-hover": "rgb(14, 81, 53)",
-        "brand-contrast-icon": "rgb(255, 255, 255)",
-        "brand-contrast-link": "rgb(255, 255, 255)",
-        "brand-contrast-link-active": "rgb(129, 172, 255)",
-        "brand-contrast-link-hover": "rgb(198, 217, 255)",
-        "brand-contrast-stroke": "rgb(203, 203, 203)",
-        "brand-contrast-text": "rgb(255, 255, 255)",
-        "brand-contrast-text-strong": "rgb(255, 255, 255)",
-        "brand-contrast-text-weak": "rgb(220, 220, 220)",
-        "brand-neutral-background": "rgb(255, 255, 255)",
-        "brand-neutral-background-container": "rgb(229, 238, 255)",
-        "brand-neutral-background-hover": "rgb(200, 209, 228)",
-        "brand-neutral-hover-stroke": "rgb(45, 55, 72)",
-        "brand-neutral-icon": "rgb(0, 29, 243)",
-        "brand-neutral-link": "rgb(0, 29, 243)",
-        "brand-neutral-link-active": "rgb(0, 12, 98)",
-        "brand-neutral-link-hover": "rgb(0, 24, 197)",
-        "brand-neutral-stroke": "rgb(31, 31, 31)",
-        "brand-neutral-strong-stroke": "rgb(46, 46, 46)",
-        "brand-neutral-text": "rgb(31, 31, 31)",
-        "brand-neutral-text-strong": "rgb(0, 0, 0)",
-        "brand-neutral-text-weak": "rgb(59, 59, 59)",
-        "brand-subtle-background": "rgb(229, 238, 255)",
-        "brand-subtle-background-container": "rgb(215, 214, 214)",
-        "brand-subtle-background-hover": "rgb(233, 227, 180)",
-        "brand-subtle-icon": "rgb(0, 29, 243)",
-        "brand-subtle-stroke": "rgb(134, 134, 134)",
-        "brand-subtle-text": "rgb(70, 70, 79)",
-        "brand-subtle-text-strong": "rgb(11, 11, 11)",
-        "buttons-brand-accent-1-primary-background": "rgb(255, 255, 255)",
-        "buttons-brand-accent-1-primary-background-active": "rgb(204, 204, 204)",
-        "buttons-brand-accent-1-primary-background-disabled": "rgb(212, 212, 212)",
-        "buttons-brand-accent-1-primary-background-hover": "rgba(255, 255, 255, 0.8)",
-        "buttons-brand-accent-1-primary-stroke": "rgb(255, 255, 255)",
-        "buttons-brand-accent-1-primary-stroke-active": "rgb(255, 255, 255)",
-        "buttons-brand-accent-1-primary-stroke-disabled": "rgb(212, 212, 212)",
-        "buttons-brand-accent-1-primary-stroke-hover": "rgb(255, 255, 255)",
-        "buttons-brand-accent-1-primary-text": "rgb(0, 29, 243)",
-        "buttons-brand-accent-1-primary-text-active": "rgb(15, 0, 81)",
-        "buttons-brand-accent-1-primary-text-disabled": "rgb(90, 90, 90)",
-        "buttons-brand-accent-1-primary-text-hover": "rgb(1, 24, 193)",
-        "buttons-brand-accent-1-secondary-background": "rgba(255, 255, 255, 0)",
-        "buttons-brand-accent-1-secondary-background-active": "rgba(255, 255, 255, 0.1)",
-        "buttons-brand-accent-1-secondary-background-hover": "rgba(255, 255, 255, 0.05)",
-        "buttons-brand-accent-1-secondary-stroke": "rgb(255, 255, 255)",
-        "buttons-brand-accent-1-secondary-stroke-active": "rgb(255, 255, 255)",
-        "buttons-brand-accent-1-secondary-stroke-hover": "rgba(255, 255, 255, 0.6)",
-        "buttons-brand-accent-1-secondary-text": "rgb(255, 255, 255)",
-        "buttons-brand-accent-1-secondary-text-active": "rgb(255, 255, 255)",
-        "buttons-brand-accent-1-secondary-text-hover": "rgb(255, 255, 255)",
-        "buttons-brand-contrast-primary-background": "rgb(255, 255, 255)",
-        "buttons-brand-contrast-primary-background-active": "rgba(198, 217, 255, 0.9)",
-        "buttons-brand-contrast-primary-background-disabled": "rgb(182, 182, 182)",
-        "buttons-brand-contrast-primary-background-hover": "rgb(198, 217, 255)",
-        "buttons-brand-contrast-primary-stroke": "rgb(255, 255, 255)",
-        "buttons-brand-contrast-primary-stroke-active": "rgb(255, 255, 255)",
-        "buttons-brand-contrast-primary-stroke-disabled": "rgb(212, 212, 212)",
-        "buttons-brand-contrast-primary-stroke-hover": "rgb(255, 255, 255)",
-        "buttons-brand-contrast-primary-text": "rgb(0, 29, 243)",
-        "buttons-brand-contrast-primary-text-active": "rgb(15, 0, 81)",
-        "buttons-brand-contrast-primary-text-disabled": "rgb(90, 90, 90)",
-        "buttons-brand-contrast-primary-text-hover": "rgb(1, 24, 193)",
-        "buttons-brand-contrast-secondary-background": "rgba(255, 255, 255, 0)",
-        "buttons-brand-contrast-secondary-background-active": "rgba(255, 255, 255, 0.1)",
-        "buttons-brand-contrast-secondary-background-hover": "rgba(255, 255, 255, 0.05)",
-        "buttons-brand-contrast-secondary-stroke": "rgb(255, 255, 255)",
-        "buttons-brand-contrast-secondary-stroke-active": "rgb(255, 255, 255)",
-        "buttons-brand-contrast-secondary-stroke-hover": "rgba(255, 255, 255, 0.6)",
-        "buttons-brand-contrast-secondary-text": "rgb(255, 255, 255)",
-        "buttons-brand-contrast-secondary-text-active": "rgb(255, 255, 255)",
-        "buttons-brand-contrast-secondary-text-hover": "rgb(255, 255, 255)",
-        "buttons-brand-neutral-primary-background": "rgb(0, 29, 243)",
-        "buttons-brand-neutral-primary-background-active": "rgba(0, 29, 243, 0.8)",
-        "buttons-brand-neutral-primary-background-disabled": "rgb(182, 182, 182)",
-        "buttons-brand-neutral-primary-background-hover": "rgb(0, 62, 176)",
-        "buttons-brand-neutral-primary-stroke": "rgb(0, 29, 243)",
-        "buttons-brand-neutral-primary-stroke-active": "rgb(0, 29, 243)",
-        "buttons-brand-neutral-primary-stroke-disabled": "rgb(212, 212, 212)",
-        "buttons-brand-neutral-primary-stroke-hover": "rgb(0, 24, 200)",
-        "buttons-brand-neutral-primary-text": "rgb(255, 255, 255)",
-        "buttons-brand-neutral-primary-text-active": "rgb(255, 255, 255)",
-        "buttons-brand-neutral-primary-text-disabled": "rgb(90, 90, 90)",
-        "buttons-brand-neutral-primary-text-hover": "rgb(255, 255, 255)",
-        "buttons-brand-neutral-secondary-background": "rgba(255, 255, 255, 0)",
-        "buttons-brand-neutral-secondary-background-active": "rgba(60, 127, 255, 0.2)",
-        "buttons-brand-neutral-secondary-background-hover": "rgba(60, 127, 255, 0.1)",
-        "buttons-brand-neutral-secondary-stroke": "rgb(0, 29, 243)",
-        "buttons-brand-neutral-secondary-stroke-active": "rgb(0, 15, 127)",
-        "buttons-brand-neutral-secondary-stroke-hover": "rgb(2, 24, 187)",
-        "buttons-brand-neutral-secondary-text": "rgb(0, 24, 206)",
-        "buttons-brand-neutral-secondary-text-active": "rgb(0, 10, 87)",
-        "buttons-brand-neutral-secondary-text-hover": "rgb(0, 17, 149)",
-        "nav-background": "rgb(255, 255, 255)",
-        "nav-brand-logo": "rgb(0, 80, 187)",
-        "nav-link": "rgb(0, 29, 243)",
-        "nav-link-hover": "rgb(0, 24, 203)",
-        "nav-progress-bar": "rgb(0, 80, 187)",
-        "nav-stroke": "rgb(41, 41, 41)",
-        "system-focus-stroke": "rgb(231, 25, 144)",
-        "system-price-discounted": "rgb(0, 29, 243)",
-        "system-transparent": "rgba(237, 242, 247, 0)",
-        "ui-error-background": "rgb(254, 215, 215)",
-        "ui-error-icon": "rgb(229, 62, 62)",
-        "ui-error-stroke": "rgb(229, 62, 62)",
-        "ui-error-text": "rgb(229, 62, 62)",
-        "ui-form-active-stroke": "rgb(0, 75, 214)",
-        "ui-form-background": "rgb(255, 255, 255)",
-        "ui-form-background-hover": "rgb(218, 218, 218)",
-        "ui-form-hover-stroke": "rgb(8, 59, 152)",
-        "ui-form-icon": "rgb(226, 232, 240)",
-        "ui-form-icon-active": "rgb(0, 75, 214)",
-        "ui-form-icon-static": "rgb(54, 54, 54)",
-        "ui-form-stroke": "rgb(229, 229, 229)",
-        "ui-form-text": "rgb(61, 61, 61)",
-        "ui-form-text-weak": "rgb(166, 166, 166)",
-        "ui-information-background": "rgb(190, 227, 248)",
-        "ui-information-icon": "rgb(49, 130, 206)",
-        "ui-information-stroke": "rgb(49, 130, 206)",
-        "ui-information-text": "rgb(31, 31, 31)",
-        "ui-success-background": "rgb(198, 246, 213)",
-        "ui-success-icon": "rgb(56, 161, 105)",
-        "ui-success-stroke": "rgb(56, 161, 105)",
-        "ui-success-text": "rgb(31, 31, 31)",
-        "ui-warning-background": "rgb(254, 235, 203)",
-        "ui-warning-icon": "rgb(221, 107, 32)",
-        "ui-warning-stroke": "rgb(221, 107, 32)",
-        "ui-warning-text": "rgb(31, 31, 31)"
+    "border-divider": {
+      "borderColor": "rgb(0, 0, 0)",
+      "borderWidth": "1.5px",
+      "borderStyle": "solid"
     },
-    "gradients": {
-        "brand-accent-1-background-opacity": "linear-gradient(180deg, rgb(16, 91, 83) 0%, rgb(0, 0, 0) 100%)",
-        "brand-bright-background-opacity": "linear-gradient(180deg, rgb(235, 238, 255) 0%, rgb(17, 52, 234) 100%)",
-        "brand-contrast-background-opacity": "linear-gradient(180deg, rgb(0, 0, 0) 0%, rgb(255, 255, 255) 100%)"
+    "border-container": {
+      "borderColor": "rgb(0, 0, 0)",
+      "borderWidth": "1px",
+      "borderRadius": "8px",
+      "borderStyle": "solid"
     },
-    "fontSizes": [
-        "0.5rem",
-        "0.75rem",
-        "0.875rem",
-        "1rem",
-        "1.125rem",
-        "1.25rem",
-        "1.5rem",
-        "1.875rem",
-        "2.25rem",
-        "3rem",
-        "3.75rem"
-    ],
-    "letterSpacings": {
-        "button-extrasmall": "1.2000000000000002px",
-        "eyebrow-small": "1.2000000000000002px",
-        "button-small": "1.4000000000000001px",
-        "eyebrow-medium": "1.4000000000000001px",
-        "button-medium": "1.6px",
-        "button-tertiary": "1.6px",
-        "eyebrow-large": "1.6px",
-        "button-large": "1.8px"
+    "border-nav": {
+      "borderColor": "rgb(0, 0, 0)",
+      "borderWidth": "1px",
+      "borderStyle": "solid"
     },
-    "lineHeights": {
-        "system-ui-badge": "8px",
-        "button-extrasmall": "12px",
-        "button-extrasmall-underline": "12px",
-        "button-small-underline": "12px",
-        "eyebrow-small": "12px",
-        "price-xs": "12px",
-        "price-xs-bold": "12px",
-        "price-xs-strikethru": "12px",
-        "button-small": "14px",
-        "eyebrow-medium": "14px",
-        "price-sm": "14px",
-        "price-sm-bold": "14px",
-        "price-sm-strikethru": "14px",
-        "button-medium": "16px",
-        "button-medium-underline": "16px",
-        "button-tertiary": "16px",
-        "eyebrow-large": "16px",
-        "price-md": "16px",
-        "price-md-bold": "16px",
-        "price-md-strikethru": "16px",
-        "button-large": "18px",
-        "button-large-underline": "18px",
-        "description-extrasmall-bold": "18px",
-        "description-extrasmall-normal": "18px",
-        "price-lg": "18px",
-        "price-lg-bold": "18px",
-        "price-lg-strikethru": "18px",
-        "description-small-bold": "21px",
-        "description-small-normal": "21px",
-        "static-xs-heading": "22.5px",
-        "description-medium-bold": "24px",
-        "description-medium-normal": "24px",
-        "static-sm-heading": "25px",
-        "description-large-bold": "27px",
-        "description-large-normal": "27px",
-        "description-extralarge-bold": "30px",
-        "description-extralarge-normal": "30px",
-        "heading-title-mobile": "30px",
-        "static-md-heading": "30px",
-        "system-support-mobile": "30px",
-        "description-xxl-normal": "36px",
-        "description-xxl-normal-bold": "36px",
-        "heading-feature-mobile": "37.5px",
-        "static-lg-heading": "37.5px",
-        "heading-breakout-mobile": "45px",
-        "heading-title-desktop": "45px",
-        "static-xl-heading": "45px",
-        "system-quiz-title": "45px",
-        "system-support-desktop": "45px",
-        "heading-feature-desktop": "60px",
-        "static-2-xl-heading": "60px",
-        "heading-breakout-desktop": "75px",
-        "static-3-xl-heading": "75px"
+    "border-button-focus": {
+      "borderColor": "rgb(0, 0, 0)",
+      "borderWidth": "1.5px",
+      "borderRadius": "100px",
+      "borderStyle": "solid"
     },
-    "fonts": {
-        "inter-bold": "Inter-Bold",
-        "inter-regular": "Inter-Regular",
-        "louize-display": "LouizeDisplay",
-        "sohne-buch": "Sohne-Buch",
-        "sohne-halbfett": "Sohne-Halbfett"
+    "border-button": {
+      "borderColor": "rgb(0, 0, 0)",
+      "borderWidth": "1.5px",
+      "borderRadius": "100px",
+      "borderStyle": "solid"
     },
-    "fontWeights": {
-        "inter-bold": 700,
-        "inter-regular": 400,
-        "louize-display": 400,
-        "sohne-buch": 400,
-        "sohne-halbfett": 400
+    "border-alert": {
+      "borderColor": "rgb(0, 0, 0)",
+      "borderWidth": "1px",
+      "borderRadius": "5px",
+      "borderStyle": "solid"
     },
-    "shadows": {
-        "shadow-card": "0px 4px 4px rgba(0, 0, 0, 0.25)"
+    "border-form-focus": {
+      "borderColor": "rgb(0, 0, 0)",
+      "borderWidth": "1.5px",
+      "borderRadius": "4px",
+      "borderStyle": "solid"
     },
-    "sizes": {
-        "spacing-1": "2px",
-        "spacing-2": "4px",
-        "spacing-3": "8px",
-        "spacing-4": "12px",
-        "spacing-5": "16px",
-        "spacing-6": "24px",
-        "spacing-7": "32px",
-        "spacing-8": "40px",
-        "spacing-9": "48px",
-        "spacing-10": "64px",
-        "spacing-11": "80px",
-        "spacing-12": "96px",
-        "spacing-13": "160px"
+    "border-container-focus": {
+      "borderColor": "rgb(0, 0, 0)",
+      "borderWidth": "3px",
+      "borderRadius": "8px",
+      "borderStyle": "solid"
     },
-    "border": {
-        "border-alert": {
-            "borderColor": "rgb(0, 0, 0)",
-            "borderWidth": "1px",
-            "borderStyle": "solid"
-        },
-        "border-button": {
-            "borderColor": "rgb(0, 0, 0)",
-            "borderWidth": "1.5px",
-            "borderRadius": "100px",
-            "borderStyle": "solid"
-        },
-        "border-button-focus": {
-            "borderColor": "rgb(0, 0, 0)",
-            "borderWidth": "3px",
-            "borderRadius": "100px",
-            "borderStyle": "solid"
-        },
-        "border-card": {
-            "borderColor": "rgb(0, 0, 0)",
-            "borderWidth": "1px",
-            "borderRadius": "4px",
-            "borderStyle": "solid"
-        },
-        "border-card-focus": {
-            "borderColor": "rgb(0, 0, 0)",
-            "borderWidth": "3px",
-            "borderRadius": "4px",
-            "borderStyle": "solid"
-        },
-        "border-container": {
-            "borderColor": "rgb(0, 0, 0)",
-            "borderWidth": "1px",
-            "borderRadius": "8px",
-            "borderStyle": "solid"
-        },
-        "border-container-focus": {
-            "borderColor": "rgb(0, 0, 0)",
-            "borderWidth": "3px",
-            "borderRadius": "8px",
-            "borderStyle": "solid"
-        },
-        "border-divider": {
-            "borderColor": "rgb(0, 0, 0)",
-            "borderWidth": "1px",
-            "borderStyle": "solid"
-        },
-        "border-form": {
-            "borderColor": "rgb(0, 0, 0)",
-            "borderWidth": "1px",
-            "borderRadius": "4px",
-            "borderStyle": "solid"
-        },
-        "border-form-focus": {
-            "borderColor": "rgb(0, 0, 0)",
-            "borderWidth": "3px",
-            "borderRadius": "4px",
-            "borderStyle": "solid"
-        },
-        "border-nav": {
-            "borderColor": "rgb(0, 0, 0)",
-            "borderWidth": "1px",
-            "borderStyle": "solid"
-        },
-        "border-ui-badge": {
-            "borderColor": "rgb(0, 0, 0)",
-            "borderWidth": "1px",
-            "borderRadius": "30px",
-            "borderStyle": "solid"
-        }
+    "border-ui-badge": {
+      "borderColor": "rgb(0, 0, 0)",
+      "borderWidth": "1px",
+      "borderRadius": "30px",
+      "borderStyle": "solid"
     },
-    "text": {
-        "button-extrasmall": {
-            "fontFamily": "sohne-halbfett",
-            "textTransform": "uppercase",
-            "letterSpacing": "eyebrow-small",
-            "lineHeight": "price-xs-strikethru",
-            "fontSize": 1,
-            "fontWeight": "sohne-halbfett"
-        },
-        "button-extrasmall-underline": {
-            "fontFamily": "sohne-halbfett",
-            "lineHeight": "price-xs-strikethru",
-            "fontSize": 1,
-            "fontWeight": "sohne-halbfett",
-            "textDecoration": "underline"
-        },
-        "button-large": {
-            "fontFamily": "sohne-halbfett",
-            "textTransform": "uppercase",
-            "letterSpacing": "button-large",
-            "lineHeight": "price-lg-strikethru",
-            "fontSize": 4,
-            "fontWeight": "sohne-halbfett"
-        },
-        "button-large-underline": {
-            "fontFamily": "sohne-halbfett",
-            "lineHeight": "price-lg-strikethru",
-            "fontSize": 4,
-            "fontWeight": "sohne-halbfett",
-            "textDecoration": "underline"
-        },
-        "button-medium": {
-            "fontFamily": "sohne-halbfett",
-            "textTransform": "uppercase",
-            "letterSpacing": "eyebrow-large",
-            "lineHeight": "price-md-strikethru",
-            "fontSize": 3,
-            "fontWeight": "sohne-halbfett"
-        },
-        "button-medium-underline": {
-            "fontFamily": "sohne-halbfett",
-            "lineHeight": "price-md-strikethru",
-            "fontSize": 3,
-            "fontWeight": "sohne-halbfett",
-            "textDecoration": "underline"
-        },
-        "button-small": {
-            "fontFamily": "sohne-halbfett",
-            "textTransform": "uppercase",
-            "letterSpacing": "eyebrow-medium",
-            "lineHeight": "price-sm-strikethru",
-            "fontSize": 2,
-            "fontWeight": "sohne-halbfett"
-        },
-        "button-small-underline": {
-            "fontFamily": "sohne-halbfett",
-            "lineHeight": "price-xs-strikethru",
-            "fontSize": 1,
-            "fontWeight": "sohne-halbfett",
-            "textDecoration": "underline"
-        },
-        "button-tertiary": {
-            "fontFamily": "sohne-halbfett",
-            "textTransform": "uppercase",
-            "letterSpacing": "eyebrow-large",
-            "lineHeight": "price-md-strikethru",
-            "fontSize": 3,
-            "fontWeight": "sohne-halbfett",
-            "textDecoration": "underline"
-        },
-        "description-extralarge-bold": {
-            "fontFamily": "sohne-halbfett",
-            "lineHeight": "system-support-mobile",
-            "fontSize": 5,
-            "fontWeight": "sohne-halbfett"
-        },
-        "description-extralarge-normal": {
-            "fontFamily": "sohne-buch",
-            "lineHeight": "system-support-mobile",
-            "fontSize": 5,
-            "fontWeight": "sohne-buch"
-        },
-        "description-extrasmall-bold": {
-            "fontFamily": "sohne-halbfett",
-            "lineHeight": "price-lg-strikethru",
-            "fontSize": 1,
-            "fontWeight": "sohne-halbfett"
-        },
-        "description-extrasmall-normal": {
-            "fontFamily": "sohne-buch",
-            "lineHeight": "price-lg-strikethru",
-            "fontSize": 1,
-            "fontWeight": "sohne-buch"
-        },
-        "description-large-bold": {
-            "fontFamily": "sohne-halbfett",
-            "lineHeight": "description-large-normal",
-            "fontSize": 4,
-            "fontWeight": "sohne-halbfett"
-        },
-        "description-large-normal": {
-            "fontFamily": "sohne-buch",
-            "lineHeight": "description-large-normal",
-            "fontSize": 4,
-            "fontWeight": "sohne-buch"
-        },
-        "description-medium-bold": {
-            "fontFamily": "sohne-halbfett",
-            "lineHeight": "description-medium-normal",
-            "fontSize": 3,
-            "fontWeight": "sohne-halbfett"
-        },
-        "description-medium-normal": {
-            "fontFamily": "sohne-buch",
-            "lineHeight": "description-medium-normal",
-            "fontSize": 3,
-            "fontWeight": "sohne-buch"
-        },
-        "description-small-bold": {
-            "fontFamily": "sohne-halbfett",
-            "lineHeight": "description-small-normal",
-            "fontSize": 2,
-            "fontWeight": "sohne-halbfett"
-        },
-        "description-small-normal": {
-            "fontFamily": "sohne-buch",
-            "lineHeight": "description-small-normal",
-            "fontSize": 2,
-            "fontWeight": "sohne-buch"
-        },
-        "description-xxl-normal": {
-            "fontFamily": "sohne-buch",
-            "lineHeight": "description-xxl-normal-bold",
-            "fontSize": 6,
-            "fontWeight": "sohne-buch"
-        },
-        "description-xxl-normal-bold": {
-            "fontFamily": "sohne-halbfett",
-            "lineHeight": "description-xxl-normal-bold",
-            "fontSize": 6,
-            "fontWeight": "sohne-halbfett"
-        },
-        "eyebrow-large": {
-            "fontFamily": "sohne-halbfett",
-            "textTransform": "uppercase",
-            "letterSpacing": "eyebrow-large",
-            "lineHeight": "price-md-strikethru",
-            "fontSize": 3,
-            "fontWeight": "sohne-halbfett"
-        },
-        "eyebrow-medium": {
-            "fontFamily": "sohne-halbfett",
-            "textTransform": "uppercase",
-            "letterSpacing": "eyebrow-medium",
-            "lineHeight": "price-sm-strikethru",
-            "fontSize": 2,
-            "fontWeight": "sohne-halbfett"
-        },
-        "eyebrow-small": {
-            "fontFamily": "sohne-halbfett",
-            "textTransform": "uppercase",
-            "letterSpacing": "eyebrow-small",
-            "lineHeight": "price-xs-strikethru",
-            "fontSize": 1,
-            "fontWeight": "sohne-halbfett"
-        },
-        "heading-breakout-desktop": {
-            "fontFamily": "louize-display",
-            "lineHeight": "static-3-xl-heading",
-            "fontSize": 10,
-            "fontWeight": "louize-display"
-        },
-        "heading-breakout-mobile": {
-            "fontFamily": "louize-display",
-            "lineHeight": "system-support-desktop",
-            "fontSize": 8,
-            "fontWeight": "louize-display"
-        },
-        "heading-feature-desktop": {
-            "fontFamily": "louize-display",
-            "lineHeight": "static-2-xl-heading",
-            "fontSize": 9,
-            "fontWeight": "louize-display"
-        },
-        "heading-feature-mobile": {
-            "fontFamily": "louize-display",
-            "lineHeight": "static-lg-heading",
-            "fontSize": 7,
-            "fontWeight": "louize-display"
-        },
-        "heading-title-desktop": {
-            "fontFamily": "louize-display",
-            "lineHeight": "system-support-desktop",
-            "fontSize": 8,
-            "fontWeight": "louize-display"
-        },
-        "heading-title-mobile": {
-            "fontFamily": "louize-display",
-            "lineHeight": "system-support-mobile",
-            "fontSize": 6,
-            "fontWeight": "louize-display"
-        },
-        "price-lg": {
-            "fontFamily": "inter-regular",
-            "lineHeight": "price-lg-strikethru",
-            "fontSize": 4,
-            "fontWeight": "inter-regular"
-        },
-        "price-lg-bold": {
-            "fontFamily": "inter-bold",
-            "lineHeight": "price-lg-strikethru",
-            "fontSize": 4,
-            "fontWeight": "inter-bold"
-        },
-        "price-lg-strikethru": {
-            "fontFamily": "inter-regular",
-            "lineHeight": "price-lg-strikethru",
-            "fontSize": 4,
-            "fontWeight": "inter-regular",
-            "textDecoration": "line-through"
-        },
-        "price-md": {
-            "fontFamily": "inter-regular",
-            "lineHeight": "price-md-strikethru",
-            "fontSize": 3,
-            "fontWeight": "inter-regular"
-        },
-        "price-md-bold": {
-            "fontFamily": "inter-bold",
-            "lineHeight": "price-md-strikethru",
-            "fontSize": 3,
-            "fontWeight": "inter-bold"
-        },
-        "price-md-strikethru": {
-            "fontFamily": "inter-regular",
-            "lineHeight": "price-md-strikethru",
-            "fontSize": 3,
-            "fontWeight": "inter-regular",
-            "textDecoration": "line-through"
-        },
-        "price-sm": {
-            "fontFamily": "inter-regular",
-            "lineHeight": "price-sm-strikethru",
-            "fontSize": 2,
-            "fontWeight": "inter-regular"
-        },
-        "price-sm-bold": {
-            "fontFamily": "inter-bold",
-            "lineHeight": "price-sm-strikethru",
-            "fontSize": 2,
-            "fontWeight": "inter-bold"
-        },
-        "price-sm-strikethru": {
-            "fontFamily": "inter-regular",
-            "lineHeight": "price-sm-strikethru",
-            "fontSize": 2,
-            "fontWeight": "inter-regular",
-            "textDecoration": "line-through"
-        },
-        "price-xs": {
-            "fontFamily": "inter-regular",
-            "lineHeight": "price-xs-strikethru",
-            "fontSize": 1,
-            "fontWeight": "inter-regular"
-        },
-        "price-xs-bold": {
-            "fontFamily": "inter-bold",
-            "lineHeight": "price-xs-strikethru",
-            "fontSize": 1,
-            "fontWeight": "inter-bold"
-        },
-        "price-xs-strikethru": {
-            "fontFamily": "inter-regular",
-            "lineHeight": "price-xs-strikethru",
-            "fontSize": 1,
-            "fontWeight": "inter-regular",
-            "textDecoration": "line-through"
-        },
-        "static-2-xl-heading": {
-            "fontFamily": "louize-display",
-            "lineHeight": "static-2-xl-heading",
-            "fontSize": 9,
-            "fontWeight": "louize-display"
-        },
-        "static-3-xl-heading": {
-            "fontFamily": "louize-display",
-            "lineHeight": "static-3-xl-heading",
-            "fontSize": 10,
-            "fontWeight": "louize-display"
-        },
-        "static-lg-heading": {
-            "fontFamily": "louize-display",
-            "lineHeight": "static-lg-heading",
-            "fontSize": 7,
-            "fontWeight": "louize-display"
-        },
-        "static-md-heading": {
-            "fontFamily": "louize-display",
-            "lineHeight": "system-support-mobile",
-            "fontSize": 6,
-            "fontWeight": "louize-display"
-        },
-        "static-sm-heading": {
-            "fontFamily": "louize-display",
-            "lineHeight": "static-sm-heading",
-            "fontSize": 5,
-            "fontWeight": "louize-display"
-        },
-        "static-xl-heading": {
-            "fontFamily": "louize-display",
-            "lineHeight": "system-support-desktop",
-            "fontSize": 8,
-            "fontWeight": "louize-display"
-        },
-        "static-xs-heading": {
-            "fontFamily": "louize-display",
-            "lineHeight": "static-xs-heading",
-            "fontSize": 4,
-            "fontWeight": "louize-display"
-        },
-        "system-quiz-title": {
-            "fontFamily": "louize-display",
-            "lineHeight": "system-support-desktop",
-            "fontSize": 7,
-            "fontWeight": "louize-display"
-        },
-        "system-support-desktop": {
-            "fontFamily": "louize-display",
-            "lineHeight": "system-support-desktop",
-            "fontSize": 8,
-            "fontWeight": "louize-display"
-        },
-        "system-support-mobile": {
-            "fontFamily": "louize-display",
-            "lineHeight": "system-support-mobile",
-            "fontSize": 6,
-            "fontWeight": "louize-display"
-        },
-        "system-ui-badge": {
-            "fontFamily": "inter-bold",
-            "lineHeight": "system-ui-badge",
-            "fontSize": 0,
-            "fontWeight": "inter-bold"
-        }
+    "border-form": {
+      "borderColor": "rgb(0, 0, 0)",
+      "borderWidth": "1.5px",
+      "borderRadius": "4px",
+      "borderStyle": "solid"
     }
+  },
+  "text": {
+    "description-large-bold": {
+      "fontFamily": "sohne-halbfett",
+      "lineHeight": "description-large-normal",
+      "fontSize": 4,
+      "fontWeight": "sohne-halbfett"
+    },
+    "price-md-strikethru": {
+      "fontFamily": "inter-regular",
+      "lineHeight": "button-medium-underline",
+      "fontSize": 3,
+      "fontWeight": "inter-regular",
+      "textDecoration": "line-through"
+    },
+    "system-ui-badge": {
+      "fontFamily": "inter-bold",
+      "lineHeight": "system-ui-badge",
+      "fontSize": 0,
+      "fontWeight": "inter-bold"
+    },
+    "description-extrasmall-normal": {
+      "fontFamily": "sohne-buch",
+      "lineHeight": "price-lg",
+      "fontSize": 1,
+      "fontWeight": "sohne-buch"
+    },
+    "static-sm-heading": {
+      "fontFamily": "louize-display",
+      "lineHeight": "static-sm-heading",
+      "fontSize": 5,
+      "fontWeight": "louize-display"
+    },
+    "description-small-normal": {
+      "fontFamily": "sohne-buch",
+      "lineHeight": "description-small-bold",
+      "fontSize": 2,
+      "fontWeight": "sohne-buch"
+    },
+    "heading-title-desktop": {
+      "fontFamily": "louize-display",
+      "lineHeight": "system-support-desktop",
+      "fontSize": 8,
+      "fontWeight": "louize-display"
+    },
+    "eyebrow-medium": {
+      "fontFamily": "sohne-halbfett",
+      "textTransform": "uppercase",
+      "letterSpacing": "button-small",
+      "lineHeight": "price-sm-bold",
+      "fontSize": 2,
+      "fontWeight": "sohne-halbfett"
+    },
+    "description-xxl-normal-bold": {
+      "fontFamily": "sohne-halbfett",
+      "lineHeight": "description-xxl-normal",
+      "fontSize": 6,
+      "fontWeight": "sohne-halbfett"
+    },
+    "description-small-bold": {
+      "fontFamily": "sohne-halbfett",
+      "lineHeight": "description-small-bold",
+      "fontSize": 2,
+      "fontWeight": "sohne-halbfett"
+    },
+    "static-lg-heading": {
+      "fontFamily": "louize-display",
+      "lineHeight": "heading-feature-mobile",
+      "fontSize": 7,
+      "fontWeight": "louize-display"
+    },
+    "static-md-heading": {
+      "fontFamily": "louize-display",
+      "lineHeight": "description-extralarge-bold",
+      "fontSize": 6,
+      "fontWeight": "louize-display"
+    },
+    "heading-feature-mobile": {
+      "fontFamily": "louize-display",
+      "lineHeight": "heading-feature-mobile",
+      "fontSize": 7,
+      "fontWeight": "louize-display"
+    },
+    "static-xl-heading": {
+      "fontFamily": "louize-display",
+      "lineHeight": "system-support-desktop",
+      "fontSize": 8,
+      "fontWeight": "louize-display"
+    },
+    "button-small-underline": {
+      "fontFamily": "sohne-halbfett",
+      "lineHeight": "price-xs",
+      "fontSize": 1,
+      "fontWeight": "sohne-halbfett",
+      "textDecoration": "underline"
+    },
+    "static-2-xl-heading": {
+      "fontFamily": "louize-display",
+      "lineHeight": "heading-feature-desktop",
+      "fontSize": 9,
+      "fontWeight": "louize-display"
+    },
+    "system-quiz-title": {
+      "fontFamily": "louize-display",
+      "lineHeight": "system-support-desktop",
+      "fontSize": 7,
+      "fontWeight": "louize-display"
+    },
+    "heading-breakout-mobile": {
+      "fontFamily": "louize-display",
+      "lineHeight": "system-support-desktop",
+      "fontSize": 8,
+      "fontWeight": "louize-display"
+    },
+    "button-small": {
+      "fontFamily": "sohne-halbfett",
+      "textTransform": "uppercase",
+      "letterSpacing": "button-small",
+      "lineHeight": "price-sm-bold",
+      "fontSize": 2,
+      "fontWeight": "sohne-halbfett"
+    },
+    "button-tertiary": {
+      "fontFamily": "sohne-halbfett",
+      "textTransform": "uppercase",
+      "letterSpacing": "eyebrow-large",
+      "lineHeight": "button-medium-underline",
+      "fontSize": 3,
+      "fontWeight": "sohne-halbfett",
+      "textDecoration": "underline"
+    },
+    "description-extrasmall-bold": {
+      "fontFamily": "sohne-halbfett",
+      "lineHeight": "price-lg",
+      "fontSize": 1,
+      "fontWeight": "sohne-halbfett"
+    },
+    "button-extrasmall-underline": {
+      "fontFamily": "sohne-halbfett",
+      "lineHeight": "price-xs",
+      "fontSize": 1,
+      "fontWeight": "sohne-halbfett",
+      "textDecoration": "underline"
+    },
+    "description-medium-bold": {
+      "fontFamily": "sohne-halbfett",
+      "lineHeight": "description-medium-normal",
+      "fontSize": 3,
+      "fontWeight": "sohne-halbfett"
+    },
+    "heading-title-mobile": {
+      "fontFamily": "louize-display",
+      "lineHeight": "description-extralarge-bold",
+      "fontSize": 6,
+      "fontWeight": "louize-display"
+    },
+    "description-large-normal": {
+      "fontFamily": "sohne-buch",
+      "lineHeight": "description-large-normal",
+      "fontSize": 4,
+      "fontWeight": "sohne-buch"
+    },
+    "button-large": {
+      "fontFamily": "sohne-halbfett",
+      "textTransform": "uppercase",
+      "letterSpacing": "button-large",
+      "lineHeight": "price-lg",
+      "fontSize": 4,
+      "fontWeight": "sohne-halbfett"
+    },
+    "button-extrasmall": {
+      "fontFamily": "sohne-halbfett",
+      "textTransform": "uppercase",
+      "letterSpacing": "eyebrow-small",
+      "lineHeight": "price-xs",
+      "fontSize": 1,
+      "fontWeight": "sohne-halbfett"
+    },
+    "static-3-xl-heading": {
+      "fontFamily": "louize-display",
+      "lineHeight": "heading-breakout-desktop",
+      "fontSize": 10,
+      "fontWeight": "louize-display"
+    },
+    "eyebrow-small": {
+      "fontFamily": "sohne-halbfett",
+      "textTransform": "uppercase",
+      "letterSpacing": "eyebrow-small",
+      "lineHeight": "price-xs",
+      "fontSize": 1,
+      "fontWeight": "sohne-halbfett"
+    },
+    "system-support-mobile": {
+      "fontFamily": "louize-display",
+      "lineHeight": "description-extralarge-bold",
+      "fontSize": 6,
+      "fontWeight": "louize-display"
+    },
+    "button-medium": {
+      "fontFamily": "sohne-halbfett",
+      "textTransform": "uppercase",
+      "letterSpacing": "eyebrow-large",
+      "lineHeight": "button-medium-underline",
+      "fontSize": 3,
+      "fontWeight": "sohne-halbfett"
+    },
+    "button-large-underline": {
+      "fontFamily": "sohne-halbfett",
+      "lineHeight": "price-lg",
+      "fontSize": 4,
+      "fontWeight": "sohne-halbfett",
+      "textDecoration": "underline"
+    },
+    "eyebrow-large": {
+      "fontFamily": "sohne-halbfett",
+      "textTransform": "uppercase",
+      "letterSpacing": "eyebrow-large",
+      "lineHeight": "button-medium-underline",
+      "fontSize": 3,
+      "fontWeight": "sohne-halbfett"
+    },
+    "description-medium-normal": {
+      "fontFamily": "sohne-buch",
+      "lineHeight": "description-medium-normal",
+      "fontSize": 3,
+      "fontWeight": "sohne-buch"
+    },
+    "description-extralarge-normal": {
+      "fontFamily": "sohne-buch",
+      "lineHeight": "description-extralarge-bold",
+      "fontSize": 5,
+      "fontWeight": "sohne-buch"
+    },
+    "price-lg-strikethru": {
+      "fontFamily": "inter-regular",
+      "lineHeight": "price-lg",
+      "fontSize": 4,
+      "fontWeight": "inter-regular",
+      "textDecoration": "line-through"
+    },
+    "price-sm": {
+      "fontFamily": "inter-regular",
+      "lineHeight": "price-sm-bold",
+      "fontSize": 2,
+      "fontWeight": "inter-regular"
+    },
+    "heading-breakout-desktop": {
+      "fontFamily": "louize-display",
+      "lineHeight": "heading-breakout-desktop",
+      "fontSize": 10,
+      "fontWeight": "louize-display"
+    },
+    "description-xxl-normal": {
+      "fontFamily": "sohne-buch",
+      "lineHeight": "description-xxl-normal",
+      "fontSize": 6,
+      "fontWeight": "sohne-buch"
+    },
+    "price-md-bold": {
+      "fontFamily": "inter-bold",
+      "lineHeight": "button-medium-underline",
+      "fontSize": 3,
+      "fontWeight": "inter-bold"
+    },
+    "price-md": {
+      "fontFamily": "inter-regular",
+      "lineHeight": "button-medium-underline",
+      "fontSize": 3,
+      "fontWeight": "inter-regular"
+    },
+    "price-xs-strikethru": {
+      "fontFamily": "inter-regular",
+      "lineHeight": "price-xs",
+      "fontSize": 1,
+      "fontWeight": "inter-regular",
+      "textDecoration": "line-through"
+    },
+    "price-xs-bold": {
+      "fontFamily": "inter-bold",
+      "lineHeight": "price-xs",
+      "fontSize": 1,
+      "fontWeight": "inter-bold"
+    },
+    "price-sm-strikethru": {
+      "fontFamily": "inter-regular",
+      "lineHeight": "price-sm-bold",
+      "fontSize": 2,
+      "fontWeight": "inter-regular",
+      "textDecoration": "line-through"
+    },
+    "price-sm-bold": {
+      "fontFamily": "inter-bold",
+      "lineHeight": "price-sm-bold",
+      "fontSize": 2,
+      "fontWeight": "inter-bold"
+    },
+    "price-lg-bold": {
+      "fontFamily": "inter-bold",
+      "lineHeight": "price-lg",
+      "fontSize": 4,
+      "fontWeight": "inter-bold"
+    },
+    "system-support-desktop": {
+      "fontFamily": "louize-display",
+      "lineHeight": "system-support-desktop",
+      "fontSize": 8,
+      "fontWeight": "louize-display"
+    },
+    "static-xs-heading": {
+      "fontFamily": "louize-display",
+      "lineHeight": "static-xs-heading",
+      "fontSize": 4,
+      "fontWeight": "louize-display"
+    },
+    "price-lg": {
+      "fontFamily": "inter-regular",
+      "lineHeight": "price-lg",
+      "fontSize": 4,
+      "fontWeight": "inter-regular"
+    },
+    "price-xs": {
+      "fontFamily": "inter-regular",
+      "lineHeight": "price-xs",
+      "fontSize": 1,
+      "fontWeight": "inter-regular"
+    },
+    "description-extralarge-bold": {
+      "fontFamily": "sohne-halbfett",
+      "lineHeight": "description-extralarge-bold",
+      "fontSize": 5,
+      "fontWeight": "sohne-halbfett"
+    },
+    "button-medium-underline": {
+      "fontFamily": "sohne-halbfett",
+      "lineHeight": "button-medium-underline",
+      "fontSize": 3,
+      "fontWeight": "sohne-halbfett",
+      "textDecoration": "underline"
+    },
+    "heading-feature-desktop": {
+      "fontFamily": "louize-display",
+      "lineHeight": "heading-feature-desktop",
+      "fontSize": 9,
+      "fontWeight": "louize-display"
+    }
+  }
 }
