@@ -1,0 +1,538 @@
+{
+  "color": {
+    "brand-neutral": {
+      "-stroke": {
+        "value": "#e4e4e4ff",
+        "type": "color"
+      },
+      "icon": {
+        "value": "#000000ff",
+        "type": "color"
+      },
+      "background": {
+        "value": "#ffffffff",
+        "type": "color"
+      },
+      "background-container": {
+        "value": "#f2f7f9ff",
+        "type": "color"
+      },
+      "background-hover": {
+        "value": "#d2efffff",
+        "type": "color"
+      },
+      "text-strong": {
+        "value": "#000000ff",
+        "type": "color"
+      },
+      "text": {
+        "value": "#272727ff",
+        "type": "color"
+      },
+      "text-weak": {
+        "value": "#3b3b3bff",
+        "type": "color"
+      },
+      "hover-stroke": {
+        "value": "#2d3748ff",
+        "type": "color"
+      },
+      "strong-stroke": {
+        "value": "#e4e4e4ff",
+        "type": "color"
+      },
+      "link-active": {
+        "value": "#27272766",
+        "type": "color"
+      },
+      "link-hover": {
+        "value": "#27272799",
+        "type": "color"
+      },
+      "link": {
+        "value": "#272727ff",
+        "type": "color"
+      }
+    },
+    "brand-subtle": {
+      "-stroke": {
+        "value": "#868686ff",
+        "type": "color"
+      },
+      "icon": {
+        "value": "#000000ff",
+        "type": "color"
+      },
+      "background": {
+        "value": "#fafafaff",
+        "type": "color"
+      },
+      "background-container": {
+        "value": "#ffffffff",
+        "type": "color"
+      },
+      "background-hover": {
+        "value": "#e9e3b4ff",
+        "type": "color"
+      },
+      "text-strong": {
+        "value": "#000000ff",
+        "type": "color"
+      },
+      "text": {
+        "value": "#272727ff",
+        "type": "color"
+      },
+      "icon-highlight": {
+        "value": "#efc39cff",
+        "type": "color"
+      },
+      "text-highlight": {
+        "value": "#5c8995ff",
+        "type": "color"
+      }
+    },
+    "brand-contrast": {
+      "-stroke": {
+        "value": "#cbcbcbff",
+        "type": "color"
+      },
+      "icon": {
+        "value": "#ffffffff",
+        "type": "color"
+      },
+      "background": {
+        "value": "#000000ff",
+        "type": "color"
+      },
+      "background-container": {
+        "value": "#2c2c2cff",
+        "type": "color"
+      },
+      "background-hover": {
+        "value": "#0300abff",
+        "type": "color"
+      },
+      "text-strong": {
+        "value": "#ffffffff",
+        "type": "color"
+      },
+      "text": {
+        "value": "#ffffffff",
+        "type": "color"
+      },
+      "text-weak": {
+        "value": "#dcdcdcff",
+        "type": "color"
+      },
+      "link-active": {
+        "value": "#ffffff66",
+        "type": "color"
+      },
+      "link-hover": {
+        "value": "#ffffff99",
+        "type": "color"
+      },
+      "link": {
+        "value": "#ffffffff",
+        "type": "color"
+      }
+    },
+    "brand-accent-1": {
+      "-stroke": {
+        "value": "#000000ff",
+        "type": "color"
+      },
+      "icon": {
+        "value": "#000000ff",
+        "type": "color"
+      },
+      "background": {
+        "value": "#c3dbb8ff",
+        "type": "color"
+      },
+      "background-hover": {
+        "value": "#ffffffff",
+        "type": "color"
+      },
+      "text-strong": {
+        "value": "#000000ff",
+        "type": "color"
+      },
+      "text": {
+        "value": "#272727ff",
+        "type": "color"
+      }
+    },
+    "brand-accent-2": {
+      "-stroke": {
+        "value": "#000000ff",
+        "type": "color"
+      },
+      "icon": {
+        "value": "#000000ff",
+        "type": "color"
+      },
+      "background": {
+        "value": "#bdd9e0ff",
+        "type": "color"
+      },
+      "background-hover": {
+        "value": "#e5e292ff",
+        "type": "color"
+      },
+      "text-strong": {
+        "value": "#000000ff",
+        "type": "color"
+      },
+      "text": {
+        "value": "#272727ff",
+        "type": "color"
+      }
+    },
+    "ui-information": {
+      "-stroke": {
+        "value": "#5c8995b2",
+        "type": "color"
+      },
+      "icon": {
+        "value": "#5c8995ff",
+        "type": "color"
+      },
+      "background": {
+        "value": "#e9f5facc",
+        "type": "color"
+      },
+      "text": {
+        "value": "#1f1f1fff",
+        "type": "color"
+      }
+    },
+    "ui-error": {
+      "-stroke": {
+        "value": "#82283d80",
+        "type": "color"
+      },
+      "icon": {
+        "value": "#eb5647ff",
+        "type": "color"
+      },
+      "background": {
+        "value": "#f9e7d7ff",
+        "type": "color"
+      },
+      "text": {
+        "value": "#e53e3eff",
+        "type": "color"
+      }
+    },
+    "ui-success": {
+      "-stroke": {
+        "value": "#70935580",
+        "type": "color"
+      },
+      "icon": {
+        "value": "#709355ff",
+        "type": "color"
+      },
+      "background": {
+        "value": "#cef5bfcc",
+        "type": "color"
+      },
+      "text": {
+        "value": "#1f1f1fff",
+        "type": "color"
+      }
+    },
+    "ui-warning": {
+      "-stroke": {
+        "value": "#0d2a324d",
+        "type": "color"
+      },
+      "icon": {
+        "value": "#ffffffff",
+        "type": "color"
+      },
+      "background": {
+        "value": "#467481b2",
+        "type": "color"
+      },
+      "text": {
+        "value": "#ffffffff",
+        "type": "color"
+      }
+    },
+    "ui-form": {
+      "background": {
+        "value": "#ffffffff",
+        "type": "color"
+      },
+      "text": {
+        "value": "#272727ff",
+        "type": "color"
+      },
+      "text-weak": {
+        "value": "#68706eff",
+        "type": "color"
+      },
+      "icon": {
+        "value": "#e2e8f0ff",
+        "type": "color"
+      },
+      "icon-active": {
+        "value": "#3c3c3cff",
+        "type": "color"
+      },
+      "icon-static": {
+        "value": "#363636ff",
+        "type": "color"
+      },
+      "-stroke": {
+        "value": "#e5e5e5ff",
+        "type": "color"
+      },
+      "active-stroke": {
+        "value": "#b3b3b3ff",
+        "type": "color"
+      },
+      "hover-stroke": {
+        "value": "#083b98ff",
+        "type": "color"
+      },
+      "background-hover": {
+        "value": "#dadadaff",
+        "type": "color"
+      }
+    },
+    "buttons": {
+      "brand-neutral": {
+        "primary": {
+          "text": {
+            "value": "#ffffffff",
+            "type": "color"
+          },
+          "text-hover": {
+            "value": "#000000ff",
+            "type": "color"
+          },
+          "text-active": {
+            "value": "#000000ff",
+            "type": "color"
+          },
+          "background": {
+            "value": "#000000ff",
+            "type": "color"
+          },
+          "background-hover": {
+            "value": "#ffffffff",
+            "type": "color"
+          },
+          "background-active": {
+            "value": "#ffffffb2",
+            "type": "color"
+          },
+          "stroke": {
+            "value": "#000000ff",
+            "type": "color"
+          },
+          "stroke-hover": {
+            "value": "#000000ff",
+            "type": "color"
+          },
+          "stroke-active": {
+            "value": "#000000ff",
+            "type": "color"
+          },
+          "text-disabled": {
+            "value": "#ffffffff",
+            "type": "color"
+          },
+          "background-disabled": {
+            "value": "#b6b6b6ff",
+            "type": "color"
+          },
+          "stroke-disabled": {
+            "value": "#d4d4d4ff",
+            "type": "color"
+          }
+        },
+        "secondary": {
+          "text": {
+            "value": "#000000ff",
+            "type": "color"
+          },
+          "text-hover": {
+            "value": "#000000cc",
+            "type": "color"
+          },
+          "text-active": {
+            "value": "#000000b2",
+            "type": "color"
+          },
+          "background": {
+            "value": "#ffffff00",
+            "type": "color"
+          },
+          "background-hover": {
+            "value": "#0000000d",
+            "type": "color"
+          },
+          "background-active": {
+            "value": "#0000001a",
+            "type": "color"
+          },
+          "stroke": {
+            "value": "#000000ff",
+            "type": "color"
+          },
+          "stroke-hover": {
+            "value": "#000000ff",
+            "type": "color"
+          },
+          "stroke-active": {
+            "value": "#000000ff",
+            "type": "color"
+          }
+        }
+      },
+      "brand-contrast": {
+        "primary": {
+          "text": {
+            "value": "#191239ff",
+            "type": "color"
+          },
+          "text-hover": {
+            "value": "#191239ff",
+            "type": "color"
+          },
+          "text-active": {
+            "value": "#191239ff",
+            "type": "color"
+          },
+          "background": {
+            "value": "#ffffffff",
+            "type": "color"
+          },
+          "background-hover": {
+            "value": "#f3ededff",
+            "type": "color"
+          },
+          "background-active": {
+            "value": "#ccccccff",
+            "type": "color"
+          },
+          "stroke": {
+            "value": "#ffffffff",
+            "type": "color"
+          },
+          "stroke-hover": {
+            "value": "#ffffffff",
+            "type": "color"
+          },
+          "stroke-active": {
+            "value": "#ffffffff",
+            "type": "color"
+          },
+          "text-disabled": {
+            "value": "#5a5a5aff",
+            "type": "color"
+          },
+          "background-disabled": {
+            "value": "#b6b6b6ff",
+            "type": "color"
+          },
+          "stroke-disabled": {
+            "value": "#d4d4d4ff",
+            "type": "color"
+          }
+        },
+        "secondary": {
+          "text": {
+            "value": "#ffffffff",
+            "type": "color"
+          },
+          "text-hover": {
+            "value": "#ffffffff",
+            "type": "color"
+          },
+          "text-active": {
+            "value": "#ffffffff",
+            "type": "color"
+          },
+          "background": {
+            "value": "#ffffff00",
+            "type": "color"
+          },
+          "background-hover": {
+            "value": "#ffffff0d",
+            "type": "color"
+          },
+          "background-active": {
+            "value": "#ffffff1a",
+            "type": "color"
+          },
+          "stroke": {
+            "value": "#ffffffff",
+            "type": "color"
+          },
+          "stroke-hover": {
+            "value": "#ffffffff",
+            "type": "color"
+          },
+          "stroke-active": {
+            "value": "#ffffffff",
+            "type": "color"
+          }
+        }
+      }
+    },
+    "nav": {
+      "background": {
+        "value": "#ffffffff",
+        "type": "color"
+      },
+      "link-hover": {
+        "value": "#2a2a2acc",
+        "type": "color"
+      },
+      "link": {
+        "value": "#000000ff",
+        "type": "color"
+      },
+      "brand-logo": {
+        "value": "#000000ff",
+        "type": "color"
+      },
+      "-stroke": {
+        "value": "#e4e4e4ff",
+        "type": "color"
+      },
+      "progress-bar-complete": {
+        "value": "#c3dbb8ff",
+        "type": "color"
+      },
+      "progress-bar-uncompleted": {
+        "value": "#e4e4e4ff",
+        "type": "color"
+      }
+    },
+    "system": {
+      "focus-stroke": {
+        "value": "#e71990ff",
+        "type": "color"
+      },
+      "transparent": {
+        "value": "#edf2f700",
+        "type": "color"
+      },
+      "price-discounted": {
+        "value": "#001df3ff",
+        "type": "color"
+      },
+      "hero-text": {
+        "value": "#ffffffff",
+        "type": "color"
+      }
+    }
+  }
+}
