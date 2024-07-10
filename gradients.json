@@ -1,0 +1,260 @@
+{
+  "gradient": {
+    "brand-accent-2": {
+      "background-opacity": {
+        "value": {
+          "to": {
+            "type": "point",
+            "value": {
+              "x": {
+                "type": "size",
+                "value": 0.5
+              },
+              "y": {
+                "type": "size",
+                "value": 0.9999999999999999
+              }
+            }
+          },
+          "from": {
+            "type": "point",
+            "value": {
+              "x": {
+                "type": "size",
+                "value": 0.5
+              },
+              "y": {
+                "type": "size",
+                "value": 0
+              }
+            }
+          },
+          "type": {
+            "type": "string",
+            "value": "Linear"
+          },
+          "aspectRatio": {
+            "type": "size"
+          },
+          "stops": {
+            "0": {
+              "type": "gradientStop",
+              "position": {
+                "type": "size",
+                "value": 0
+              },
+              "color": {
+                "type": "color",
+                "value": "#ebeeffff"
+              }
+            },
+            "1": {
+              "type": "gradientStop",
+              "position": {
+                "type": "size",
+                "value": 1
+              },
+              "color": {
+                "type": "color",
+                "value": "#1134eaff"
+              }
+            }
+          }
+        },
+        "type": "gradient"
+      }
+    },
+    "brand-accent-1": {
+      "background-opacity": {
+        "value": {
+          "to": {
+            "type": "point",
+            "value": {
+              "x": {
+                "type": "size",
+                "value": 0.5
+              },
+              "y": {
+                "type": "size",
+                "value": 0.9999999999999999
+              }
+            }
+          },
+          "from": {
+            "type": "point",
+            "value": {
+              "x": {
+                "type": "size",
+                "value": 0.5
+              },
+              "y": {
+                "type": "size",
+                "value": 0
+              }
+            }
+          },
+          "type": {
+            "type": "string",
+            "value": "Linear"
+          },
+          "aspectRatio": {
+            "type": "size"
+          },
+          "stops": {
+            "0": {
+              "type": "gradientStop",
+              "position": {
+                "type": "size",
+                "value": 0
+              },
+              "color": {
+                "type": "color",
+                "value": "#ffffffff"
+              }
+            },
+            "1": {
+              "type": "gradientStop",
+              "position": {
+                "type": "size",
+                "value": 1
+              },
+              "color": {
+                "type": "color",
+                "value": "#d507b4ff"
+              }
+            }
+          }
+        },
+        "type": "gradient"
+      }
+    },
+    "brand-contrast": {
+      "background-opacity": {
+        "value": {
+          "to": {
+            "type": "point",
+            "value": {
+              "x": {
+                "type": "size",
+                "value": 0.5
+              },
+              "y": {
+                "type": "size",
+                "value": 0.9999999999999999
+              }
+            }
+          },
+          "from": {
+            "type": "point",
+            "value": {
+              "x": {
+                "type": "size",
+                "value": 0.5
+              },
+              "y": {
+                "type": "size",
+                "value": 0
+              }
+            }
+          },
+          "type": {
+            "type": "string",
+            "value": "Linear"
+          },
+          "aspectRatio": {
+            "type": "size"
+          },
+          "stops": {
+            "0": {
+              "type": "gradientStop",
+              "position": {
+                "type": "size",
+                "value": 0
+              },
+              "color": {
+                "type": "color",
+                "value": "#00000017"
+              }
+            },
+            "1": {
+              "type": "gradientStop",
+              "position": {
+                "type": "size",
+                "value": 1
+              },
+              "color": {
+                "type": "color",
+                "value": "#ffffff00"
+              }
+            }
+          }
+        },
+        "type": "gradient"
+      }
+    },
+    "system": {
+      "hero-opacity": {
+        "value": {
+          "to": {
+            "type": "point",
+            "value": {
+              "x": {
+                "type": "size",
+                "value": 0.5
+              },
+              "y": {
+                "type": "size",
+                "value": 0.9999999999999999
+              }
+            }
+          },
+          "from": {
+            "type": "point",
+            "value": {
+              "x": {
+                "type": "size",
+                "value": 0.5
+              },
+              "y": {
+                "type": "size",
+                "value": 0
+              }
+            }
+          },
+          "type": {
+            "type": "string",
+            "value": "Linear"
+          },
+          "aspectRatio": {
+            "type": "size"
+          },
+          "stops": {
+            "0": {
+              "type": "gradientStop",
+              "position": {
+                "type": "size",
+                "value": 0
+              },
+              "color": {
+                "type": "color",
+                "value": "#00000017"
+              }
+            },
+            "1": {
+              "type": "gradientStop",
+              "position": {
+                "type": "size",
+                "value": 1
+              },
+              "color": {
+                "type": "color",
+                "value": "#ffffff00"
+              }
+            }
+          }
+        },
+        "type": "gradient"
+      }
+    }
+  }
+}
